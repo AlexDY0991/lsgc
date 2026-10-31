@@ -1,0 +1,51 @@
+16-second 2.39:1 cinematic montage, eight hard-cut shots of two seconds each: hands from five thousand years of Chinese silk-making work in one accelerating rhythm, ancient and present day alternating, ending on the single cut of a pair of Song-dynasty shears through a bolt of silk. Every shot is a different person at work; the energy rises from the first shot to the last.
+
+REFERENCES
+@char_neolithic — the Neolithic weaver: take her face, bone hairpin, short-sleeved undyed hemp tunic; ignore the grey studio backdrop.
+@char_tang_weaver — the Tang-dynasty weaver: face, low bun, dark muted red wide sleeves; ignore the backdrop.
+@char_song_weaver — the young Song-dynasty weaver: face, grey-blue head cloth and clothes, apron; ignore the backdrop.
+@char_song_drawboy — the Song-dynasty draw-loom operator: face, pale grey head cloth, undyed cross-collar jacket; ignore the backdrop.
+@char_song_silkwoman — the Song-dynasty silk woman, about forty: face, dark grey head cloth, dark grey narrow sleeves rolled up, apron; ignore the backdrop.
+@prop_backstrap_loom_3v2 — the frameless Neolithic backstrap loom (sticks, warp, braided hide strap, bone beater); geometry only.
+@prop_tang_loom_3v — the Tang slanted loom; geometry only.
+@prop_hualou_3v2 — the large Song draw loom with its tall tower; geometry only.
+@prop_reel_3v — the Song treadle silk reel with its hexagonal reel and boiling pot; geometry only.
+@ref_shears_single — the Song shears: ONE forged iron bar bent into a U-shaped spring loop at the back, two crossed blades at the front, NO finger rings, NO pivot screw. This is the only shape of shears in the clip.
+@sb_3_2 @look_tang_ling_v2 @sb_6_3 @sb2_hb_fold @sb2_hb_pack @look_song_reeling_v2 @sb_6_7 — storyboard frames: take the framing, light and setting of the matching shot; ignore anything that contradicts the character sheets.
+@style_dfsy_41_6 @style_dfsy_59_6 @style_dfsy_80_2 — tone references only: colour, light, contrast and grain; ignore their content and people.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. One soft directional window light per shot, no visible light beams. Old spherical primes, 50–85 mm, shallow depth of field, out-of-focus foreground objects, off-centre framing, heads may be cropped. Light film grain, no sharpening, no HDR, no skin smoothing. Ordinary-looking people, real skin with pores and lines, worn, creased, faded clothes, dust and wear everywhere. The present-day shots keep the same restraint: cool white daylight or blue-grey dawn, never bright advertising light. No glowing threads anywhere. No text, no logos, no signs.
+
+CHARACTERS
+Neolithic weaver — calm, strong, focused, never looks at the camera.
+Tang weaver — quiet, precise, eyes on the warp.
+Song weaver and draw-loom operator — practised, quick, in step with each other.
+Song silk woman — weathered, steady hands, never smiles.
+Present-day Hangzhou merchants (a woman about fifty in a dark knit cardigan; a man in his thirties in an old jacket) — unposed, busy, never look at the camera.
+
+PROP RULES
+Shears: only the U-spring shears of @ref_shears_single, held in the fist, squeezed to cut. Never ring-handled modern scissors in the ancient shots.
+Every hand has five fingers and holds only what the shot names.
+
+SHOTS
+0.0–2.0s — Song reeling room, 85 mm, slow push-in. @char_song_silkwoman's wet hands draw filaments from cocoons in a steaming iron pot; behind her the hexagonal reel of @prop_reel_3v spins. BACKGROUND: dark wooden wall, a lattice window on the left, steam lit by its grey light. Hard cut.
+2.0–4.0s — Neolithic stilt house, 50 mm, low angle close on the hands, push-in. @char_neolithic's bare forearms drive the bone beater down between the warp threads of @prop_backstrap_loom_3v2; the pale warp threads vibrate like strings. BACKGROUND: dim thatched interior, grey daylight from the doorway on the left. Hard cut on the beat of the beater.
+4.0–6.0s — Tang weaving room by West Lake, 65 mm, push-in. @char_tang_weaver's hand in a dark red sleeve throws the shuttle through the warp of @prop_tang_loom_3v from right to left; four-petal persimmon-calyx pattern on the cream damask below. BACKGROUND: wooden lattice window on the left with lake mist. Hard cut as the shuttle leaves frame left.
+6.0–8.0s — Song workshop, 35 mm, steep low angle looking up the tower of @prop_hualou_3v2. @char_song_drawboy on the tower pulls a bundle of cords upward with both hands; below, out of focus, @char_song_weaver bends to the shuttle. BACKGROUND: dark roof beams, a grey lattice window on the left. Hard cut.
+8.0–10.0s — Present-day Hangzhou wholesale silk stall at early morning, 65 mm, handheld push-in. The merchant woman folds a pale silk shirt in three quick movements on the counter. BACKGROUND: rows of silk garments on rails, cool fluorescent light, no readable signs. Hard cut.
+10.0–12.0s — Song workshop, 85 mm, close on the hands, quick push-in. @char_song_weaver throws the shuttle from right to left and pulls the reed toward her with a hard knock. BACKGROUND: blurred warp threads, grey window light from the left. Hard cut on the knock.
+12.0–14.0s — Present-day wholesale market entrance at blue-grey dawn, 50 mm, handheld. The merchant man heaves a large woven-plastic bale onto his shoulder and turns away. BACKGROUND: stacked bales, a hand cart, street lamps still on. Hard cut.
+14.0–16.0s — Song cutting table, 65 mm, close, push-in. On an old wooden table a bolt of cream damask silk; @char_song_silkwoman's hands in rolled dark grey sleeves squeeze the U-spring shears of @ref_shears_single and cut the silk from right to left in one decisive stroke; the cut silk parts. The clip ends on the moment the cut completes. BACKGROUND: dark workshop, lattice window on the left.
+
+SOUND
+No music, no voices, no humming. Only diegetic work sounds, each starting on its cut frame and growing denser through the clip: the bubbling pot and the creak of the reel; the wooden knock of the bone beater; the clack of the shuttle; the knock of the draw loom; the soft rustle of a folded silk shirt; the thump of the reed; the scrape of a bale on a shoulder and dawn street ambience; the crisp single snip of the shears at 15.6s.
+
+KEEP CONSISTENT
+- Eight shots, eight hard cuts at 2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0s; no dissolves, no morphs, no flashes.
+- Each person looks exactly like their character sheet, in the clothes of that sheet.
+- Ancient shots never show modern objects; present-day shots never show ancient clothing.
+- Shuttles always travel from right to left.
+- The shears are the U-spring shears only.
+- Low-key, low-saturation, grainy, never golden, never glossy; no glowing threads; no text.
+- The clip ends on the completed cut of the silk.

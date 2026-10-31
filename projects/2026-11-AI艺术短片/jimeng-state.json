@@ -784,6 +784,15 @@
    "submitted": true,
    "resourceId": "ad3d0f24-4516-4382-9a82-4f3621f64c7a",
    "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_window_rise.png"
+  },
+  "V10_climax_t1": {
+   "updateId": "fcb48c8f-4a19-40d9-83d0-cb2716dbf3fb",
+   "nodeId": "node_10m3mm3bfp",
+   "title": "视频·V10 高潮千年一梭 测试1",
+   "submitId": "ecc48ff4-a668-4fb3-9ef4-42e480ff9bcd",
+   "submitted": true,
+   "resourceId": "332f291a-22b9-4345-8921-c8156f64253e",
+   "result": "projects/2026-11-AI艺术短片/video/test/V10_climax_t1.mp4"
   }
  },
  "ledger": {
@@ -1311,6 +1320,12 @@
     "credits": 8,
     "submitId": "7fdbfebf-4e8e-48a0-9ea1-4be2b40a5077",
     "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "V10_climax_t1",
+    "credits": 144,
+    "submitId": "ecc48ff4-a668-4fb3-9ef4-42e480ff9bcd",
+    "at": "2026-10-31 23:41"
    }
   ]
  }
