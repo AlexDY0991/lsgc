@@ -47,3 +47,5 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 第一批需求：**丽尚国潮 2026 年度总结视频**，2027 年 1 月发，以小丽为核心，呈现由 Claude 构思。下一步：brand-video 第 0 步（创意方向，等用户选）。
   - 用户（2026-10-31）：下周给完整的 2026 大事件（时间、地点、事件）；小丽样子固定、打扮可变；发视频号等多个官方媒体；预算先不考虑。已完成整体设计和脚本框架：`projects/2027-01-2026年度片/design.md`（核心创意、三种风格 S1/S2/S3、90 秒结构和事件占位 E1–E12、转场库、连贯性设定草案和用户在画布里的审美偏好、画幅、声音、参考、流程关口）。三张风格样张在 `style_frames/`，也在小丽画布里。**等用户选风格、确认"金色圆标做贯穿道具"，然后收到事件清单后进入第 1 步（资产）。**
   - 注意：在小丽对话里 `chat --download` 会把整条对话的 70 多张历史图全部下载下来；只需要新图时不要加 `--download`，用最后几个 artifact 的 URL 单独 `download`。
+  - **2026-10-31 更正：用户说旧画布 `ot6jDEQsAo` 里有很多错误的小丽，Claude 出的第一版样张也不对。** 用户新建画布 `2ujk8uexd7gg`（https://www.lovart.ai/canvas?projectId=2ujk8uexd7gg），只放了一张原型参考图（用户上传 `https://a.lovart.ai/artifacts/user/2wEl70ukql2RfHJ6.png`，副本 `brand/xiaoli_prototype_sheet.png`）。**以后所有小丽的图都在新画布里做。** 外形锁定写在 `brand/xiaoli_identity.md`，每次生成都附原型图并带锁定段。
+  - 新画布里 Lovart Agent 看不到画布上的图（试过），所以参考图必须用 `--attachments` 传。新画布对话：`5dea0f52-092a-401c-9f62-52c2b180b73a`（thinking 模式）。画布是公开可看的，必要时可用无头浏览器打开页面找到图片地址，再用客户端 `download` 下载单张。
