@@ -23,7 +23,7 @@ FONT = '/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc'
 GOLD = (219, 190, 104)
 
 spec = importlib.util.spec_from_file_location('sb', P / 'prompts/storyboard_v1.py'); sb = importlib.util.module_from_spec(spec); spec.loader.exec_module(sb)
-SRC = {'5.2': P / 'assets/look_v2/look_tang_ling_v2.png', '6.6': P / 'assets/look_v2/look_song_reeling_v2.png',
+SRC = {'6.2': P / 'assets/v1/prop_song_painting_v1.png', '5.2': P / 'assets/look_v2/look_tang_ling_v2.png', '6.6': P / 'assets/look_v2/look_song_reeling_v2.png',
        '7.2': REPO / 'brand/photos/lanzhou_yaou_intl_sunrise.jpg', '8.1': REPO / 'brand/photos/lanzhou_yaou_intl_night_aerial.jpg'}
 
 # 每镜的运镜：(zoom 起, zoom 止, 中心x 起, 中心x 止, 中心y 起, 中心y 止)；镜头向左移 = 中心 x 变小
@@ -216,7 +216,9 @@ def mix():
 
 if __name__ == '__main__':
     assert all(abs(SH[i][2] - SH[i + 1][1]) < 1e-6 for i in range(len(SH) - 1))
-    subs = voice(); score(); mix(); picture(subs)
+    subs = voice()
+    if not (OUT / 'score.wav').exists(): score()
+    mix(); picture(subs)
     final = OUT / 'yuanqi_animatic_v1.mp4'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(OUT / 'picture.mp4'), '-i', str(OUT / 'mix.wav'), '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k',
                     '-shortest', str(final)], check=True)
