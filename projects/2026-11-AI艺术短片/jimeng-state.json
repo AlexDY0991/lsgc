@@ -43,6 +43,93 @@
    "submitted": true,
    "resourceId": "66a49f6f-32c3-478e-ba8e-7c56a2ed1b16",
    "result": "projects/2026-11-AI艺术短片/assets/v1/loc_huanbei_dusk_v1.png"
+  },
+  "ref_nanjing_huanbei_day": {
+   "uploadResourceId": "aa42add2-666b-42e6-a632-a2b87e843f40",
+   "updateId": "c98cc118-e34f-469d-bfb8-ff74bc477629",
+   "nodeId": "node_gkw12x9npe",
+   "title": "REF · ref_nanjing_huanbei_day"
+  },
+  "ref_lanzhou_yaou_shangsha_day": {
+   "uploadResourceId": "30d0e7f8-110f-41c7-9567-83bce4420f21",
+   "updateId": "334641eb-fd6e-4667-b352-d12ab94f4c20",
+   "nodeId": "node_7016nfyk4w",
+   "title": "REF · ref_lanzhou_yaou_shangsha_day"
+  },
+  "ref_lanzhou_yaou_intl_sunrise": {
+   "uploadResourceId": "776f1c6c-695e-4a13-82f4-51187f04cfa6",
+   "updateId": "2173f005-779b-4e09-bb4f-906e1b8b4237",
+   "nodeId": "node_zcyztjngz1",
+   "title": "REF · ref_lanzhou_yaou_intl_sunrise"
+  },
+  "ref_lanzhou_yaou_intl_night_aerial": {
+   "uploadResourceId": "76bfb772-94f9-4cdd-9071-419b0dd8eec8",
+   "updateId": "79a44e32-cdb7-4bf7-8854-a52680350e9c",
+   "nodeId": "node_m26azea0sk",
+   "title": "REF · ref_lanzhou_yaou_intl_night_aerial"
+  },
+  "loc_nj_huanbei_dusk_v1": {
+   "updateId": "17544ce7-8636-4796-a174-90cd4965b297",
+   "nodeId": "node_qv8jgrb97w",
+   "title": "场景·南京环北黄昏 v1",
+   "submitId": "481a0e11-d745-4b45-8dc6-0312e0d7d3a2",
+   "submitted": true,
+   "resourceId": "dbedb680-5763-4641-a2f4-22e823a0dc13",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_nj_huanbei_dusk_v1.png"
+  },
+  "loc_lz_shangsha_dusk_v1": {
+   "updateId": "453a2eb9-0747-4b9f-aff7-ca3e47ad1fae",
+   "nodeId": "node_jsgtdt985v",
+   "title": "场景·兰州亚欧商厦黄昏 v1",
+   "submitId": "d1809214-5307-4cda-b925-86f9def054b3",
+   "submitted": true,
+   "resourceId": "bef569d8-2382-4ffb-8674-ff82bbb5033a",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_lz_shangsha_dusk_v1.png"
+  },
+  "loc_silk_dunes_v1": {
+   "updateId": "b53a04ca-fd05-47fe-85bf-424138ac6eaa",
+   "nodeId": "node_crn8ngh6g5",
+   "title": "场景·丝路·绸成沙丘 v1",
+   "submitId": "efb655dd-26e9-45a9-87fd-b5218ada4d4b",
+   "submitted": true,
+   "resourceId": "db4f5dd5-b222-41e7-9aa1-a8c5f5e4c0a6",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_silk_dunes_v1.png"
+  },
+  "loc_jincheng_river_v1": {
+   "updateId": "13b04f99-f0fa-47c7-9932-a1880b25b730",
+   "nodeId": "node_1nj13wzaa9",
+   "title": "场景·金城黄河（古） v1",
+   "submitId": "804164d6-59c3-4988-b683-7706866cb7d8",
+   "submitted": true,
+   "resourceId": "b1a03c99-724d-42f3-9114-5265b8b72209",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_jincheng_river_v1.png"
+  },
+  "loc_jiangnan_v1": {
+   "updateId": "8b848d2f-241e-449c-b8eb-71b44075623d",
+   "nodeId": "node_jxwg9wx042",
+   "title": "场景·江南水乡晨雾 v1",
+   "submitId": "be74f6a1-5e3c-4915-a2b8-cbc10f20c1cc",
+   "submitted": true,
+   "resourceId": "4d7fd82a-76b1-4ade-90a2-f6297155bfa3",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_jiangnan_v1.png"
+  },
+  "prop_backstrap_loom_v1": {
+   "updateId": "b4b44201-3d55-48ad-9f6c-841118394f0d",
+   "nodeId": "node_bet2frsenb",
+   "title": "道具·原始腰机和手 v1",
+   "submitId": "95d4cd52-8664-4930-bd89-793fadca0e21",
+   "submitted": true,
+   "resourceId": "329c5e4b-d887-4d8f-be75-53d27f52eebd",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_backstrap_loom_v1.png"
+  },
+  "prop_tang_ling_v1": {
+   "updateId": "9bfd1c5d-025e-42e8-bab3-4d889a7f8fba",
+   "nodeId": "node_ed3sm4ddnk",
+   "title": "道具·唐代红袖织绫 v1",
+   "submitId": "07867be8-187b-4d0b-8cb5-94e7878e1a3f",
+   "submitted": true,
+   "resourceId": "777c0c55-94cf-4886-848c-f91b7f41c98f",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_tang_ling_v1.png"
   }
  },
  "ledger": {
@@ -72,6 +159,48 @@
     "credits": 8,
     "submitId": "7f8ca2dd-61ef-4c09-ab71-21f6a2189531",
     "at": "2026-10-31 15:24"
+   },
+   {
+    "key": "loc_nj_huanbei_dusk_v1",
+    "credits": 8,
+    "submitId": "481a0e11-d745-4b45-8dc6-0312e0d7d3a2",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "loc_lz_shangsha_dusk_v1",
+    "credits": 8,
+    "submitId": "d1809214-5307-4cda-b925-86f9def054b3",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "loc_silk_dunes_v1",
+    "credits": 8,
+    "submitId": "efb655dd-26e9-45a9-87fd-b5218ada4d4b",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "loc_jincheng_river_v1",
+    "credits": 8,
+    "submitId": "804164d6-59c3-4988-b683-7706866cb7d8",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "loc_jiangnan_v1",
+    "credits": 8,
+    "submitId": "be74f6a1-5e3c-4915-a2b8-cbc10f20c1cc",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "prop_backstrap_loom_v1",
+    "credits": 8,
+    "submitId": "95d4cd52-8664-4930-bd89-793fadca0e21",
+    "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "prop_tang_ling_v1",
+    "credits": 8,
+    "submitId": "07867be8-187b-4d0b-8cb5-94e7878e1a3f",
+    "at": "2026-10-31 15:46"
    }
   ]
  }

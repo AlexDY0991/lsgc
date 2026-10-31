@@ -18,6 +18,17 @@
 | 开场·竹林暗场 v1 | `assets/v1/loc_bamboo_v1.png` | node_ncy1thggdk | 🟡 待确认 | 留白、左上硬光、青绿都对；**竹身上的淡金经纬细纹没有出来**，打算在视频里用丝线从竹节"抽出"来表现，不一定要在静帧里有 |
 | 场景·南宋丝织作坊 v1 | `assets/v1/loc_song_workshop_v1.png` | node_jrpq773eck | 🟡 待确认 | 花楼机上下两人（拉花 + 织工）、左侧直棂窗硬光、蚕茧筐、丝绸匹料、络丝架都有；前景右侧留了空地。花楼机结构是模型理解的样子，需要学校老师看一眼是否像宋代 |
 | 场景·环北黄昏 v1 | `assets/v1/loc_huanbei_dusk_v1.png` | node_z72ph9bxzm | 🟡 待确认 | 建筑外形、倒锥玻璃体、天际线和电视塔对；主招牌「杭州环北丝绸服装城」和圆标正确。**左下「杭州银行」招牌字变形了**；构图比原照片稍微拉远。可以在后期用原照片的招牌区域替换，或重生成 |
+| 南京环北（白天，用户提供） | `brand/photos/nanjing_huanbei_day.jpg` | `ref_nanjing_huanbei_day` node_gkw12x9npe | ✅ 用户提供 | — |
+| 兰州亚欧商厦（白天，用户提供） | `brand/photos/lanzhou_yaou_shangsha_day.jpg` | `ref_lanzhou_yaou_shangsha_day` node_7016nfyk4w | ✅ 用户提供 | — |
+| 兰州亚欧国际大厦（日出航拍，用户提供） | `brand/photos/lanzhou_yaou_intl_sunrise.jpg` | `ref_lanzhou_yaou_intl_sunrise` node_zcyztjngz1 | ✅ 用户提供 | 光线已经很好，可直接做首帧参考 |
+| 兰州亚欧国际大厦（夜景俯拍，用户提供） | `brand/photos/lanzhou_yaou_intl_night_aerial.jpg` | `ref_lanzhou_yaou_intl_night_aerial` node_m26azea0sk | ✅ 用户提供 | 适合第 8 段大地俯瞰的起点 |
+| 江南水乡晨雾 v1 | `assets/v1/loc_jiangnan_v1.png` | node_jxwg9wx042 | 🟡 待确认 | 留白、晨雾、左上光对；**丝线画成了一团烟雾状**，比 `prop_silk` 蓬松，视频里要强调"一缕" |
+| 原始腰机和手 v1 | `assets/v1/prop_backstrap_loom_v1.png` | node_bet2frsenb | 🟡 待确认 | 席地而坐、经线向左绷直、骨质打纬刀、五指正常；织物像麻布，偏粗；经线下面多了一个陶罐，位置有点怪 |
+| 丝路·绸成沙丘 v1 | `assets/v1/loc_silk_dunes_v1.png` | node_crn8ngh6g5 | 🟡 待确认 | 绸缎化沙丘的意境很好；**驼队朝右走，和"向西＝向左"相反**，视频里要改方向；丝线偏蓬松 |
+| 金城黄河古渡口 v1 | `assets/v1/loc_jincheng_river_v1.png` | node_1nj13wzaa9 | 🟡 待确认 | 黄土山、羊皮筏子、驼队、无现代建筑，都对。注意：黄河在兰州是自西向东流，按"右＝东"应从左往右流，视频提示词要按这个写 |
+| 唐代红袖织绫 v1 | `assets/v1/prop_tang_ling_v1.png` | node_ed3sm4ddnk | 🟡 待确认 | 红袖、四瓣柿蒂纹、窗外西湖晨雾都对；织机的经线方向和织物的关系不太符合真实织机（特写里不明显） |
+| 南京环北黄昏 v1 | `assets/v1/loc_nj_huanbei_dusk_v1.png` | node_qv8jgrb97w | 🟡 待确认 | 建筑、招牌「环北 服装批发市场」都对，圆柱玻璃裙楼亮灯 |
+| 兰州亚欧商厦黄昏 v1 | `assets/v1/loc_lz_shangsha_dusk_v1.png` | node_jsgtdt985v | 🟡 待确认 | 建筑、金色「亚欧商厦」字和标志都对；小招牌字模糊不影响 |
 | logo 文字标 | `brand/logo_wordmark.png`（2000×445） | — | ✅ 用户提供 | 高清位图，可描成矢量做走针动画 |
 | logo 圆标 | `brand/logo_mark.png`（2000×1995） | — | ✅ 用户提供 | 同上 |
 
