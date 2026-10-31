@@ -131,10 +131,15 @@ def mix():
     inputs, chains, labels = ['-i', str(OUT / 'score.wav')], [], []
     for i, (t, key, _) in enumerate(LINES, 1):
         inputs += ['-i', str(OUT / f'{key}.wav')]
-        chains.append(f'[{i}]aresample=48000,pan=stereo|c0=c0|c1=c0,volume=2.0,adelay={int(t*1000)}|{int(t*1000)}[v{i}]'); labels.append(f'[v{i}]')
+        chains.append(f'[{i}]aresample=48000,pan=stereo|c0=c0|c1=c0,volume={1.5 if key == 'lv' else 2.0},adelay={int(t*1000)}|{int(t*1000)}[v{i}]'); labels.append(f'[v{i}]')
     # 旁白时把配乐压低；真空段（80–84.5）配乐几乎静音
+    # 音乐增益曲线：叙述段压低；高潮 60→76.5s 从 0.6 推到 1.5（约 +8 dB）；爆点保持；真空几乎静音；释放段饱满、旁白时让一让
     duck = '+'.join(f'between(t,{t-0.2:.2f},{t+5.5:.2f})' for t, k, _ in LINES if k not in ('lv',))
-    vol = f"if(between(t,80.0,84.5),0.08,if({duck},0.45,0.8))"
+    vol = (f"if(lt(t,60),if({duck},0.38,0.6),"
+           f"if(lt(t,76.5),0.6+0.9*(t-60)/16.5,"
+           f"if(lt(t,80),1.5,"
+           f"if(lt(t,84.5),0.12,"
+           f"if({duck},0.7,1.1)))))")
     graph = ';'.join(chains) + f";[0]volume='{vol}':eval=frame[m];[m]{''.join(labels)}amix=inputs={1+len(labels)}:normalize=0:duration=first[a]"
     subprocess.run(['ffmpeg', '-v', 'error', '-y'] + inputs + ['-filter_complex', graph, '-map', '[a]', '-t', str(DUR), '-ar', '48000', str(OUT / 'mix_raw.wav')], check=True)
     r = subprocess.run(['ffmpeg', '-hide_banner', '-i', str(OUT / 'mix_raw.wav'), '-af', 'ebur128', '-f', 'null', '-'], capture_output=True, text=True).stderr
@@ -186,7 +191,8 @@ if __name__ == '__main__':
     assert all(abs(SHOTS[i][1] - SHOTS[i + 1][0]) < 1e-6 for i in range(len(SHOTS) - 1))
     subs = voice()
     if not (OUT / 'score.wav').exists(): score()
-    mix(); picture(subs)
+    mix()
+    if not (OUT / 'picture.mp4').exists() or os.environ.get('REDRAW'): picture(subs)
     final = OUT / 'yuanqi_animatic_v2.mp4'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', str(OUT / 'picture.mp4'), '-i', str(OUT / 'mix.wav'), '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k',
                     '-shortest', str(final)], check=True)
