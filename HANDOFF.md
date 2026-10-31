@@ -43,3 +43,5 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 密钥用 `query-mode` 验证有效（只读、不花积分）。账号当前是 **fast 模式（消耗积分）**；unlimited 可用（`unlimited_enable: true`），无限模型：GPT Image 1.5、GPT Image 2（low 2K）、Midjourney、Nano Banana 2（2K）、Nano Banana Pro（2K）、Seedream 4 / 4.5、Seedream 5.0 Pro（1K，剩 19 天）。要不要切 unlimited 由用户决定（`set-mode` 是持久的服务器设置）。
   - 找 Lovart 里的 IP 素材：需要用户提供项目链接（`canvas?projectId=…`）或在网页上导出图片传到仓库；拿到素材库图片地址和 asset_id 后可以用 `chat --subjects` 引用。
   - 用户把品牌文档 `（已压缩）丽尚国潮集团简介2026.pdf` 放在 main，已复制到 `brand/`。BRAND.md 已按文档整理成草稿（🟡 待用户逐项确认）。从 PDF 截了文字标、圆形标、IP 人偶参考图，登记在 ASSETS.md（🟡）。
+  - **小丽画布已接通：** 用户给的分享链接 https://www.lovart.ai/r/eogm9ih 是画布「小丽」（项目 `ot6jDEQsAo`，对话 `f6a2e811-c1de-423c-8a64-96ed18691fad`）。新容器里：`project-add --project-id ot6jDEQsAo`（**不要加 `--name`**，会改服务器上的画布名），然后 `chat --project-id ot6jDEQsAo --thread-id f6a2e811-…` 就能接着原对话做，Lovart Agent 记得之前所有小丽的图。已用一条纯文字消息测试成功（Agent 回答标准形象以「小丽LILY角色设定板」为准）。注意：`chat` 返回整条对话历史，`failures` 里有历史上被拒的记录，判断本次结果要看最后一条。用户说 Lovart 模式可以自由切换。
+  - 第一批需求：**丽尚国潮 2026 年度总结视频**，2027 年 1 月发，以小丽为核心，呈现由 Claude 构思。下一步：brand-video 第 0 步（创意方向，等用户选）。
