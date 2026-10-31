@@ -712,6 +712,78 @@
    "updateId": "b21114f4-7516-4173-8ccd-2e43ea36b136",
    "nodeId": "node_2wa29gfmdh",
    "title": "REF · ref_shears_single"
+  },
+  "sb2_c6_cut": {
+   "updateId": "b50e51df-8999-44ad-b3d7-428bad900c06",
+   "nodeId": "node_kd8kts00st",
+   "title": "分镜v2 设计师剪开丝绸（与南宋剪帛匹配切）",
+   "submitId": "f95ff261-e22a-462b-bdd8-eac1a6974196",
+   "submitted": true,
+   "resourceId": "ff45cce3-07de-4bee-bcd6-6713ccaf526e",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_c6_cut.png"
+  },
+  "sb2_c6_lookup": {
+   "updateId": "d1063a43-68c5-45b3-8090-8a4af7c276fb",
+   "nodeId": "node_gsz3fhsmre",
+   "title": "分镜v2 设计师停下，抬头望向窗外（与新石器织女抬头匹配）",
+   "submitId": "525e468c-8e14-49c4-8d3c-ae9eebf9a133",
+   "submitted": true,
+   "resourceId": "e2810e40-5635-4c1a-9993-9567bf633d2d",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_c6_lookup.png"
+  },
+  "sb2_hb_fold": {
+   "updateId": "4f6f88ea-48a2-4c8c-8d02-3f3654076686",
+   "nodeId": "node_2k6h0sc72p",
+   "title": "分镜v2 环北商户叠丝绸",
+   "submitId": "613cfa4c-cb4f-4264-becc-13efbf6c0795",
+   "submitted": true,
+   "resourceId": "4dd7f2d3-a624-4734-9339-3f8eed0e50ee",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_hb_fold.png"
+  },
+  "sb2_hb_pack": {
+   "updateId": "acaf671b-37e4-4418-8e08-c8633d6169d7",
+   "nodeId": "node_1c4hj39e3b",
+   "title": "分镜v2 清晨，商户扛起货包",
+   "submitId": "bf79e08b-33a7-44cd-a823-1f3b54c5b5da",
+   "submitted": true,
+   "resourceId": "cd22a3b2-4127-42e9-8feb-722d7bc71640",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_hb_pack.png"
+  },
+  "sb2_mall_family": {
+   "updateId": "3daa59e1-893b-46df-99f5-144793d107cd",
+   "nodeId": "node_q8hbf09nyk",
+   "title": "分镜v2 兰州商场门口，一家三口走进灯光",
+   "submitId": "871b46b1-704e-4daf-962f-e78e4777be35",
+   "submitted": true,
+   "resourceId": "cadfe7ff-3d7b-4aac-b802-bf1cb10efa25",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_mall_family.png"
+  },
+  "sb2_river_people": {
+   "updateId": "1672e2b1-c3de-4e79-9742-50114b15390e",
+   "nodeId": "node_gg67fa2t6t",
+   "title": "分镜v2 今日兰州黄河边的人",
+   "submitId": "a3552f65-a00a-47f4-bc56-bd7b7d90b5f4",
+   "submitted": true,
+   "resourceId": "27d2fe82-8992-4d3b-9d7c-10c67ace1069",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_river_people.png"
+  },
+  "sb2_hb_smile": {
+   "updateId": "cb56a57b-fbb0-4a79-8839-dc66ee5953ab",
+   "nodeId": "node_ax9ya01sq9",
+   "title": "分镜v2 傍晚收摊，商户回头笑着打招呼",
+   "submitId": "f151edd7-67d0-49af-aa74-8c0357a756a9",
+   "submitted": true,
+   "resourceId": "4b43dc1a-4f67-4477-ab8a-608cd632c144",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_hb_smile.png"
+  },
+  "sb2_window_rise": {
+   "updateId": "e52d3029-0d10-4445-b515-38e29ebfba15",
+   "nodeId": "node_9yk9t7cm9a",
+   "title": "分镜v2 从工作室窗口望出去，城市亮灯",
+   "submitId": "7fdbfebf-4e8e-48a0-9ea1-4be2b40a5077",
+   "submitted": true,
+   "resourceId": "ad3d0f24-4516-4382-9a82-4f3621f64c7a",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v2/sb2_window_rise.png"
   }
  },
  "ledger": {
@@ -1191,6 +1263,54 @@
     "credits": 8,
     "submitId": "c28e64f6-b670-4dab-b4ba-a5474018c4f1",
     "at": "2026-10-31 16:43"
+   },
+   {
+    "key": "sb2_c6_cut",
+    "credits": 8,
+    "submitId": "f95ff261-e22a-462b-bdd8-eac1a6974196",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_c6_lookup",
+    "credits": 8,
+    "submitId": "525e468c-8e14-49c4-8d3c-ae9eebf9a133",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_hb_fold",
+    "credits": 8,
+    "submitId": "613cfa4c-cb4f-4264-becc-13efbf6c0795",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_hb_pack",
+    "credits": 8,
+    "submitId": "bf79e08b-33a7-44cd-a823-1f3b54c5b5da",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_mall_family",
+    "credits": 8,
+    "submitId": "871b46b1-704e-4daf-962f-e78e4777be35",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_river_people",
+    "credits": 8,
+    "submitId": "a3552f65-a00a-47f4-bc56-bd7b7d90b5f4",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_hb_smile",
+    "credits": 8,
+    "submitId": "f151edd7-67d0-49af-aa74-8c0357a756a9",
+    "at": "2026-10-31 23:01"
+   },
+   {
+    "key": "sb2_window_rise",
+    "credits": 8,
+    "submitId": "7fdbfebf-4e8e-48a0-9ea1-4be2b40a5077",
+    "at": "2026-10-31 23:01"
    }
   ]
  }
