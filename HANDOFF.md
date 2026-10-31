@@ -54,3 +54,7 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 注意：在小丽对话里 `chat --download` 会把整条对话的 70 多张历史图全部下载下来；只需要新图时不要加 `--download`，用最后几个 artifact 的 URL 单独 `download`。
   - **2026-10-31 更正：用户说旧画布 `ot6jDEQsAo` 里有很多错误的小丽，Claude 出的第一版样张也不对。** 用户新建画布 `2ujk8uexd7gg`（https://www.lovart.ai/canvas?projectId=2ujk8uexd7gg），只放了一张原型参考图（用户上传 `https://a.lovart.ai/artifacts/user/2wEl70ukql2RfHJ6.png`，副本 `brand/xiaoli_prototype_sheet.png`）。**以后所有小丽的图都在新画布里做。** 外形锁定写在 `brand/xiaoli_identity.md`，每次生成都附原型图并带锁定段。
   - 新画布里 Lovart Agent 看不到画布上的图（试过），所以参考图必须用 `--attachments` 传。新画布对话：`5dea0f52-092a-401c-9f62-52c2b180b73a`（thinking 模式）。画布是公开可看的，必要时可用无头浏览器打开页面找到图片地址，再用客户端 `download` 下载单张。
+- 2026-10-31 第三个窗口：
+  - `tools/setup.sh` 跑通；即梦 CLI 1.2.1 重装（安装脚本先读，用户批准后运行；下载时连接被重置几次，重试成功）。登录成功，有效期到 2026-10-31 20:07 UTC（约 6 小时）。`auth wait` 第一次报 `auth_dependency_failed`（可重试），用同一个 device code 重试就成功了。
+  - 账号 maestro 会员，可用 29,475 积分（11-22 到期 13,455；11-26 到期 3,700；11-27 到期 12,320）。模型里有 `seedream_5.0_pro`、`seedance_2.5_draft`、`seed_music_1.0`。
+  - 写好了小丽三视图定妆提示词 `projects/2027-01-2026年度片/prompts/xiaoli_turnaround_v1.md`（没生成）。**用户：小丽和年度片暂停，改做一个新片子**（内容等用户说明）。年度片画布、状态文件都还没建。
