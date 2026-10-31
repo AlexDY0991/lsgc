@@ -1,16 +1,20 @@
 # 交接文档 · 丽尚国潮素材工作室（2026-10-31 建立）
 
-## 下一个窗口（第二个窗口）先做这些
-1. 检查 `LOVART_ACCESS_KEY`、`LOVART_SECRET_KEY` 有没有读到。读不到就请用户核对环境设置（变量名、保存后要新开会话），不要让用户把密钥贴进聊天。
-2. 读到了：读 Lovart 官方 SKILL.md，用 `projects --json`、`threads --all --json` 看用户 Lovart 账号里有哪些项目。**用户说 Lovart 里有丽尚国潮的 IP 素材**，找到后列给用户看，逐个确认能不能用，再登记进 ASSETS.md。只查看、不生成，不花积分。
-3. 即梦登录可能已过期（第一个窗口的登录到 UTC 18:19），要用即梦时按 jimeng-canvas skill 重新登录。
-4. 用户会上传品牌信息文档：放进 `brand/`，整理进 BRAND.md 给用户确认（只写文档里有的，不编造）。
-5. 问第一批需求和预算，按 skill 流程开始。
+## 工具分工（用户 2026-10-31 最新决定，替代之前的版本）
+- **Lovart 暂不使用**：用户试过，不好用。之后用户主动提起才再用。
+- **全部用即梦**：
+  - 图片、海报画面、人物 / 产品 / 场景资产：即梦 Seedream 5.0 Pro（`jm.py img`），做图可以直接做；
+  - 视频：即梦 Seedance 2.5 样片模式（先报价，在预算内运行）；
+  - 海报上的精确文字（品牌名、文案、参数）：用代码排版叠上去（见 brand-visuals skill），不靠模型写字。
+- 动态设计、代码渲染的片头片尾、字幕动画、配乐：用 higgsfield-motion / higgsfield-motion-saas skill；视频提示词用 higgsfield-timed-prompts skill。
 
-## 用户定的工具分工（2026-10-31）
-- **做图、海报、设计稿：主要用 Lovart。** 丽尚国潮的 IP 素材在 Lovart 里，Lovart 的工具也更多。
-- **做视频：用即梦**（样片模式，先报价再运行）。
-- 写实画面需要时也可以用即梦 Seedream，但默认先用 Lovart。
+## 下一个窗口先做这些
+1. 确认在 `claude/lsgc-studio-setup` 分支（main 分支是空的）。
+2. 通读 CLAUDE.md、BRAND.md、ASSETS.md 和全部 skill（见下面「新窗口的第一步」第 1 条）。
+3. `bash tools/setup.sh`。
+4. 安装即梦 CLI（安装脚本先下载、读一遍再运行），`auth login --force`，把授权链接用中文发给用户，然后 `auth wait --device-code`。登录后 `auth account` 看积分，`model list` 核对模型。
+5. 请用户上传品牌信息文档：放进 `brand/`，整理进 BRAND.md 给用户确认，只写文档里有的内容。丽尚国潮的 IP 素材原来在 Lovart 里，请用户把 IP 形象图导出后上传到 `brand/`。
+6. 问第一批要做什么、预算多少，然后按 skill 流程和确认关口开始。
 
 ## 新窗口的第一步（通用）
 1. 通读 `CLAUDE.md`、`BRAND.md`、`ASSETS.md`，以及 skill：`brand-video`（重点）、`brand-visuals`、`jimeng-canvas`、`lovart`、`higgsfield-timed-prompts`、`higgsfield-motion`。
