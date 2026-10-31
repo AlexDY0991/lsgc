@@ -24,7 +24,12 @@ $L projects / threads / status / result / download   # 项目、对话、状态�
 $L query-mode / set-mode                             # 查看 / 切换模式（fast 模式消耗积分）
 ```
 - 下载的文件默认放在 `/tmp/lovart`，交付前复制到项目目录。状态记录在 `~/.lovart/state.json`。
-- **官方规则：** 只用客户端的命令，不直接调接口；遇到需要确认的高消耗步骤（`confirm`）要先问用户，不能自动确认。
+- **`projects`、`threads`、`config` 只读本机的 `~/.lovart/state.json`，不连 Lovart 服务器**（2026-10-31 读源码确认）。新容器里它们是空的，**查不到用户账号里已有的项目和素材**。`threads` 也没有 `--all` 参数。客户端没有列出远程项目、画布内容或素材库的命令。
+  - 要用账号里已有的项目：请用户给画布链接（`https://www.lovart.ai/canvas?projectId=…`，projectId 不是密钥），用 `project-add --project-id … --name …` 登记（会远程校验并取项目名）。
+  - 要看、要确认已有素材（例如 IP 形象）：请用户从 Lovart 下载原图传给我们，放进 `brand/`，逐个确认后登记 ASSETS.md；生成时用 `upload` 传回作参考。用户素材库里的图也可以用 `--subjects` 引用（要素材库 URL，可沿用已有审核）。
+  - 项目里设了品牌套件（brand kit）会自动带上；引用别的套件用 `--kits`。
+  - 新容器里 `~/.lovart/state.json` 不在了；项目 ID 和对话 ID 要记在 ASSETS.md 第 6 节，开工时用 `project-add` 恢复。
+- **官方规则：** 只用客户端的命令，不直接调接口；遇到需要确认的高消耗步骤（`confirm`）要先问用户，不能自动确认。第一次 `chat` 之前先跑 `config --json` 和 `threads --json`，相关话题沿用已有的对话（`--thread-id`）。
 - 结果里的 `failures` 数组即使有图返回也要检查。
 
 ## 适合用来做什么
