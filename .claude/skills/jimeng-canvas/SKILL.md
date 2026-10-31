@@ -11,7 +11,7 @@ description: 即梦（Jimeng / dreamina）画布命令行工具：安装登录�
    - `dreamina-canvas auth login --force`，拿到 device code 和授权链接；
    - **把链接用中文发给用户**，请用户在浏览器里确认；
    - `dreamina-canvas auth wait --device-code <code>`；
-   - `auth status` 检查。登录大约一天后过期，过期就重来。
+   - `auth status` 检查。登录有效期以 `auth status` 返回的 `expiresAt` 为准（实测约 6 小时），过期就重来。打开页面不等于授权完成，要以 `auth wait` 返回 `logged_in` 为准。
 3. 核对参数：先运行 `dreamina-canvas schema` 和 `model list --type video/image/audio`，以实际返回为准。
 
 ## 用 tools/jm.py 生成（自带积分账本）

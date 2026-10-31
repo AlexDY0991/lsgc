@@ -21,6 +21,7 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
 - 仓库初始化完成，还没开始任何项目。
 - 2026-10-31 第一个窗口：
   - `tools/setup.sh` 已跑通（修了一处：Playwright 的 Chromium 目录改名为 `chrome-linux64`，原通配符匹配不到导致脚本中途退出）。
-  - 即梦 CLI 安装脚本已下载并通读（官方 CDN，装二进制到 `~/.local/bin`、skill 到 `~/.agents/skills`，无可疑操作），但运行被会话权限拦下，**等用户批准后再装、再登录**。
-  - Lovart 密钥未设置，已请用户在环境设置里加 `LOVART_ACCESS_KEY`、`LOVART_SECRET_KEY`（新会话生效）。
+  - 即梦 CLI 1.2.1 已安装（安装脚本先读后运行，用户批准），已登录。账号 VIP，可用约 29,807 积分（分批在 11 月 22–27 日过期）。模型列表里有 `seedream_5.0_pro`、`seedance_2.5_draft`，和 skill 一致。
+  - **注意：这次登录约 6 小时就过期（不是一天）。** 过期后按 jimeng-canvas skill 重新登录；必须用 `auth wait --device-code`，不能用 `auth status` 轮询代替。
+  - Lovart 密钥未设置，已请用户在环境设置里加 `LOVART_ACCESS_KEY`、`LOVART_SECRET_KEY`（新会话生效）。**新会话第一件事：检查这两个变量。**
   - 已建 `brand/` 目录，等用户上传品牌资料、提供品牌信息（BRAND.md 仍待填写）。
