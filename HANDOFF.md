@@ -1,6 +1,18 @@
 # 交接文档 · 丽尚国潮素材工作室（2026-10-31 建立）
 
-## 新窗口的第一步
+## 下一个窗口（第二个窗口）先做这些
+1. 检查 `LOVART_ACCESS_KEY`、`LOVART_SECRET_KEY` 有没有读到。读不到就请用户核对环境设置（变量名、保存后要新开会话），不要让用户把密钥贴进聊天。
+2. 读到了：读 Lovart 官方 SKILL.md，用 `projects --json`、`threads --all --json` 看用户 Lovart 账号里有哪些项目。**用户说 Lovart 里有丽尚国潮的 IP 素材**，找到后列给用户看，逐个确认能不能用，再登记进 ASSETS.md。只查看、不生成，不花积分。
+3. 即梦登录可能已过期（第一个窗口的登录到 UTC 18:19），要用即梦时按 jimeng-canvas skill 重新登录。
+4. 用户会上传品牌信息文档：放进 `brand/`，整理进 BRAND.md 给用户确认（只写文档里有的，不编造）。
+5. 问第一批需求和预算，按 skill 流程开始。
+
+## 用户定的工具分工（2026-10-31）
+- **做图、海报、设计稿：主要用 Lovart。** 丽尚国潮的 IP 素材在 Lovart 里，Lovart 的工具也更多。
+- **做视频：用即梦**（样片模式，先报价再运行）。
+- 写实画面需要时也可以用即梦 Seedream，但默认先用 Lovart。
+
+## 新窗口的第一步（通用）
 1. 通读 `CLAUDE.md`、`BRAND.md`、`ASSETS.md`，以及 skill：`brand-video`（重点）、`brand-visuals`、`jimeng-canvas`、`lovart`、`higgsfield-timed-prompts`、`higgsfield-motion`。
 2. `bash tools/setup.sh`：装工具环境，克隆 Lovart 客户端，检查 Lovart 密钥是否已设置。
 3. 即梦：按 `jimeng-canvas` skill 安装 CLI（安装脚本先读再运行），登录，把授权链接用中文发给用户。
