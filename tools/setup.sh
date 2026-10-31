@@ -15,7 +15,8 @@ for f in kokoro-v1.0.onnx voices-v1.0.bin; do
   [ -s "$M/$f" ] || curl -fsSL -o "$M/$f" "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f"
 done
 # headless Chromium for code-rendered audio/frames (higgsfield-motion render_audio.mjs): root needs --no-sandbox
-CH=$(ls -d /opt/pw-browsers/chromium-*/chrome-linux/chrome 2>/dev/null | head -1)
+CH=$(ls -d /opt/pw-browsers/chromium-*/chrome-linux*/chrome 2>/dev/null | head -1 || true)
+[ -z "$CH" ] && echo "WARN: no pre-installed Chromium found under /opt/pw-browsers" >&2
 [ -n "$CH" ] && printf '#!/bin/sh\nexec %s --no-sandbox "$@"\n' "$CH" > "$T/chrome" && chmod +x "$T/chrome"
 # Lovart official skill client (lovartai/lovart-skill, MIT, stdlib only). Needs LOVART_ACCESS_KEY / LOVART_SECRET_KEY
 # from the environment settings; never paste keys into chat. Never set LOVART_INSECURE_SSL.
