@@ -37,3 +37,9 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - **注意：这次登录约 6 小时就过期（不是一天）。** 过期后按 jimeng-canvas skill 重新登录；必须用 `auth wait --device-code`，不能用 `auth status` 轮询代替。
   - Lovart 密钥未设置，已请用户在环境设置里加 `LOVART_ACCESS_KEY`、`LOVART_SECRET_KEY`（新会话生效）。**新会话第一件事：检查这两个变量。**
   - 已建 `brand/` 目录，等用户上传品牌资料、提供品牌信息（BRAND.md 仍待填写）。
+- 2026-10-31 第二个窗口（工作分支 `claude/lsgc-studio-setup`，main 只放用户上传的文件）：
+  - `tools/setup.sh` 跑通，Lovart 客户端已克隆。两个 Lovart 变量都读到了（只检查有没有，不打印）。
+  - **Lovart 官方客户端的限制（读源码确认）：** `config`、`projects`、`threads` 只读本机 `~/.lovart/state.json`，不连服务器，新容器里是空的，**既不能验证密钥，也列不出账号里的项目**；`threads` 没有 `--all` 参数（会报错）。客户端没有任何"列出账号项目 / 素材库"的命令。
+  - 密钥用 `query-mode` 验证有效（只读、不花积分）。账号当前是 **fast 模式（消耗积分）**；unlimited 可用（`unlimited_enable: true`），无限模型：GPT Image 1.5、GPT Image 2（low 2K）、Midjourney、Nano Banana 2（2K）、Nano Banana Pro（2K）、Seedream 4 / 4.5、Seedream 5.0 Pro（1K，剩 19 天）。要不要切 unlimited 由用户决定（`set-mode` 是持久的服务器设置）。
+  - 找 Lovart 里的 IP 素材：需要用户提供项目链接（`canvas?projectId=…`）或在网页上导出图片传到仓库；拿到素材库图片地址和 asset_id 后可以用 `chat --subjects` 引用。
+  - 用户把品牌文档 `（已压缩）丽尚国潮集团简介2026.pdf` 放在 main，已复制到 `brand/`。BRAND.md 已按文档整理成草稿（🟡 待用户逐项确认）。从 PDF 截了文字标、圆形标、IP 人偶参考图，登记在 ASSETS.md（🟡）。
