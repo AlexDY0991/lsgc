@@ -1,23 +1,24 @@
 # 交接文档 · 丽尚国潮素材工作室（2026-10-31 建立）
 
-## 工具分工（用户 2026-10-31 最新决定，替代之前的版本）
-- **Lovart 暂不使用**：用户试过，不好用。之后用户主动提起才再用。
-- **全部用即梦**：
-  - 图片、海报画面、人物 / 产品 / 场景资产：即梦 Seedream 5.0 Pro（`jm.py img`），做图可以直接做；
-  - 视频：即梦 Seedance 2.5 样片模式（先报价，在预算内运行）；
-  - 海报上的精确文字（品牌名、文案、参数）：用代码排版叠上去（见 brand-visuals skill），不靠模型写字。
-- 动态设计、代码渲染的片头片尾、字幕动画、配乐：用 higgsfield-motion / higgsfield-motion-saas skill；视频提示词用 higgsfield-timed-prompts skill。
+## 工具分工（用户 2026-10-31 最新决定，替代下面进度记录里的旧分工）
+- **Lovart 暂停使用**：用户觉得不好用。用户主动提起才再用。Lovart 里已有的东西（小丽原型图、风格样张）都已下载到仓库，可以当参考图。
+- **全部改用即梦**：
+  - 图片、海报画面、小丽和场景资产：即梦 Seedream 5.0 Pro（`jm.py img`），参考图用 `jm.py upload` 上传后在提示词里 `@KEY` 引用。做图可以直接做；
+  - 视频：即梦 Seedance 2.5 样片模式（每次先报价，在预算内运行）；
+  - 精确文字（品牌名、文案、年份、数据）：代码排版叠上去（brand-visuals skill），不靠模型写字。
+- 动态设计、代码渲染的片头片尾、字幕和数字动画、临时配乐：higgsfield-motion / higgsfield-motion-saas skill；视频提示词：higgsfield-timed-prompts skill。
 
-## 下一个窗口先做这些
-1. 确认在 `claude/lsgc-studio-setup` 分支（main 分支是空的）。
-2. 通读 CLAUDE.md、BRAND.md、ASSETS.md 和全部 skill（见下面「新窗口的第一步」第 1 条）。
+## 下一个窗口（第三个窗口）先做这些
+1. 确认在 `claude/lsgc-studio-setup` 分支（main 只放用户上传的原始文件）。
+2. 通读 CLAUDE.md、BRAND.md、ASSETS.md、`brand/xiaoli_identity.md`、`projects/2027-01-2026年度片/design.md`，以及全部 skill：brand-video（重点）、brand-visuals、jimeng-canvas、higgsfield-timed-prompts、higgsfield-motion、higgsfield-motion-saas；和 `docs/higgsfield-realism-workflow-notes.md`。
 3. `bash tools/setup.sh`。
-4. 安装即梦 CLI（安装脚本先下载、读一遍再运行），`auth login --force`，把授权链接用中文发给用户，然后 `auth wait --device-code`。登录后 `auth account` 看积分，`model list` 核对模型。
-5. 请用户上传品牌信息文档：放进 `brand/`，整理进 BRAND.md 给用户确认，只写文档里有的内容。丽尚国潮的 IP 素材原来在 Lovart 里，请用户把 IP 形象图导出后上传到 `brand/`。
-6. 问第一批要做什么、预算多少，然后按 skill 流程和确认关口开始。
+4. 安装即梦 CLI（安装脚本先下载、读一遍再运行），`auth login --force`，把授权链接用中文发给用户，然后 `auth wait --device-code`（不能用 auth status 轮询代替）。登录后 `auth account` 看积分，`model list` 核对模型。
+5. 新建即梦画布「丽尚国潮 2026 年度片」和状态文件 `projects/2027-01-2026年度片/jimeng-state.json`；上传 `brand/xiaoli_prototype_sheet.png`（大 PNG 先转 JPEG）登记为节点 `xiaoli_ref`，登记进 ASSETS.md 第 6 节。
+6. 用即梦按 `brand/xiaoli_identity.md` 的锁定段重做小丽：先出一张标准打扮的三视图定妆（正面、侧面、背面），逐条对「之前出过的错」自查，再给用户确认（brand-video 第 1 步）。Lovart 版风格样张只当参考，风格方向仍等用户选（design.md 第 9 节 S1/S2/S3）。
+7. 等待中的用户决定：选风格；确认「金色圆标做贯穿道具」；BRAND.md 草稿逐项确认；下周提供 2026 大事件清单。
 
 ## 新窗口的第一步（通用）
-1. 通读 `CLAUDE.md`、`BRAND.md`、`ASSETS.md`，以及 skill：`brand-video`（重点）、`brand-visuals`、`jimeng-canvas`、`lovart`、`higgsfield-timed-prompts`、`higgsfield-motion`。
+1. 通读 `CLAUDE.md`、`BRAND.md`、`ASSETS.md`，以及 skill：`brand-video`（重点）、`brand-visuals`、`jimeng-canvas`、`lovart`（暂停使用）、`higgsfield-timed-prompts`、`higgsfield-motion`。
 2. `bash tools/setup.sh`：装工具环境，克隆 Lovart 客户端，检查 Lovart 密钥是否已设置。
 3. 即梦：按 `jimeng-canvas` skill 安装 CLI（安装脚本先读再运行），登录，把授权链接用中文发给用户。
 4. Lovart：读官方 `SKILL.md`。如果密钥没设置，请用户在云端环境设置里加 `LOVART_ACCESS_KEY` 和 `LOVART_SECRET_KEY`，新会话才会生效。**不要让用户把密钥贴进聊天。**
