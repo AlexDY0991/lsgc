@@ -490,11 +490,233 @@
    "submitted": true,
    "resourceId": "f1870935-6844-44fc-ad85-b4a4062d291f",
    "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_design_studio.png"
+  },
+  "sb_1_1": {
+   "updateId": "b18c148f-3157-40cc-9cf2-d0ee21d3b5a6",
+   "nodeId": "node_z450h01jwb",
+   "title": "分镜 1.1 序·竹",
+   "submitId": "719e0d29-6f60-42a3-8b3d-5553a08f0ad5",
+   "submitted": true,
+   "resourceId": "c15512fc-5a5b-4337-8725-3e255a1df01b",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_1_1.png"
+  },
+  "sb_1_2": {
+   "updateId": "2e94c34f-aa24-47a8-a1b5-9c4883e2925f",
+   "nodeId": "node_7msafrc7v1",
+   "title": "分镜 1.2 序·竹",
+   "submitId": "76ddf6b6-b67e-49d8-9548-6f790a8cec3e",
+   "submitted": true,
+   "resourceId": "8a053697-9397-445c-b907-eccecb8682eb",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_1_2.png"
+  },
+  "sb_2_1": {
+   "updateId": "da2613e6-d998-4fa8-9fe1-4dddc4fbafa8",
+   "nodeId": "node_4rpx9fzw7z",
+   "title": "分镜 2.1 茧·抽丝",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_2_1.png",
+   "submitId": "5514643c-edb0-430b-8e6c-e1dfa318bbeb",
+   "submitted": true,
+   "resourceId": "c5e248e0-9cc6-440b-af6e-474afe9826c1"
+  },
+  "sb_2_2": {
+   "updateId": "f1aca9f9-3a03-4b6e-b479-29f3c38cde3a",
+   "nodeId": "node_xft06e41r1",
+   "title": "分镜 2.2 茧·抽丝",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_2_2.png",
+   "submitId": "9286bd62-26ad-4a2a-bde1-218ed2214c0e",
+   "submitted": true,
+   "resourceId": "b3974dd0-20f5-403b-a8dd-7fda10368837"
+  },
+  "sb_2_3": {
+   "updateId": "5386e179-2143-4a70-a851-45241131a2ef",
+   "nodeId": "node_dxey02gnx8",
+   "title": "分镜 2.3 茧·抽丝",
+   "submitId": "efd7c5ca-f4ab-4b2b-842f-d73520a41b10",
+   "submitted": true,
+   "resourceId": "f9671ec0-fcdb-4fc1-b389-95f4be343212",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_2_3.png"
+  },
+  "sb_3_1": {
+   "updateId": "69d1d432-a7e2-4a31-8bd2-e7b28edd9552",
+   "nodeId": "node_40ywek1f8w",
+   "title": "分镜 3.1 织·经",
+   "submitId": "0cc367a8-8542-4b78-8a94-547189611ef7",
+   "submitted": true,
+   "resourceId": "b0ed5cc2-fd14-497f-8f13-e9ae881e85c0",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_3_1.png"
+  },
+  "sb_3_2": {
+   "updateId": "963c40af-ff6b-4092-a15c-38769b7f1017",
+   "nodeId": "node_00jkjrtcg4",
+   "title": "分镜 3.2 织·经",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_3_2.png",
+   "submitId": "a9748ac5-f76a-4b13-ab9c-bf215e07de2e",
+   "submitted": true,
+   "resourceId": "de401d39-f123-473e-9dad-61f73053aa09"
+  },
+  "sb_3_3": {
+   "updateId": "44a261f8-f0a0-443e-8c78-767e72ba7b9e",
+   "nodeId": "node_9dpmtm2r85",
+   "title": "分镜 3.3 织·经",
+   "submitId": "f3b5ade4-1e35-41d8-8b47-689ca01869df",
+   "submitted": true,
+   "resourceId": "c65d6a25-3f32-4cad-864c-422494b3df57",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_3_3.png"
+  },
+  "sb_4_1": {
+   "updateId": "1153baa5-352b-4f76-ab71-cf5668191c8a",
+   "nodeId": "node_hwerxpezqt",
+   "title": "分镜 4.1 纬·向西",
+   "submitId": "5d948a14-5935-41bf-9969-804a40efc2d7",
+   "submitted": true,
+   "resourceId": "50e9d83c-040b-4743-a63c-f63ebce28354",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_4_1.png"
+  },
+  "sb_4_2": {
+   "updateId": "6817b14b-6ef0-4726-b286-f52c4d39aba0",
+   "nodeId": "node_3wpn68r1r8",
+   "title": "分镜 4.2 纬·向西",
+   "submitId": "d699545a-dc53-4006-ba21-07f6617782e5",
+   "submitted": true,
+   "resourceId": "c0d18eff-cd3d-4a0d-97dc-250e40797b23",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_4_2.png"
+  },
+  "sb_4_3": {
+   "updateId": "44392dce-cfae-49de-a667-3d4993abd699",
+   "nodeId": "node_8f4csgy63j",
+   "title": "分镜 4.3 纬·向西",
+   "submitId": "a5d32a6e-4755-44de-b898-43478ea86932",
+   "submitted": true,
+   "resourceId": "2bd6265b-aa21-48c0-ac9f-54e52ab51649",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_4_3.png"
+  },
+  "sb_4_4": {
+   "updateId": "cc624719-d94b-40cd-8298-7cb3340616bc",
+   "nodeId": "node_fk582xvg87",
+   "title": "分镜 4.4 纬·向西",
+   "submitId": "ba0b8b1c-ee27-4c17-8c0e-a7e2fb726618",
+   "submitted": true,
+   "resourceId": "ea30f2da-6036-4125-8251-99ff1ce72f58",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_4_4.png"
+  },
+  "sb_5_1": {
+   "updateId": "48a02848-8150-43d6-955b-a3674c8914ce",
+   "nodeId": "node_qm9rtx8033",
+   "title": "分镜 5.1 唐·杭州",
+   "submitId": "d70a6cfe-e3db-41a3-830b-8455f220a895",
+   "submitted": true,
+   "resourceId": "d9805b0f-f8ca-4708-a97f-4b93191a75d5",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_5_1.png"
+  },
+  "sb_5_3": {
+   "updateId": "f6c81864-557d-4de1-b248-fad541a4b1f4",
+   "nodeId": "node_g9jk9fwcha",
+   "title": "分镜 5.3 唐·杭州",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_5_3.png",
+   "submitId": "74f04850-7d4b-4c3e-a37f-df761dd1ceba",
+   "submitted": true,
+   "resourceId": "c6ca6eeb-95f0-41f5-95ad-250e13b86aa8"
+  },
+  "sb_6_1": {
+   "updateId": "214d6509-a88d-465f-b7ff-decd4f774917",
+   "nodeId": "node_ezz45nhyf7",
+   "title": "分镜 6.1 南宋·蚕织图",
+   "submitId": "f7e61abb-31bb-4bea-98e8-692aba82c3bc",
+   "submitted": true,
+   "resourceId": "fb5b17a4-29a4-409f-b6cd-8af3f1d8dff0",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_6_1.png"
+  },
+  "sb_6_3": {
+   "updateId": "d5ab22fc-5849-4719-84ed-46318a93d5e2",
+   "nodeId": "node_8hzvbbawgy",
+   "title": "分镜 6.3 南宋·蚕织图",
+   "submitId": "b0aae984-0c59-4edc-a0aa-f21fdfcd529e",
+   "submitted": true,
+   "resourceId": "defae3c5-e3a1-458c-b8bb-e42be8c436be",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_6_3.png"
+  },
+  "sb_6_4": {
+   "updateId": "b5e39504-d27e-403d-b195-616d54a23203",
+   "nodeId": "node_egnyh72s44",
+   "title": "分镜 6.4 南宋·蚕织图",
+   "submitId": "82baadd9-d386-4fa1-9125-4ab1a7d020d2",
+   "submitted": true,
+   "resourceId": "f978080a-d7de-4e49-b75e-1ab13af574eb",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_6_4.png"
+  },
+  "sb_6_5": {
+   "updateId": "011f3377-c7a1-4a72-badf-7c7873b63394",
+   "nodeId": "node_mhx8s4gm6h",
+   "title": "分镜 6.5 南宋·蚕织图",
+   "submitId": "54536f6f-2bbb-44ad-89ca-6981dfb3941f",
+   "submitted": true,
+   "resourceId": "82251869-b4fc-4c8f-8b44-2d743b638882",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_6_5.png"
+  },
+  "sb_6_7": {
+   "updateId": "e3a29b20-3fd5-446c-8f28-606e116332a5",
+   "nodeId": "node_y1f9b19q9p",
+   "title": "分镜 6.7 南宋·蚕织图",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_6_7.png",
+   "submitId": "c28e64f6-b670-4dab-b4ba-a5474018c4f1",
+   "submitted": true,
+   "resourceId": "e2e55bc6-2f65-4f69-925f-daddf822f1db"
+  },
+  "sb_7_1": {
+   "updateId": "bdbe1e2e-5070-4e0b-923a-018ccc8ade96",
+   "nodeId": "node_ytxgp3kbym",
+   "title": "分镜 7.1 今·三城",
+   "submitId": "2a89730d-0955-45e3-bc23-3b0e01dfc8a8",
+   "submitted": true,
+   "resourceId": "f4cdaded-68e4-4d92-85a0-1e6f94ae986f",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_7_1.png"
+  },
+  "sb_7_3": {
+   "updateId": "1d2a026c-589d-40d7-849c-3216d327179b",
+   "nodeId": "node_tpvsds9bnr",
+   "title": "分镜 7.3 今·三城",
+   "submitId": "5284cc89-9a2d-4733-934a-5bc786acd92a",
+   "submitted": true,
+   "resourceId": "c8172060-9dba-4dfc-9160-a9b61f26c8e0",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_7_3.png"
+  },
+  "sb_7_4": {
+   "updateId": "d5673fd9-bb01-4917-a97a-c4d52ed1673b",
+   "nodeId": "node_vb778km1jr",
+   "title": "分镜 7.4 今·三城",
+   "submitId": "f25fc940-4608-49e8-bcae-33341066cb50",
+   "submitted": true,
+   "resourceId": "b81bb800-3f07-4769-9a50-f7fdeae6212f",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_7_4.png"
+  },
+  "sb_7_5": {
+   "updateId": "73df186c-d43f-42d9-84f9-e5116c241c75",
+   "nodeId": "node_p7ghj29jjv",
+   "title": "分镜 7.5 今·三城",
+   "submitId": "3b49a66d-ee64-4723-a918-454894a0af59",
+   "submitted": true,
+   "resourceId": "5ee4d779-8eb3-403c-92d3-ca4f8c24b6de",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_7_5.png"
+  },
+  "sb_7_6": {
+   "updateId": "9476be66-1227-4e08-a095-4c522223a442",
+   "nodeId": "node_rkfxfsqcp6",
+   "title": "分镜 7.6 今·三城",
+   "submitId": "e534fe47-63d9-412c-b2b6-9df7b8ad940c",
+   "submitted": true,
+   "resourceId": "424877fb-e605-441c-a394-340ef2da1c63",
+   "result": "projects/2026-11-AI艺术短片/storyboard/v1/sb_7_6.png"
+  },
+  "ref_shears_single": {
+   "uploadResourceId": "49c91b0d-9467-4b12-afe0-5809e4d57151",
+   "updateId": "b21114f4-7516-4173-8ccd-2e43ea36b136",
+   "nodeId": "node_2wa29gfmdh",
+   "title": "REF · ref_shears_single"
   }
  },
  "ledger": {
-  "budget": 800,
-  "note": "budget = 资产阶段做图上限；视频预算等用户定",
+  "budget": 4400,
+  "note": "用户 2026-10-31：视频预算 3600 以内（不够再追加）；做图另计约 800。budget=4400 为总上限，视频花费单独看 key 以 V 开头的记录",
   "runs": [
    {
     "key": "prop_silk_v1",
@@ -789,6 +1011,186 @@
     "credits": 8,
     "submitId": "aeb17bd5-a6f1-4f45-b689-86bbd3d8c772",
     "at": "2026-10-31 16:19"
+   },
+   {
+    "key": "sb_1_1",
+    "credits": 8,
+    "submitId": "719e0d29-6f60-42a3-8b3d-5553a08f0ad5",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_1_2",
+    "credits": 8,
+    "submitId": "76ddf6b6-b67e-49d8-9548-6f790a8cec3e",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_2_1",
+    "credits": 8,
+    "submitId": "1d30a1ad-9846-4bf1-b6fd-a5ef25f6730c",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_2_2",
+    "credits": 8,
+    "submitId": "94965e1f-bfc7-492b-8d7a-cf9af4c68c2e",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_2_3",
+    "credits": 8,
+    "submitId": "efd7c5ca-f4ab-4b2b-842f-d73520a41b10",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_3_1",
+    "credits": 8,
+    "submitId": "0cc367a8-8542-4b78-8a94-547189611ef7",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_3_2",
+    "credits": 8,
+    "submitId": "dd6df96f-7edc-408a-bf9b-3de68e37fa53",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_3_3",
+    "credits": 8,
+    "submitId": "f3b5ade4-1e35-41d8-8b47-689ca01869df",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_4_1",
+    "credits": 8,
+    "submitId": "5d948a14-5935-41bf-9969-804a40efc2d7",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_4_2",
+    "credits": 8,
+    "submitId": "d699545a-dc53-4006-ba21-07f6617782e5",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_4_3",
+    "credits": 8,
+    "submitId": "a5d32a6e-4755-44de-b898-43478ea86932",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_4_4",
+    "credits": 8,
+    "submitId": "ba0b8b1c-ee27-4c17-8c0e-a7e2fb726618",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_5_1",
+    "credits": 8,
+    "submitId": "d70a6cfe-e3db-41a3-830b-8455f220a895",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_5_3",
+    "credits": 8,
+    "submitId": "cbe27fbb-1e43-4709-b62f-85f0534a921a",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_6_1",
+    "credits": 8,
+    "submitId": "f7e61abb-31bb-4bea-98e8-692aba82c3bc",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_6_3",
+    "credits": 8,
+    "submitId": "b0aae984-0c59-4edc-a0aa-f21fdfcd529e",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_6_4",
+    "credits": 8,
+    "submitId": "82baadd9-d386-4fa1-9125-4ab1a7d020d2",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_6_5",
+    "credits": 8,
+    "submitId": "54536f6f-2bbb-44ad-89ca-6981dfb3941f",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_6_7",
+    "credits": 8,
+    "submitId": "a2c2ed93-d43b-4fb9-abc9-52363d3536e0",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_7_1",
+    "credits": 8,
+    "submitId": "2a89730d-0955-45e3-bc23-3b0e01dfc8a8",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_7_3",
+    "credits": 8,
+    "submitId": "5284cc89-9a2d-4733-934a-5bc786acd92a",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_7_4",
+    "credits": 8,
+    "submitId": "f25fc940-4608-49e8-bcae-33341066cb50",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_7_5",
+    "credits": 8,
+    "submitId": "3b49a66d-ee64-4723-a918-454894a0af59",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_7_6",
+    "credits": 8,
+    "submitId": "e534fe47-63d9-412c-b2b6-9df7b8ad940c",
+    "at": "2026-10-31 16:33"
+   },
+   {
+    "key": "sb_2_1",
+    "credits": 8,
+    "submitId": "5514643c-edb0-430b-8e6c-e1dfa318bbeb",
+    "at": "2026-10-31 16:40"
+   },
+   {
+    "key": "sb_2_2",
+    "credits": 8,
+    "submitId": "9286bd62-26ad-4a2a-bde1-218ed2214c0e",
+    "at": "2026-10-31 16:40"
+   },
+   {
+    "key": "sb_3_2",
+    "credits": 8,
+    "submitId": "a9748ac5-f76a-4b13-ab9c-bf215e07de2e",
+    "at": "2026-10-31 16:40"
+   },
+   {
+    "key": "sb_5_3",
+    "credits": 8,
+    "submitId": "74f04850-7d4b-4c3e-a37f-df761dd1ceba",
+    "at": "2026-10-31 16:40"
+   },
+   {
+    "key": "sb_6_7",
+    "credits": 8,
+    "submitId": "d9721b2a-8008-4895-9a02-ba2a5ea732ea",
+    "at": "2026-10-31 16:40"
+   },
+   {
+    "key": "sb_6_7",
+    "credits": 8,
+    "submitId": "c28e64f6-b670-4dab-b4ba-a5474018c4f1",
+    "at": "2026-10-31 16:43"
    }
   ]
  }
