@@ -247,6 +247,249 @@
    "submitted": true,
    "resourceId": "7233653f-a603-4064-991c-4cd78a99cffc",
    "result": "projects/2026-11-AI艺术短片/assets/v1/loc_earth_night_v1.png"
+  },
+  "style_dfsy_41_6": {
+   "uploadResourceId": "df5b543d-b99c-4e76-9857-b02ed4d0c4e9",
+   "updateId": "edf9ae49-9c3e-4384-81a8-74772b67888e",
+   "nodeId": "node_xtgtk0z6g7",
+   "title": "REF · style_dfsy_41_6"
+  },
+  "style_dfsy_59_6": {
+   "uploadResourceId": "d7a3c8e4-5d3a-4307-b38c-701828b4861b",
+   "updateId": "2b069644-04dd-4c6d-ac67-40370dc11d30",
+   "nodeId": "node_9brtj2d7mj",
+   "title": "REF · style_dfsy_59_6"
+  },
+  "style_dfsy_80_2": {
+   "uploadResourceId": "58687f42-249a-4364-86f1-2928e0eeef02",
+   "updateId": "0b81f4a9-0f60-4bcc-ba2b-fba346979ac9",
+   "nodeId": "node_92g720g78c",
+   "title": "REF · style_dfsy_80_2"
+  },
+  "look_song_workshop_v2": {
+   "updateId": "be04dbca-1c5b-4f11-85ca-d781d35fdfc9",
+   "nodeId": "node_t2qyqs9yww",
+   "title": "调试·南宋作坊（新影调）",
+   "submitId": "29904e06-45cf-4504-bed3-94d87abcd216",
+   "submitted": true,
+   "resourceId": "eb7cd1ae-254d-46d0-9fe7-d972e9191695",
+   "result": "projects/2026-11-AI艺术短片/assets/look_v2/look_song_workshop_v2.png"
+  },
+  "look_tang_ling_v2": {
+   "updateId": "773d386e-a7e6-4461-8000-ed703ec201e7",
+   "nodeId": "node_nkqj6kpbkp",
+   "title": "调试·唐代织绫（新影调）",
+   "submitId": "b8720304-4cf6-493a-9513-4db811993b66",
+   "submitted": true,
+   "resourceId": "782502e8-f308-4dfe-ad40-da34afa863bc",
+   "result": "projects/2026-11-AI艺术短片/assets/look_v2/look_tang_ling_v2.png"
+  },
+  "look_song_reeling_v2": {
+   "updateId": "bb2ec79b-8a72-40d9-be34-7cb5f413a58a",
+   "nodeId": "node_3e3zg58npm",
+   "title": "调试·南宋缫丝（新影调）",
+   "submitId": "a61843fc-e168-4be7-9487-6e1373fc34fb",
+   "submitted": true,
+   "resourceId": "9d2842ed-0dfa-4af3-8bd1-4ff15c13f46e",
+   "result": "projects/2026-11-AI艺术短片/assets/look_v2/look_song_reeling_v2.png"
+  },
+  "char_neolithic": {
+   "updateId": "64777665-39e7-4898-8cb1-ae62b63cb03e",
+   "nodeId": "node_z7za3ks48w",
+   "title": "人物·新石器织者",
+   "submitId": "a12d82d2-5ee1-49f0-a93a-bbffe7ba49cc",
+   "submitted": true,
+   "resourceId": "34ebea58-a2cf-49bc-a0c7-a078629b61c4",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_neolithic.png"
+  },
+  "char_tang_weaver": {
+   "updateId": "1f5d0ede-bb99-4833-a5e4-36997a2cdbca",
+   "nodeId": "node_aq2wcj4cs4",
+   "title": "人物·唐代织绫女子",
+   "submitId": "d0fee5b3-bcd5-4db8-9bab-8376b2bc0360",
+   "submitted": true,
+   "resourceId": "0411f875-4fca-4402-95a9-0643b077f561",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_tang_weaver.png"
+  },
+  "char_song_weaver": {
+   "updateId": "086676ed-72d4-4ae3-9acd-1521f6cfe41b",
+   "nodeId": "node_b52jqp5rsf",
+   "title": "人物·南宋织工（投梭）",
+   "submitId": "a1c79ebc-2df2-4423-aaa7-ae83d8955e77",
+   "submitted": true,
+   "resourceId": "8f02d9d6-f7e4-4c85-aa34-7da9025a78ae",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_song_weaver.png"
+  },
+  "char_song_drawboy": {
+   "updateId": "e8c54157-acb9-4776-912b-f75791c15a06",
+   "nodeId": "node_q5mrz30h7m",
+   "title": "人物·南宋拉花工",
+   "submitId": "039fa91b-af99-44fa-b1fc-0d224d46ec9b",
+   "submitted": true,
+   "resourceId": "1d82acd8-8cc1-494a-b0d0-a7fa20584a05",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_song_drawboy.png"
+  },
+  "char_song_silkwoman": {
+   "updateId": "d71dd125-3b10-48c9-b0a1-611bd747a8ff",
+   "nodeId": "node_ck63gkaw6v",
+   "title": "人物·南宋蚕娘",
+   "submitId": "fe9eed33-d22d-48cb-a0fc-4646b657a15b",
+   "submitted": true,
+   "resourceId": "6235fa9e-7d28-4d20-9392-e5144f852f89",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_song_silkwoman.png"
+  },
+  "char_designer": {
+   "updateId": "408179ef-d01d-424b-9fc2-11db3c83a0cd",
+   "nodeId": "node_0cgactg7qs",
+   "title": "人物·现代设计师",
+   "submitId": "64003fc9-6114-4768-8cb0-c19208bb8906",
+   "submitted": true,
+   "resourceId": "a53e071f-722d-44cf-b266-77b48ba5beba",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/char_designer.png"
+  },
+  "prop_backstrap_loom_3v": {
+   "updateId": "bdd806ac-1183-4ea2-9968-d32617320455",
+   "nodeId": "node_snr4698ngq",
+   "title": "道具三视图·原始腰机",
+   "submitId": "15ab86f6-f42f-4056-8be1-e7f0f6a9ba12",
+   "submitted": true,
+   "resourceId": "d3b2977f-3757-48e1-8e3d-3fb0f7c9108c",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_backstrap_loom_3v.png"
+  },
+  "prop_tang_loom_3v": {
+   "updateId": "5a0a68d8-2752-4b43-bf1b-88f25d4f6b54",
+   "nodeId": "node_4pz5ragfq1",
+   "title": "道具三视图·唐代织机",
+   "submitId": "0267bc82-3377-4825-99cd-38b3f3eb490c",
+   "submitted": true,
+   "resourceId": "7f859433-cd1c-4844-a654-08d7f1ed829b",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_tang_loom_3v.png"
+  },
+  "prop_reel_3v": {
+   "updateId": "12380675-6ca7-4897-b6f6-480de07a1d8c",
+   "nodeId": "node_q3arxj88r6",
+   "title": "道具三视图·宋代脚踏缫车",
+   "submitId": "6158c531-18ae-401d-92d1-cdd1fe29a759",
+   "submitted": true,
+   "resourceId": "536c97b9-3714-4a10-9719-4607ce8978f4",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_reel_3v.png"
+  },
+  "prop_shears_3v": {
+   "updateId": "e00258d7-bd87-4073-a1d3-193e0cb594b2",
+   "nodeId": "node_67j7y20kz7",
+   "title": "道具三视图·宋代交股剪",
+   "submitId": "5e08b593-0544-4ea8-87b7-a7936170a54d",
+   "submitted": true,
+   "resourceId": "e69cb591-0143-4802-8d09-56453fa50d66",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_shears_3v.png"
+  },
+  "prop_pot_3v": {
+   "updateId": "11f5c5cb-89c3-4ae7-9680-d15e7fa7a838",
+   "nodeId": "node_2312t01r51",
+   "title": "道具三视图·陶釜和竹箸",
+   "submitId": "b865a8a0-8aec-4418-98d4-7b36639ea11c",
+   "submitted": true,
+   "resourceId": "18770219-c172-483b-bf57-8a6d10a92e76",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_pot_3v.png"
+  },
+  "prop_hualou_3v": {
+   "updateId": "abdad672-64d2-4888-b923-d1d5fb76d9ed",
+   "nodeId": "node_qkfby6rt8p",
+   "title": "道具三视图·南宋花楼机",
+   "submitId": "00e260da-f43e-413e-9c48-eda4895868c6",
+   "submitted": true,
+   "resourceId": "906f1a8a-1451-4193-b630-422cafca9b12",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_hualou_3v.png"
+  },
+  "prop_backstrap_loom_3v2": {
+   "updateId": "1722bea6-ab54-4e6f-99ad-8fee311f85d9",
+   "nodeId": "node_tq4k8yfd36",
+   "title": "道具三视图·原始腰机 v2",
+   "submitId": "e76fd3f7-3341-4d55-aca7-b11a7bf4fe10",
+   "submitted": true,
+   "resourceId": "c430a079-bf2e-47ba-b330-a3df848d3680",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_backstrap_loom_3v2.png"
+  },
+  "prop_hualou_3v2": {
+   "updateId": "6a68ad8f-c3dd-45cd-809d-169cb09b7692",
+   "nodeId": "node_xh54v469dx",
+   "title": "道具三视图·南宋花楼机 v2",
+   "submitId": "bd9c5cd7-bd01-49fc-887d-2a8cf64f893c",
+   "submitted": true,
+   "resourceId": "37eb232f-3b70-48c4-b2dc-ef4e0a860636",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_hualou_3v2.png"
+  },
+  "prop_shears_3v2": {
+   "updateId": "e3018c45-c22c-4857-af56-9622995d7056",
+   "nodeId": "node_fy2h2bndna",
+   "title": "道具三视图·宋代交股剪 v2",
+   "submitId": "94b5c92b-d905-442c-92f7-1e7c14543000",
+   "submitted": true,
+   "resourceId": "93f36c54-12e1-4da2-ae1e-5345bcdb35f2",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_shears_3v2.png"
+  },
+  "prop_pot_3v2": {
+   "updateId": "2afc60f1-59f4-4792-8fd4-929549ae2c78",
+   "nodeId": "node_b2cesj88qy",
+   "title": "道具三视图·陶釜和竹箸 v2",
+   "submitId": "475d635c-301a-4bb5-98b2-f77a653bac36",
+   "submitted": true,
+   "resourceId": "563fd281-98e1-4fa6-8f4a-13c8201c831e",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/prop_pot_3v2.png"
+  },
+  "lay_neolithic": {
+   "updateId": "4b736a8f-ae27-46e5-9813-38e67ba4f43f",
+   "nodeId": "node_xyar2sfb5k",
+   "title": "布局·新石器作坊",
+   "submitId": "c1b78842-eaf0-4b3f-87ea-5be2b1778c01",
+   "submitted": true,
+   "resourceId": "c2c56be8-aded-4c41-8d03-ea4079510a9e",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_neolithic.png"
+  },
+  "lay_tang_room": {
+   "updateId": "eaa829aa-a494-4f0c-a0a8-92ba0afe5d3e",
+   "nodeId": "node_dzd32kdcf2",
+   "title": "布局·唐代窗边织室",
+   "submitId": "58d0f42a-cccf-47d5-85dd-3c20dcf2bc98",
+   "submitted": true,
+   "resourceId": "77ce9681-289d-4825-9590-c45e4bbf0b27",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_tang_room.png"
+  },
+  "lay_song_workshop": {
+   "updateId": "42e178ce-31b4-4d5b-b65c-4b030569e814",
+   "nodeId": "node_b2tfj68y92",
+   "title": "布局·南宋作坊（新影调）",
+   "submitId": "aeb17bd5-a6f1-4f45-b689-86bbd3d8c772",
+   "submitted": true,
+   "resourceId": "1e7fca53-c650-4cd6-b9ff-bc65093ad747",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_song_workshop.png"
+  },
+  "lay_song_workshop_top": {
+   "updateId": "115d4c38-7468-43f4-86e8-9865da72209c",
+   "nodeId": "node_w5x5w3xhay",
+   "title": "俯视站位图·南宋作坊",
+   "submitId": "534f2b9f-5040-465d-a453-273e57982b9d",
+   "submitted": true,
+   "resourceId": "2b2ab709-e488-422b-a8e8-4b0f9c786657",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_song_workshop_top.png"
+  },
+  "lay_jincheng": {
+   "updateId": "ab1e495c-278e-48f0-9df9-6e8c7f3108e3",
+   "nodeId": "node_xwjr1h4rht",
+   "title": "布局·金城古渡口（新影调）",
+   "submitId": "7646ceb4-6539-4055-b873-ca6d657f1a80",
+   "submitted": true,
+   "resourceId": "d5728de3-d6a9-4d95-8bd7-b497cd146739",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_jincheng.png"
+  },
+  "lay_design_studio": {
+   "updateId": "6ac14bba-cf49-4ae7-a4d1-8e0deb6a820d",
+   "nodeId": "node_cgmy5kc6e3",
+   "title": "布局·今日设计工作室",
+   "submitId": "5a6f9437-5ec1-4885-82b6-97fd41fbc862",
+   "submitted": true,
+   "resourceId": "f1870935-6844-44fc-ad85-b4a4062d291f",
+   "result": "projects/2026-11-AI艺术短片/assets/sheets/lay_design_studio.png"
   }
  },
  "ledger": {
@@ -396,6 +639,156 @@
     "credits": 8,
     "submitId": "9e1b4e95-0f36-4825-b98a-6078333a1bba",
     "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "look_song_workshop_v2",
+    "credits": 8,
+    "submitId": "29904e06-45cf-4504-bed3-94d87abcd216",
+    "at": "2026-10-31 16:09"
+   },
+   {
+    "key": "look_tang_ling_v2",
+    "credits": 8,
+    "submitId": "b8720304-4cf6-493a-9513-4db811993b66",
+    "at": "2026-10-31 16:09"
+   },
+   {
+    "key": "look_song_reeling_v2",
+    "credits": 8,
+    "submitId": "a61843fc-e168-4be7-9487-6e1373fc34fb",
+    "at": "2026-10-31 16:09"
+   },
+   {
+    "key": "char_neolithic",
+    "credits": 8,
+    "submitId": "a12d82d2-5ee1-49f0-a93a-bbffe7ba49cc",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "char_tang_weaver",
+    "credits": 8,
+    "submitId": "d0fee5b3-bcd5-4db8-9bab-8376b2bc0360",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "char_song_weaver",
+    "credits": 8,
+    "submitId": "a1c79ebc-2df2-4423-aaa7-ae83d8955e77",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "char_song_drawboy",
+    "credits": 8,
+    "submitId": "039fa91b-af99-44fa-b1fc-0d224d46ec9b",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "char_song_silkwoman",
+    "credits": 8,
+    "submitId": "fe9eed33-d22d-48cb-a0fc-4646b657a15b",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "char_designer",
+    "credits": 8,
+    "submitId": "64003fc9-6114-4768-8cb0-c19208bb8906",
+    "at": "2026-10-31 16:12"
+   },
+   {
+    "key": "prop_backstrap_loom_3v",
+    "credits": 8,
+    "submitId": "15ab86f6-f42f-4056-8be1-e7f0f6a9ba12",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_tang_loom_3v",
+    "credits": 8,
+    "submitId": "0267bc82-3377-4825-99cd-38b3f3eb490c",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_hualou_3v",
+    "credits": 8,
+    "submitId": "00e260da-f43e-413e-9c48-eda4895868c6",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_reel_3v",
+    "credits": 8,
+    "submitId": "6158c531-18ae-401d-92d1-cdd1fe29a759",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_shears_3v",
+    "credits": 8,
+    "submitId": "5e08b593-0544-4ea8-87b7-a7936170a54d",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_pot_3v",
+    "credits": 8,
+    "submitId": "b865a8a0-8aec-4418-98d4-7b36639ea11c",
+    "at": "2026-10-31 16:13"
+   },
+   {
+    "key": "prop_backstrap_loom_3v2",
+    "credits": 8,
+    "submitId": "e76fd3f7-3341-4d55-aca7-b11a7bf4fe10",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "prop_hualou_3v2",
+    "credits": 8,
+    "submitId": "bd9c5cd7-bd01-49fc-887d-2a8cf64f893c",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "prop_shears_3v2",
+    "credits": 8,
+    "submitId": "94b5c92b-d905-442c-92f7-1e7c14543000",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "prop_pot_3v2",
+    "credits": 8,
+    "submitId": "475d635c-301a-4bb5-98b2-f77a653bac36",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_neolithic",
+    "credits": 8,
+    "submitId": "c1b78842-eaf0-4b3f-87ea-5be2b1778c01",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_tang_room",
+    "credits": 8,
+    "submitId": "58d0f42a-cccf-47d5-85dd-3c20dcf2bc98",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_song_workshop_top",
+    "credits": 8,
+    "submitId": "534f2b9f-5040-465d-a453-273e57982b9d",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_jincheng",
+    "credits": 8,
+    "submitId": "7646ceb4-6539-4055-b873-ca6d657f1a80",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_design_studio",
+    "credits": 8,
+    "submitId": "5a6f9437-5ec1-4885-82b6-97fd41fbc862",
+    "at": "2026-10-31 16:17"
+   },
+   {
+    "key": "lay_song_workshop",
+    "credits": 8,
+    "submitId": "aeb17bd5-a6f1-4f45-b689-86bbd3d8c772",
+    "at": "2026-10-31 16:19"
    }
   ]
  }
