@@ -130,6 +130,123 @@
    "submitted": true,
    "resourceId": "777c0c55-94cf-4886-848c-f91b7f41c98f",
    "result": "projects/2026-11-AI艺术短片/assets/v1/prop_tang_ling_v1.png"
+  },
+  "prop_reeling_hands_v1": {
+   "updateId": "ac36901b-2e35-48f5-9a31-58096b19c63d",
+   "nodeId": "node_e6m6gajxay",
+   "title": "道具·挑丝的手 v1",
+   "submitId": "72bb0545-5f85-4711-83f2-b19d689395b9",
+   "submitted": true,
+   "resourceId": "3a0463dc-a0f1-4b26-958c-0beccdad036d",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_reeling_hands_v1.png"
+  },
+  "prop_backstrap_loom_v2": {
+   "updateId": "071f9d3f-c257-4fa5-9b17-91a90c844a9c",
+   "nodeId": "node_d8s3yyrwch",
+   "title": "道具·原始腰机和手 v2",
+   "submitId": "9bb6b90b-f43f-4e6c-8842-0b13e3a6ffb0",
+   "submitted": true,
+   "resourceId": "207b90bb-6b14-4ecd-b1b8-0ef71aca3997",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_backstrap_loom_v2.png"
+  },
+  "loc_mountains_v1": {
+   "updateId": "07f3c7c8-3b15-4753-bbc0-ecd3d7225bfc",
+   "nodeId": "node_fcqr1b4ygx",
+   "title": "场景·丝线越群山 v1",
+   "submitId": "e6a224e9-4b91-45ff-994c-959e55b5f1ef",
+   "submitted": true,
+   "resourceId": "60995422-c017-400a-80e5-1076cb7d45ac",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_mountains_v1.png"
+  },
+  "loc_silk_dunes_v2": {
+   "updateId": "d47d1da3-f4ca-4aed-91e5-97877cea1382",
+   "nodeId": "node_78ztjr7gq6",
+   "title": "场景·丝路·绸成沙丘 v2",
+   "submitId": "e40a479f-eda8-44bb-a2f8-0cc27a1bc812",
+   "submitted": true,
+   "resourceId": "12ab7897-7e51-41c0-8641-6cd79aa86ae9",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_silk_dunes_v2.png"
+  },
+  "loc_jiangnan_v2": {
+   "updateId": "6774038c-91eb-49c0-a8ad-dacf5e875a73",
+   "nodeId": "node_fazfs4gh9g",
+   "title": "场景·江南水乡晨雾 v2",
+   "submitId": "f6258e98-8693-4d63-a85d-5ded1e14dafd",
+   "submitted": true,
+   "resourceId": "d79a92a2-9e33-403a-be04-2267e755a72f",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_jiangnan_v2.png"
+  },
+  "prop_scroll_v1": {
+   "updateId": "f9311382-fbef-41c7-8fb2-2606d47275e1",
+   "nodeId": "node_226nngw0wt",
+   "title": "道具·《蚕织图》风格长卷 v1",
+   "submitId": "5e038985-a84e-44e3-a8e0-3a7499d1e4e6",
+   "submitted": true,
+   "resourceId": "e0a9dd7a-4fb5-40bb-b6ce-f61be31430d4",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_scroll_v1.png"
+  },
+  "prop_song_painting_v1": {
+   "updateId": "9d01c1c9-8d26-4389-9cd8-2d826136428e",
+   "nodeId": "node_xrtr8wr0v5",
+   "title": "道具·画中作坊（工笔版） v1",
+   "submitId": "f7fc759b-e310-4f27-ba40-08edba5e56ef",
+   "submitted": true,
+   "resourceId": "efd41d63-6b28-4c22-96e2-31e6149a943a",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_song_painting_v1.png"
+  },
+  "loc_song_feeding_v1": {
+   "updateId": "509a93a1-7228-4c6f-a974-383b284a0af4",
+   "nodeId": "node_zsrkdjqhrr",
+   "title": "场景·南宋喂蚕 v1",
+   "submitId": "460a30d8-a0bb-4ceb-9658-7aba554d8ffa",
+   "submitted": true,
+   "resourceId": "74870b81-c073-46cc-8ccf-163c2fde7ce4",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_song_feeding_v1.png"
+  },
+  "loc_song_reeling_v1": {
+   "updateId": "6c4b06b3-b226-4015-9f06-d6f05626f23d",
+   "nodeId": "node_cmrm4najb4",
+   "title": "场景·南宋缫丝 v1",
+   "submitId": "be429bb8-7e78-46ba-8f07-4484d66861fb",
+   "submitted": true,
+   "resourceId": "eb6c286e-0fe2-4a1d-87ae-49ea72ebebf4",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_song_reeling_v1.png"
+  },
+  "loc_song_cutting_v1": {
+   "updateId": "46731651-be95-4ca8-905a-4eec335247ab",
+   "nodeId": "node_z9fsepzasz",
+   "title": "场景·南宋剪帛 v1",
+   "submitId": "d9bf1dc5-5316-4568-a310-31f7daf9809f",
+   "submitted": true,
+   "resourceId": "4ae8f37f-1e92-4fb1-b74e-c2d3ef9473ef",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_song_cutting_v1.png"
+  },
+  "loc_lz_river_today_v1": {
+   "updateId": "16576867-12ea-4254-83f8-fe8142217389",
+   "nodeId": "node_49w7wm0388",
+   "title": "场景·今日兰州黄河（与古渡口同机位） v1",
+   "submitId": "9eb305d5-05a3-48a7-8829-a68d4f5b4c44",
+   "submitted": true,
+   "resourceId": "136ad065-d164-4942-8103-067e7048d17f",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_lz_river_today_v1.png"
+  },
+  "loc_design_studio_v1": {
+   "updateId": "34ff1ace-9756-4aa3-87a3-9433331c845c",
+   "nodeId": "node_fdb1gfrbr1",
+   "title": "场景·今日设计台（打板裁剪） v1",
+   "submitId": "f8109663-8efe-4cd9-9250-804485ac2e81",
+   "submitted": true,
+   "resourceId": "f1730484-e7dd-401e-97f2-c7a687d9b3bc",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_design_studio_v1.png"
+  },
+  "loc_earth_night_v1": {
+   "updateId": "005fca44-ea51-46fb-a3fb-3e5366718785",
+   "nodeId": "node_pjw2wzzef0",
+   "title": "场景·大地经纬（结尾） v1",
+   "submitId": "9e1b4e95-0f36-4825-b98a-6078333a1bba",
+   "submitted": true,
+   "resourceId": "7233653f-a603-4064-991c-4cd78a99cffc",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_earth_night_v1.png"
   }
  },
  "ledger": {
@@ -201,6 +318,84 @@
     "credits": 8,
     "submitId": "07867be8-187b-4d0b-8cb5-94e7878e1a3f",
     "at": "2026-10-31 15:46"
+   },
+   {
+    "key": "prop_reeling_hands_v1",
+    "credits": 8,
+    "submitId": "72bb0545-5f85-4711-83f2-b19d689395b9",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "prop_backstrap_loom_v2",
+    "credits": 8,
+    "submitId": "9bb6b90b-f43f-4e6c-8842-0b13e3a6ffb0",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_mountains_v1",
+    "credits": 8,
+    "submitId": "e6a224e9-4b91-45ff-994c-959e55b5f1ef",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_silk_dunes_v2",
+    "credits": 8,
+    "submitId": "e40a479f-eda8-44bb-a2f8-0cc27a1bc812",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_jiangnan_v2",
+    "credits": 8,
+    "submitId": "f6258e98-8693-4d63-a85d-5ded1e14dafd",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "prop_scroll_v1",
+    "credits": 8,
+    "submitId": "5e038985-a84e-44e3-a8e0-3a7499d1e4e6",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "prop_song_painting_v1",
+    "credits": 8,
+    "submitId": "f7fc759b-e310-4f27-ba40-08edba5e56ef",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_song_feeding_v1",
+    "credits": 8,
+    "submitId": "460a30d8-a0bb-4ceb-9658-7aba554d8ffa",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_song_reeling_v1",
+    "credits": 8,
+    "submitId": "be429bb8-7e78-46ba-8f07-4484d66861fb",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_song_cutting_v1",
+    "credits": 8,
+    "submitId": "d9bf1dc5-5316-4568-a310-31f7daf9809f",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_lz_river_today_v1",
+    "credits": 8,
+    "submitId": "9eb305d5-05a3-48a7-8829-a68d4f5b4c44",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_design_studio_v1",
+    "credits": 8,
+    "submitId": "f8109663-8efe-4cd9-9250-804485ac2e81",
+    "at": "2026-10-31 15:55"
+   },
+   {
+    "key": "loc_earth_night_v1",
+    "credits": 8,
+    "submitId": "9e1b4e95-0f36-4825-b98a-6078333a1bba",
+    "at": "2026-10-31 15:55"
    }
   ]
  }
