@@ -58,4 +58,4 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - `tools/setup.sh` 跑通；即梦 CLI 1.2.1 重装（安装脚本先读，用户批准后运行；下载时连接被重置几次，重试成功）。登录成功，有效期到 2026-10-31 20:07 UTC（约 6 小时）。`auth wait` 第一次报 `auth_dependency_failed`（可重试），用同一个 device code 重试就成功了。
   - 账号 maestro 会员，可用 29,475 积分（11-22 到期 13,455；11-26 到期 3,700；11-27 到期 12,320）。模型里有 `seedream_5.0_pro`、`seedance_2.5_draft`、`seed_music_1.0`。
   - 写好了小丽三视图定妆提示词 `projects/2027-01-2026年度片/prompts/xiaoli_turnaround_v1.md`（没生成）。**用户：小丽和年度片暂停，改做一个新片子**（内容等用户说明）。年度片画布、状态文件都还没建。
-  - **新项目：丽尚国潮 AI 艺术短片（校企合作，四集《源启》《流韵》《汇影》《潮鸣》）**，目录 `projects/2026-11-AI艺术短片/`：方案 PDF 和全文 `plan_text.txt`、参考片 `refs/东方树叶十周年.mp4`（拉片在 `refs/dfsy_analysis/`）。先做第一集《源启》（丝绸）。研究结论和待决问题在 `ep1_study.md`，等用户回复。
+  - **新项目：丽尚国潮 AI 艺术短片（校企合作，四集《源启》《流韵》《汇影》《潮鸣》）**，目录 `projects/2026-11-AI艺术短片/`：方案 PDF 和全文 `plan_text.txt`、参考片 `refs/东方树叶十周年.mp4`（拉片在 `refs/dfsy_analysis/`）。先做第一集《源启》（丝绸）。研究结论在 `ep1_study.md`。用户（10-31）：思路由 Claude 研究、史实由 Claude 整理、品牌最后点到集团、可以有旁白、时长不固定。史实表 `ep1_facts.md`，三个方向和推荐结构（含旁白草稿）`ep1_treatment.md`，等用户选方向。
