@@ -122,6 +122,23 @@
 | QQ 24 周年动画（两代企鹅相见） | 品牌 IP 承载情感节点的写法 |
 - 需要拉片时，请把参考片的 480p 版本传到仓库（云端下载不了 YouTube、Vimeo），用 `tools/ref_analyze.py` 出镜头表和节奏统计。
 
+### 10b. YouTube 参考片单（2026-10-31 检索；只看了标题和频道，**还没拉片**）
+| # | 参考 | 链接 | 学什么 / 用在哪 |
+|---|---|---|---|
+| 1 | Google《2025 — Year in Search》（3:43） | https://youtu.be/Vv_sjpclsZ8 | 年度回顾的结构和节奏：真实影像快切、情绪逐步抬升、结尾爆发 → 用于 §4 结构和年末真实照片快闪 |
+| 2 | Little Big World《Miniature Mountain Magic: Four Seasons in the Alps》 | https://youtu.be/JON7AucDuAE | 同一个微缩世界里四季变换 → S1、"季节原地变换"转场 |
+| 3 | Little Big World《Beautiful Beijing》《Shiny Shanghai》 | https://youtu.be/g0lTYTnoFW8 · https://youtu.be/yOvNGts1Qag | 中国城市做成微缩模型的观感、俯视角、浅景深 → S1 三城 |
+| 4 | POP MART《THE MONSTERS BIG INTO ENERGY Series》《Lazy Yoga Series》 | https://youtu.be/RFcqtjeybPM · https://youtu.be/4UBNg76IMts | 潮玩品牌怎么拍自家玩偶：材质、光、玩偶尺度的镜头 → 小丽的质感 |
+| 5 | Pixar《Bao》片段 | https://youtu.be/OI6PJ2j7EWU | 小体量 3D 角色的表演和中国生活细节 → 小丽的动作要"有意义、灵动" |
+| 6 | 河南卫视《唐宫夜宴》原版 | https://youtu.be/5Qdlz2yWDFA | 人物走进文物和古画的虚实合成、国潮奇观 → 小丽走进照片 / 照片长成场景 |
+| 7 | 《只此青绿》选段《入画》（CCTV） | https://youtu.be/ky7mmHiACVE | 青绿配色、留白、宋式克制 → 宋画色基准 |
+| 8 | 河南卫视水下舞《洛神水赋》（SCMP 片段） | https://youtu.be/2kg3N-Kz0qI | 一个镜头的视觉奇观 → 年末"真空"那一刻 |
+| 9 | Panda Express《Fortune Tales》（5:11） | https://youtu.be/GVPHdFX9iHY | 品牌用动画讲春节故事的温度 → 片尾新年祝福的情绪 |
+| 10 | Spotify《10 Years of Wrapped》案例 | https://youtu.be/UR9KUwrdoIs | 年度数字、关键词的动态排版 → 画面文字和数字 |
+| 11 | 「Amazing Animation Based on Old Photographs」 | https://youtu.be/LRTHSR1R0H4 | 静态照片做 2.5D 视差 → 真实照片的处理（§7b） |
+| 12 | 「I Made a 3D AI Animated Short Film With Consistent Characters | Seedance 2.5」 | https://youtu.be/9KYt9ustvok | Seedance 2.5 做 3D 角色一致性的实际水平和流程 → 生产预期 |
+- 建议优先拉片：#1（结构节奏）、#2（微缩 + 四季）、#4（玩偶质感）。
+
 ## 11. 制作流程和确认关口（brand-video）
 | 步骤 | 内容 | 关口 |
 |---|---|---|
