@@ -10,6 +10,9 @@
 | 集团简介 2026（PDF，13 页） | `brand/（已压缩）丽尚国潮集团简介2026.pdf` | ✅ 用户提供 | 品牌信息来源，整理见 BRAND.md |
 | 文字标「丽尚国潮」截图 | `brand/logo_wordmark_from_pdf_p6.png` | 🟡 | 截自 PDF 第 6 页，低分辨率，只能当参考；交付物要用原始矢量文件 |
 | 圆形图形标截图 | `brand/logo_mark_from_pdf_p6.png` | 🟡 | 截自 PDF 第 6 页页眉（红底反白），放大过，只能当参考 |
+| **logo 文字标（高清）** | `brand/logo_wordmark.png` | ✅ 用户提供 2026-10-31 | 2000×445 透明底位图，黑字 + 「国」字红色叶形 |
+| **logo 圆标（高清）** | `brand/logo_mark.png` | ✅ 用户提供 2026-10-31 | 2000×1995 透明底位图，红色 |
+| 杭州环北丝绸服装城航拍（白天） | `brand/photos/huanbei_aerial_day.jpg` | ✅ 用户提供 2026-10-31 | 即梦节点 `ref_huanbei`（AI 艺术短片画布） |
 
 ## 1b. IP 形象（小丽）
 外形锁定和提示词锁定段见 `brand/xiaoli_identity.md`。
@@ -31,6 +34,7 @@
 ## 4. 场景
 | 资产 | 位置 / 节点 | 状态 | 说明 |
 |---|---|---|---|
+| AI 艺术短片第一集的资产 | 见 `projects/2026-11-AI艺术短片/ep1_bible.md` | 🟡 | 生丝道具、竹林暗场、南宋丝织作坊、环北黄昏（第一批） |
 
 ## 5. 交付物（海报、图片、视频）
 | 交付物 | 位置 | 状态 | 来源（工具、提示词、节点） |
@@ -41,3 +45,4 @@
 |---|---|---|---|---|
 | **小丽工作画布（现用）** | Lovart | `2ujk8uexd7gg`，对话 `5dea0f52-092a-401c-9f62-52c2b180b73a`（thinking 模式） | 本机 `~/.lovart/state.json`（新容器要重新 `project-add`，**不要带 --name**） | Lovart 网页 |
 | 旧画布「小丽」（不用） | Lovart | `ot6jDEQsAo` | — | — |
+| **AI 艺术短片 · 第一集《源启》** | 即梦 | `203fb285-a432-4f72-87d7-58187d7092e9`（https://jimeng.jianying.com/ai-tool/ai-canvas/203fb285-a432-4f72-87d7-58187d7092e9） | `projects/2026-11-AI艺术短片/jimeng-state.json` | `tools/jm.py … ledger` |

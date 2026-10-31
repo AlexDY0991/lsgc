@@ -1,0 +1,78 @@
+{
+ "projectId": "203fb285-a432-4f72-87d7-58187d7092e9",
+ "webUrl": "https://jimeng.jianying.com/ai-tool/ai-canvas/203fb285-a432-4f72-87d7-58187d7092e9",
+ "nodes": {
+  "ref_huanbei": {
+   "uploadResourceId": "c7e36d85-bd4f-4522-8bff-2d5f20ee37e9",
+   "updateId": "f35d04f5-93b5-4397-9184-6e1e23301dc2",
+   "nodeId": "node_77xj6qxq59",
+   "title": "REF · ref_huanbei"
+  },
+  "prop_silk_v1": {
+   "updateId": "d0e71468-b932-404b-869f-d0f8771f712f",
+   "nodeId": "node_txdtfwapb4",
+   "title": "道具·生丝 v1",
+   "submitId": "cb563bc7-c6bf-4244-a361-bb4a8533e5b7",
+   "submitted": true,
+   "resourceId": "f823b64a-6255-4be1-afe5-3d5391dfce80",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/prop_silk_v1.png"
+  },
+  "loc_bamboo_v1": {
+   "updateId": "0085bccc-625b-46b6-ae48-1d6967ca01c2",
+   "nodeId": "node_ncy1thggdk",
+   "title": "场景·竹林暗场 v1",
+   "submitId": "f76e2943-dd6d-493c-9b95-d271a309bf8b",
+   "submitted": true,
+   "resourceId": "7f1aab69-4425-4514-a3cd-f77f2198339a",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_bamboo_v1.png"
+  },
+  "loc_song_workshop_v1": {
+   "updateId": "a55a4506-dc9a-4844-a8d7-29c6c8e0afde",
+   "nodeId": "node_jrpq773eck",
+   "title": "场景·南宋丝织作坊 v1",
+   "submitId": "64c6d58e-525c-4cff-abb0-4dfd134681f0",
+   "submitted": true,
+   "resourceId": "29796638-1e1d-4b18-8233-816ecc00dfa4",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_song_workshop_v1.png"
+  },
+  "loc_huanbei_dusk_v1": {
+   "updateId": "49d7c710-a7e8-4549-ad1e-e1388511a58c",
+   "nodeId": "node_z72ph9bxzm",
+   "title": "场景·环北黄昏 v1",
+   "submitId": "7f8ca2dd-61ef-4c09-ab71-21f6a2189531",
+   "submitted": true,
+   "resourceId": "66a49f6f-32c3-478e-ba8e-7c56a2ed1b16",
+   "result": "projects/2026-11-AI艺术短片/assets/v1/loc_huanbei_dusk_v1.png"
+  }
+ },
+ "ledger": {
+  "budget": 800,
+  "note": "budget = 资产阶段做图上限；视频预算等用户定",
+  "runs": [
+   {
+    "key": "prop_silk_v1",
+    "credits": 8,
+    "submitId": "cb563bc7-c6bf-4244-a361-bb4a8533e5b7",
+    "at": "2026-10-31 15:24"
+   },
+   {
+    "key": "loc_bamboo_v1",
+    "credits": 8,
+    "submitId": "f76e2943-dd6d-493c-9b95-d271a309bf8b",
+    "at": "2026-10-31 15:24"
+   },
+   {
+    "key": "loc_song_workshop_v1",
+    "credits": 8,
+    "submitId": "64c6d58e-525c-4cff-abb0-4dfd134681f0",
+    "at": "2026-10-31 15:24"
+   },
+   {
+    "key": "loc_huanbei_dusk_v1",
+    "credits": 8,
+    "submitId": "7f8ca2dd-61ef-4c09-ab71-21f6a2189531",
+    "at": "2026-10-31 15:24"
+   }
+  ]
+ }
+}

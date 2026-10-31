@@ -59,3 +59,6 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 账号 maestro 会员，可用 29,475 积分（11-22 到期 13,455；11-26 到期 3,700；11-27 到期 12,320）。模型里有 `seedream_5.0_pro`、`seedance_2.5_draft`、`seed_music_1.0`。
   - 写好了小丽三视图定妆提示词 `projects/2027-01-2026年度片/prompts/xiaoli_turnaround_v1.md`（没生成）。**用户：小丽和年度片暂停，改做一个新片子**（内容等用户说明）。年度片画布、状态文件都还没建。
   - **新项目：丽尚国潮 AI 艺术短片（校企合作，四集《源启》《流韵》《汇影》《潮鸣》）**，目录 `projects/2026-11-AI艺术短片/`：方案 PDF 和全文 `plan_text.txt`、参考片 `refs/东方树叶十周年.mp4`（拉片在 `refs/dfsy_analysis/`）。先做第一集《源启》（丝绸）。研究结论在 `ep1_study.md`。用户（10-31）：思路由 Claude 研究、史实由 Claude 整理、品牌最后点到集团、可以有旁白、时长不固定。史实表 `ep1_facts.md`，三个方向和推荐结构（含旁白草稿）`ep1_treatment.md`，等用户选方向。
+  - 用户选方向 A「一根丝」，旁白草稿同意先用；提供 logo 高清位图（`brand/logo_wordmark.png`、`brand/logo_mark.png`）和环北航拍（`brand/photos/huanbei_aerial_day.jpg`）。用户提醒：即梦视频用运镜预设和全能参考（m2v）提高准确度。
+  - 即梦画布「丽尚国潮 AI艺术短片 第一集 源启」已建，状态文件 `projects/2026-11-AI艺术短片/jimeng-state.json`（资产阶段做图上限 800 积分，视频预算未定）。`tools/jm.py` 加了 `--ratio`。
+  - 第一批资产 4 张（32 积分）：生丝道具、竹林暗场、南宋丝织作坊、环北黄昏。连贯性设定和资产表在 `ep1_bible.md`，等用户确认。
