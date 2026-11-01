@@ -955,6 +955,183 @@
    "submitted": true,
    "resourceId": "522e5551-d7a4-4b06-8bc1-8d21f5c0bd92",
    "result": "projects/2026-11-AI艺术短片/video/r1/V12c_people.mp4"
+  },
+  "A_l1": {
+   "updateId": "8934e413-a494-429b-a26b-3165ad5b1f97",
+   "nodeId": "node_v5g9cb1ar7",
+   "title": "配音·A_l1",
+   "submitId": "f7dcc675-b5a3-4cf9-84d7-71f40df6b099",
+   "submitted": true,
+   "resourceId": "61a11fd6-e98e-43c5-b5a5-f4a434755ab0",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l1.wav"
+  },
+  "A_l2": {
+   "updateId": "997a4c7c-84e7-47cd-a84f-a6dea0d5368c",
+   "nodeId": "node_ppvmbdwjkq",
+   "title": "配音·A_l2",
+   "submitId": "63238e50-f7d7-4761-a8ef-e05530de2f1d",
+   "submitted": true,
+   "resourceId": "0b7b3f5d-7977-44c9-bb50-6cf6e6bed728",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l2.wav"
+  },
+  "A_l3": {
+   "updateId": "d8f59c3d-490e-4197-aa29-4719b55a8740",
+   "nodeId": "node_jxa4wtnh10",
+   "title": "配音·A_l3",
+   "submitId": "a9e5c2d7-9c8f-4b31-a552-7477530b5411",
+   "submitted": true,
+   "resourceId": "7853adc7-8ed4-47f6-b877-e174b843ae99",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l3.wav"
+  },
+  "A_l4": {
+   "updateId": "f4a983df-dbca-455d-8a46-c1a8b6e1587c",
+   "nodeId": "node_mv5a2sjwex",
+   "title": "配音·A_l4",
+   "submitId": "1078d915-1d6b-4316-bacb-efc3367c1b8a",
+   "submitted": true,
+   "resourceId": "87ca37fb-9fbe-4100-914b-04881ba17cca",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l4.wav"
+  },
+  "A_l5": {
+   "updateId": "eb42edd7-33f9-4482-8d29-cc8fd4eec46d",
+   "nodeId": "node_cnc9edpa17",
+   "title": "配音·A_l5",
+   "submitId": "3f6ce7d8-d57b-497b-b9d6-4e1c259f7223",
+   "submitted": true,
+   "resourceId": "48042586-fedd-430c-bc88-0bc83089c5c9",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l5.wav"
+  },
+  "A_l6": {
+   "updateId": "f635e5c5-fda6-4ae5-b8ca-78c0312df828",
+   "nodeId": "node_b9nwnjb6d6",
+   "title": "配音·A_l6",
+   "submitId": "e8c94025-1756-4f2f-bf3c-561ba1f79274",
+   "submitted": true,
+   "resourceId": "ccc01a48-16c3-4825-a30e-0efbe49e69fa",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l6.wav"
+  },
+  "A_lv": {
+   "updateId": "921c85f0-ee81-4b5a-b0f2-bc01efe4220b",
+   "nodeId": "node_sf7pwb8y98",
+   "title": "配音·A_lv",
+   "submitId": "b8318308-5996-434b-ae8a-c6ea8fce7410",
+   "submitted": true,
+   "resourceId": "35a20ac2-f9d5-4e07-9b5b-75637a6d5371",
+   "result": "projects/2026-11-AI艺术短片/audio/A_lv.wav"
+  },
+  "A_l7": {
+   "updateId": "d13b2a0f-6c20-4a62-bbeb-4dfa13c74d8f",
+   "nodeId": "node_e6sk7bwwy6",
+   "title": "配音·A_l7",
+   "submitId": "f338c3eb-4a26-4a10-97b7-539642bbb867",
+   "submitted": true,
+   "resourceId": "dbed4aa6-c0bc-41df-91d5-6351c14d3dd3",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l7.wav"
+  },
+  "A_l8": {
+   "updateId": "dd5d1939-f109-47e1-a448-e307f55733e0",
+   "nodeId": "node_paseb4ym2b",
+   "title": "配音·A_l8",
+   "submitId": "b6f964c1-9b81-47fc-9e4e-e5685f8ad7fd",
+   "submitted": true,
+   "resourceId": "c1415a04-967e-4a33-8c32-b14b7dea47f6",
+   "result": "projects/2026-11-AI艺术短片/audio/A_l8.wav"
+  },
+  "A_lv_f": {
+   "updateId": "cc6fad0c-aaf0-4761-8219-5de4c22239f8",
+   "nodeId": "node_90k5e8q7hc",
+   "title": "配音样音·端庄女声",
+   "submitId": "32a2c309-b290-4fc8-b8a5-ec7c04e8542f",
+   "submitted": true,
+   "resourceId": "24cee749-9951-4158-bf15-f44ec6d6ddee",
+   "result": "projects/2026-11-AI艺术短片/audio/A_lv_f.wav"
+  },
+  "A_lv_m2": {
+   "updateId": "85e8d2ea-f7d9-406f-84db-a231595f17aa",
+   "nodeId": "node_kw14q1p6m5",
+   "title": "配音样音·磁性男主播",
+   "submitId": "285c4ab0-2049-4aa6-add7-d27bc744aaa9",
+   "submitted": true,
+   "resourceId": "2118b2f7-36e7-4b5a-9372-c324c6b16167",
+   "result": "projects/2026-11-AI艺术短片/audio/A_lv_m2.wav"
+  },
+  "M1_guqin": {
+   "updateId": "fa970b30-460c-4725-82c4-d4b2cfa73f64",
+   "nodeId": "node_0xvjyq8j8g",
+   "title": "配乐·M1 古琴弦乐史诗",
+   "submitId": "647245c3-c058-41ab-a877-9d3db0db886e",
+   "submitted": true,
+   "resourceId": "a7510376-5bf3-4346-ba4a-9c0bc67c520d",
+   "result": "projects/2026-11-AI艺术短片/audio/M1_guqin.wav"
+  },
+  "M2_piano": {
+   "updateId": "9e86accd-3427-4080-9bdf-a0fa03c1a9f1",
+   "nodeId": "node_8s5v40k66a",
+   "title": "配乐·M2 钢琴弦乐现代",
+   "submitId": "02f53db3-566a-4e59-bbd0-e422f154e636",
+   "submitted": true,
+   "resourceId": "b42c4438-fd72-4a64-a196-fdbfa76c6ebb",
+   "result": "projects/2026-11-AI艺术短片/audio/M2_piano.wav"
+  },
+  "M3_taiko": {
+   "updateId": "1f2e69da-c905-4f75-bffd-075c987c2422",
+   "nodeId": "node_y5dxzarzpg",
+   "title": "配乐·M3 民乐太鼓",
+   "submitId": "368b4644-4267-47c1-a54b-ecf0a001adcb",
+   "submitted": true,
+   "resourceId": "5fba4f28-1bed-472e-b74f-8da5a6c161ae",
+   "result": "projects/2026-11-AI艺术短片/audio/M3_taiko.wav"
+  },
+  "ref_songcut_frame": {
+   "uploadResourceId": "a90ec22e-19b9-402b-8974-621ba1ac22d7",
+   "updateId": "bcb7ea06-d204-4ba8-97d8-4e4d5e24e5c9",
+   "nodeId": "node_79b5dh6ns0",
+   "title": "REF · ref_songcut_frame"
+  },
+  "V14_climax_ancient": {
+   "updateId": "5a3933cf-7cf9-4d40-9b9e-e2d574480493",
+   "nodeId": "node_bwsgt3w5fq",
+   "title": "视频·V14 高潮古代微距",
+   "submitId": "c32b9380-ef8c-436b-ba0b-58b1945691d4",
+   "submitted": true,
+   "resourceId": "3a074360-f818-4b92-9ebd-4684b40935aa",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V14_climax_ancient.mp4"
+  },
+  "V15_climax_silk": {
+   "updateId": "c1189d09-abfe-4889-9302-e1be34f0683e",
+   "nodeId": "node_9sq75aer5s",
+   "title": "视频·V15 高潮蚕丝微距",
+   "submitId": "66ed4951-d798-40ba-93ca-e10edc92a1f4",
+   "submitted": true,
+   "resourceId": "7707fe22-40f7-4c0d-8f8c-ea4a01578a02",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V15_climax_silk.mp4"
+  },
+  "V16_climax_modern": {
+   "updateId": "4561e85b-7e48-4efa-815b-505a03c43a6d",
+   "nodeId": "node_qz9ggcp5bb",
+   "title": "视频·V16 高潮今天微距+匹配剪",
+   "submitId": "04a94cd9-13ba-4128-a7ac-cf9f9b572b10",
+   "submitted": true,
+   "resourceId": "4e6f073d-0c9d-44d2-ad06-91a28d4694fc",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V16_climax_modern.mp4"
+  },
+  "V17_tang_redo": {
+   "updateId": "070ca3a7-2304-4c49-befa-5a14afd92a61",
+   "nodeId": "node_rqtfbw42wq",
+   "title": "视频·V17 唐投梭重做",
+   "submitId": "b2d82f21-4708-4561-b1d6-8f9a56562448",
+   "submitted": true,
+   "resourceId": "7de4af23-80e4-4ae0-a072-74dc5adedeb6",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V17_tang_redo.mp4"
+  },
+  "V18_scroll_redo": {
+   "updateId": "5227f26a-be3c-4013-b0f6-1172c4fef068",
+   "nodeId": "node_rrgqxp5cs4",
+   "title": "视频·V18 长卷重做",
+   "submitId": "6723da42-37e8-483c-8424-a0a7ee2dc671",
+   "submitted": true,
+   "resourceId": "46a18760-2dbd-4e6c-ae26-4d4e4adc1fed",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V18_scroll_redo.mp4"
   }
  },
  "ledger": {
@@ -1596,6 +1773,120 @@
     "credits": 108,
     "submitId": "7fe5967d-5306-4389-877f-7d0635d4f267",
     "at": "2026-11-01 00:56"
+   },
+   {
+    "key": "A_l1",
+    "credits": 12,
+    "submitId": "f7dcc675-b5a3-4cf9-84d7-71f40df6b099",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l2",
+    "credits": 12,
+    "submitId": "63238e50-f7d7-4761-a8ef-e05530de2f1d",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l3",
+    "credits": 12,
+    "submitId": "a9e5c2d7-9c8f-4b31-a552-7477530b5411",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l4",
+    "credits": 12,
+    "submitId": "1078d915-1d6b-4316-bacb-efc3367c1b8a",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l5",
+    "credits": 12,
+    "submitId": "3f6ce7d8-d57b-497b-b9d6-4e1c259f7223",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l6",
+    "credits": 12,
+    "submitId": "e8c94025-1756-4f2f-bf3c-561ba1f79274",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_lv",
+    "credits": 12,
+    "submitId": "b8318308-5996-434b-ae8a-c6ea8fce7410",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l7",
+    "credits": 12,
+    "submitId": "f338c3eb-4a26-4a10-97b7-539642bbb867",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_l8",
+    "credits": 12,
+    "submitId": "b6f964c1-9b81-47fc-9e4e-e5685f8ad7fd",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_lv_f",
+    "credits": 12,
+    "submitId": "32a2c309-b290-4fc8-b8a5-ec7c04e8542f",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "A_lv_m2",
+    "credits": 12,
+    "submitId": "285c4ab0-2049-4aa6-add7-d27bc744aaa9",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "M1_guqin",
+    "credits": 6,
+    "submitId": "647245c3-c058-41ab-a877-9d3db0db886e",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "M2_piano",
+    "credits": 6,
+    "submitId": "02f53db3-566a-4e59-bbd0-e422f154e636",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "M3_taiko",
+    "credits": 6,
+    "submitId": "368b4644-4267-47c1-a54b-ecf0a001adcb",
+    "at": "2026-11-01 01:34"
+   },
+   {
+    "key": "V14_climax_ancient",
+    "credits": 72,
+    "submitId": "c32b9380-ef8c-436b-ba0b-58b1945691d4",
+    "at": "2026-11-01 01:42"
+   },
+   {
+    "key": "V15_climax_silk",
+    "credits": 72,
+    "submitId": "66ed4951-d798-40ba-93ca-e10edc92a1f4",
+    "at": "2026-11-01 01:42"
+   },
+   {
+    "key": "V16_climax_modern",
+    "credits": 72,
+    "submitId": "04a94cd9-13ba-4128-a7ac-cf9f9b572b10",
+    "at": "2026-11-01 01:42"
+   },
+   {
+    "key": "V17_tang_redo",
+    "credits": 36,
+    "submitId": "b2d82f21-4708-4561-b1d6-8f9a56562448",
+    "at": "2026-11-01 01:42"
+   },
+   {
+    "key": "V18_scroll_redo",
+    "credits": 36,
+    "submitId": "6723da42-37e8-483c-8424-a0a7ee2dc671",
+    "at": "2026-11-01 01:42"
    }
   ]
  }

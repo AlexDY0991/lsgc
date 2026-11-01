@@ -8,6 +8,7 @@ ledger past the budget.
   jm.py STATE upload KEY FILE                      upload a local image and pin it as an image node
   jm.py STATE img KEY --title T --prompt P [--ref KEY ...] [--res 2K] [--model M] [--ratio 16:9]
   jm.py STATE vid KEY --title T --prompt P --first KEY [--last KEY] [--dur 4] [--res 1080p] [--model M] [--mode first_last_frame|m2v] [--ref KEY ...]
+  jm.py STATE tts KEY --title T --prompt TEXT [--voice 沉稳解说Pro] [--model seed_audio_v1] [--scenario text-reading]
   jm.py STATE quote KEY ...
   jm.py STATE run KEY ...                          quote → check budget → confirm → run
   jm.py STATE wait OUTDIR KEY ...                  wait for each run and download its result
@@ -135,6 +136,12 @@ def main():
         key = argv.pop(0)
         title, prompt, dur = opt(argv, "--title"), opt(argv, "--prompt"), opt(argv, "--dur", "60")
         save_node(st, key, "audio", ["--mode", "music", "--model", opt(argv, "--model", "seed_music_1.0"), "--duration", dur, "--prompt", prompt], title)
+    elif cmd == "tts":
+        key = argv.pop(0)
+        title, prompt = opt(argv, "--title"), opt(argv, "--prompt")
+        voice = opt(argv, "--voice", "沉稳解说Pro")
+        model, scen = opt(argv, "--model", "seed_audio_v1"), opt(argv, "--scenario", "text-reading")
+        save_node(st, key, "audio", ["--mode", "tts", "--model", model, "--scenario", scen, "--voice-name", voice, "--prompt", prompt], title)
     elif cmd in ("quote", "run"):
         keys = argv
         args = ["node", "quote", "--project-id", st.P]
@@ -198,7 +205,7 @@ def main():
             rid = next((r["resourceId"] for r in data.get("resources", []) if r.get("state", "succeeded") in ("succeeded", "success")), None)
             print(k, state, flush=True)
             if state == "succeeded" and rid:
-                kind = "mp4" if "video" in e.get("title", "").lower() or k.startswith("V") else ("wav" if k.startswith("M") else "png")
+                kind = "mp4" if "video" in e.get("title", "").lower() or k.startswith("V") else ("wav" if k[0] in "MA" else "png")  # 音频（M 音乐、A 配音）下载后用 ffprobe 认格式
                 o = cli(["resource", "download", rid, "--project-id", st.P, "-o", f"{out}/{k}.{kind}"])
                 print(k, "downloaded" if o.get("ok") else f"download failed {o.get('error')}", flush=True)
                 fresh = State(path)  # other jm.py processes may have written meanwhile: merge, don't clobber

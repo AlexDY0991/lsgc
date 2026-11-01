@@ -1,0 +1,27 @@
+8-second 2.39:1 montage material, four hard-cut macro shots of two seconds, hands and feet only: the motions of ancient silk weaving seen very close, each shot one clear motion. These are inserts for a fast-cut climax.
+
+REFERENCES
+@char_tang_weaver — shot 1: her hands and dark muted red wide sleeves only.
+@char_song_weaver — shots 2 and 4: her hands, grey-blue sleeves, cloth shoes only.
+@char_song_drawboy — shot 3: his hands and undyed sleeves only.
+@prop_tang_loom_3v @prop_hualou_3v2 — loom geometry.
+@style_dfsy_41_6 @style_dfsy_59_6 — tone and grain only.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+
+CRAFT ACCURACY
+The craft is shown exactly as it is really done, at natural working speed; every tool touches what it acts on; nothing appears, vanishes or changes shape; hands have five fingers and keep the same tool for the whole shot.
+The warp is split into an upper and a lower layer; the shuttle always passes INSIDE the opening between the two layers.
+
+SHOTS
+0.0–2.0s — Macro, 100 mm, side-on to the warp at shed height: the upper and lower warp layers form a narrow opening; a boat-shaped wooden shuttle shoots through the opening from RIGHT to LEFT, thrown by a hand in a dark red sleeve that enters from the right; the other hand catches it at the left edge. Grey window light from the left. Hard cut.
+2.0–4.0s — Macro, 100 mm, same side-on angle and the same size in frame as shot 1, a different loom: a hand in a grey-blue sleeve throws a darker worn shuttle through the opening from RIGHT to LEFT. Hard cut.
+4.0–6.0s — Close, 65 mm, looking up: two weathered hands in undyed sleeves grip a bundle of pale cords and pull it straight UP and hold it; the cords go taut. Hard cut.
+6.0–8.0s — Close, 50 mm, low at floor level: a foot in a worn cloth shoe presses a wooden treadle firmly DOWN; the treadle cord jerks; dust on the floorboards.
+
+SOUND
+No music, no voices. Shuttle slide and catch; second shuttle; creak and swish of cords; a heavy wooden thump of the treadle at 6.6s.
+
+KEEP CONSISTENT
+- Four shots, hard cuts at 2.0, 4.0, 6.0s; shuttles move right to left inside the opening; hands only, no faces; no glowing threads, no text.

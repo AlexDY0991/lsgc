@@ -1,0 +1,25 @@
+8-second 2.39:1 montage material in a present-day Hangzhou garment workshop, four hard-cut macro shots of two seconds, hands and machines only: inserts for a fast-cut climax. Shot 4 must match the framing of @ref_songcut_frame exactly.
+
+REFERENCES
+@ref_songcut_frame — the EXACT framing, lens, camera height, light direction and composition of shot 4: a length of cream silk lying across a table, filling the left two-thirds; shear blades entering from the right edge at the same height and angle; a hand holding the silk edge at the bottom right. In shot 4 only the period changes: a modern table and modern tailor's shears.
+@char_designer — her hands and navy shirt cuffs only.
+@style_dfsy_80_2 — grain only.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+Present day: flat cool daylight and a little fluorescent light, low saturation, never bright advertising light.
+
+PEOPLE LOOK — documentary realism, not advertising
+Candid moments caught by a handheld 35 mm documentary camera in available light; the people are unaware of the camera and are caught mid-gesture; focus is sometimes a little soft; framing is imperfect, heads cropped or partly hidden behind out-of-focus foreground objects. Ordinary everyday Chinese faces of different ages and body types: uneven skin, wrinkles, tired eyes, untidy hair, some wear glasses. Cheap, mismatched, worn everyday clothes: pilled sweaters, creased jackets, faded jeans, plastic slippers. Cluttered real backgrounds: plastic bags, cardboard boxes, scooters, tangled wires, stains on walls. Real motion: small hesitations, weight shifts, natural blinking, motion blur on quick hands. Never: posing, symmetrical composition, model faces, smooth or glowing skin, perfect teeth, glossy look, advertising smiles, beauty lighting, everyone looking good at once.
+
+SHOTS
+0.0–2.0s — Macro, 100 mm: the round handwheel of an old industrial sewing machine spins, its spokes passing from RIGHT to LEFT; a hand's fingertips rest on it. Hard cut.
+2.0–4.0s — Macro, 100 mm: a sewing-machine needle punches DOWN through pale silk again and again, the presser foot gripping it; the silk feeds from right to left. Hard cut.
+4.0–6.0s — Close, 65 mm, overhead: a hand pulls a metal ruler across pale silk and draws a white chalk line from RIGHT to LEFT in one stroke; a tape measure lies beside. Hard cut.
+6.0–8.0s — The EXACT framing of @ref_songcut_frame: cream silk across a pale worktable filling the left two-thirds; the long steel blades of modern black-handled tailor's shears enter from the right edge at the same height and angle and close, cutting the silk from right to left in one decisive stroke; a hand in a navy cuff holds the silk edge at the bottom right; the handles stay mostly out of frame.
+
+SOUND
+No music, no voices. The whirr of the handwheel; the rapid needle stutter; the scrape of chalk; the heavy crunch of the shears at 7.0s.
+
+KEEP CONSISTENT
+- Four shots, hard cuts at 2.0, 4.0, 6.0s; hands only; motions right to left; shot 4 framed exactly like @ref_songcut_frame; no text, no logos.
