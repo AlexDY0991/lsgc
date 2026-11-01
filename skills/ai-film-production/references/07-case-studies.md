@@ -6,7 +6,8 @@
 3. KILL A（风格化 3D 动画）
 4. 周杰伦 TVC（实拍转动画广告）
 5. 去有风的地方（城市宣传片，含反面教材）
-6. 如何分析一个新画布
+6. RACER 18（Higgsfield，摩托赛车电影）
+7. 如何分析一个新画布
 
 ---
 
@@ -85,7 +86,24 @@
   - 橘猫中途消失，人物被裁掉头
   - FPV 鱼眼畸变严重，蝴蝶 CG 感强
 
-## 6. 如何分析一个新画布
+## 6. RACER 18
+
+- **链接**：https://higgsfield.ai/zh/@racer18/projects/racer-18
+- **平台**：Higgsfield（不是 TapNow）。视频用 Higgsfield 自家的 Cinema Studio 4.0，图片用 gpt-image-2。
+- **内容**：AI 摩托赛车电影，加爱情线和搞笑的狗角色。
+- **规模**：207 条生成记录：视频 146 条，图片 61 张，约 2 万积分。
+- **最值得学**：
+  - **命名资产系统**：一个角色的每套服装各存一个资产（`leo-kurta`、`leo-dubai-a`、`maya-honbok`），场景、车辆也存成资产，提示词里按名字引用
+  - **换装流程**：角色资产 + 完整服装描述，用 gpt-image-2 生成后另存；服装描述常从参考照片反推
+  - **车辆六视图**：带文字标注的左、右、前、后、顶、前 3/4 视图。同一辆摩托在多个镜头里外形都很稳
+  - 视频提示词用英文，按时间分段，开头写"Preserve X consistently throughout"，结尾分 FACIAL EXPRESSIONS / CINEMATOGRAPHY / LIGHTING / AUDIO 几段
+- **质感问题**：
+  - 卡车坡道飞跃那一镜，车太小，在半空悬停好几帧
+  - 大量真实品牌（奔驰夹克、LV 耳环、古驰花纹），商业项目有侵权风险
+  - 浮夸的 Z 世代风格，克制感不如 TapNow 那几个电影画布
+- **分析方法**：Higgsfield 的公开项目页也能抓。页面加载时会请求 `fnf-api-gw.higgsfield.ai/fnf/folders/<文件夹ID>/items/v2`，返回每条生成记录的提示词、参数、引用的资产和成片链接，可以按 cursor 翻页拿全。
+
+## 7. 如何分析一个新画布
 
 需要 Node + Playwright、Python 3（含 Pillow）、ffmpeg。
 
