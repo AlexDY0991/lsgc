@@ -1132,6 +1132,38 @@
    "submitted": true,
    "resourceId": "46a18760-2dbd-4e6c-ae26-4d4e4adc1fed",
    "result": "projects/2026-11-AI艺术短片/video/r1/V18_scroll_redo.mp4"
+  },
+  "sb3_boutique_open": {
+   "updateId": "f03ed710-ea90-4598-9213-fca6457cfffc",
+   "nodeId": "node_9r42xfw9qt",
+   "title": "sb3_boutique_open",
+   "submitId": "b3cc42cb-8b6f-4c29-99e6-5d0d469cd2ed",
+   "submitted": true,
+   "resourceId": "b62b4f60-1af3-4102-897f-72716e0624fa",
+   "result": "storyboard/v3/sb3_boutique_open.png"
+  },
+  "sb3_boutique_family": {
+   "updateId": "7b7cf436-3d26-4823-a85e-a501e29d0667",
+   "nodeId": "node_xrp00jm1dp",
+   "title": "sb3_boutique_family",
+   "submitId": "643a707c-5345-4b78-bbe0-d85044c78ef4",
+   "submitted": true,
+   "resourceId": "50cd1281-5a14-46c7-8263-e57d2c203821",
+   "result": "storyboard/v3/sb3_boutique_family.png"
+  },
+  "sb3_boutique_touch": {
+   "updateId": "6054f24e-a660-4e43-9504-4deb19ddd750",
+   "nodeId": "node_002pjeerm4",
+   "title": "sb3_boutique_touch",
+   "submitId": "c61e2726-8477-4b0d-8501-3306f83bdb28",
+   "submitted": true,
+   "resourceId": "2d85583c-b296-4dbf-8fb9-e3e390a6528f",
+   "result": "storyboard/v3/sb3_boutique_touch.png"
+  },
+  "V19_boutique": {
+   "updateId": "527b4255-7397-4fe0-ab4e-a09c8eaeb0d3",
+   "nodeId": "node_tspx9zb8xm",
+   "title": "视频·V19 商场高级丝绸店"
   }
  },
  "ledger": {
@@ -1887,6 +1919,24 @@
     "credits": 36,
     "submitId": "6723da42-37e8-483c-8424-a0a7ee2dc671",
     "at": "2026-11-01 01:42"
+   },
+   {
+    "key": "sb3_boutique_open",
+    "credits": 8,
+    "submitId": "b3cc42cb-8b6f-4c29-99e6-5d0d469cd2ed",
+    "at": "2026-11-01 04:53"
+   },
+   {
+    "key": "sb3_boutique_family",
+    "credits": 8,
+    "submitId": "643a707c-5345-4b78-bbe0-d85044c78ef4",
+    "at": "2026-11-01 04:53"
+   },
+   {
+    "key": "sb3_boutique_touch",
+    "credits": 8,
+    "submitId": "c61e2726-8477-4b0d-8501-3306f83bdb28",
+    "at": "2026-11-01 04:53"
    }
   ]
  }

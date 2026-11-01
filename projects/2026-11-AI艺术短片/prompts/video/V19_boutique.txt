@@ -1,0 +1,24 @@
+9-second 2.39:1 documentary sequence, three hard-cut shots of three seconds: a quiet, high-end contemporary silk boutique inside an upscale shopping mall in Hangzhou, the people who keep it and the people who come in. It must feel filmed, not generated, and refined, not flashy.
+
+REFERENCES
+@sb3_boutique_open @sb3_boutique_family @sb3_boutique_touch — the shop interior only: travertine stone, dark walnut, brushed bronze rail, the ivory silk damask draped from the ceiling, the glass shopfront onto the mall corridor. Take the space, materials and light; do NOT copy the faces or bodies of the people in these frames.
+@style_dfsy_80_2 — grain only.
+
+LOOK
+Low-key and restrained like a quiet art-house film: dark warm-grey mid-tones, soft rolled-off highlights, low saturation; warm-neutral light from concealed architectural fixtures plus soft daylight from the mall atrium; never bright advertising light, never glossy. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. No text, no logos, no readable signs, no subtitles.
+
+PEOPLE LOOK — documentary realism in a refined place
+Candid moments caught by a handheld 35 mm documentary camera; the people are unaware of the camera and caught mid-gesture; framing imperfect, heads sometimes cropped or partly hidden by out-of-focus silk in the foreground. Ordinary Chinese faces with real skin texture, fine lines, natural untidy strands of hair; simple good-quality everyday clothes. Real motion: small hesitations, natural blinking. Never: posing, model faces, smooth or glowing skin, advertising smiles, beauty lighting.
+
+SHOTS
+0.0–3.0s — Morning before the mall opens, the corridor outside still dim. 50 mm handheld from the corridor, slightly behind her shoulder: the shop owner, a woman about forty with hair tied back loosely, in a plain dark wool coat, pulls the tall glass door open with one hand and steps in; inside, the concealed lights come on in two soft steps, the hanging ivory silk lit from below. Hard cut.
+3.0–6.0s — Afternoon. Wide shot from deep inside the shop, out-of-focus folded silk in the foreground: a woman in her late twenties in a grey knit and her mother in her fifties in a brown cardigan walk in through the open glass door; the mother slows and reaches out to touch a folded silk scarf on the stone plinth, the daughter glances back at her. Hard cut.
+6.0–9.0s — Close-up, 85 mm: the mother's hand with real wrinkles lifts the edge of an ivory silk damask with a subtle woven floral pattern; the silk slides over her fingers and catches the soft light; behind, out of focus, the shop owner folds a scarf.
+
+SOUND
+No music. Quiet mall ambience before opening (distant footsteps, a floor polisher far away); the soft click of the glass door and the hum of lights at 1.6s; afternoon mall murmur; the whisper of silk on skin.
+
+KEEP CONSISTENT
+- Same boutique in all three shots, same materials and light.
+- The shop owner in shot 1 and in the background of shot 3 is the same woman, same dark coat.
+- No text, no logos, no signs; three hard cuts at 3.0 and 6.0s.
