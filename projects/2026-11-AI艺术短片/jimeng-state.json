@@ -1163,7 +1163,11 @@
   "V19_boutique": {
    "updateId": "527b4255-7397-4fe0-ab4e-a09c8eaeb0d3",
    "nodeId": "node_tspx9zb8xm",
-   "title": "视频·V19 商场高级丝绸店"
+   "title": "视频·V19 商场高级丝绸店",
+   "submitId": "50485da8-8f91-4700-9ea3-3ac602022502",
+   "submitted": true,
+   "resourceId": "8c84eb1f-6527-41ff-825f-73a94d50ef7e",
+   "result": "video/r1/V19_boutique.mp4"
   }
  },
  "ledger": {
@@ -1937,6 +1941,12 @@
     "credits": 8,
     "submitId": "c61e2726-8477-4b0d-8501-3306f83bdb28",
     "at": "2026-11-01 04:53"
+   },
+   {
+    "key": "V19_boutique",
+    "credits": 81,
+    "submitId": "50485da8-8f91-4700-9ea3-3ac602022502",
+    "at": "2026-11-01 05:11"
    }
   ]
  }

@@ -38,8 +38,7 @@ SHOTS = [
  (41.00, 45.00, R('V17_tang_redo'), 0.0, 1, 'tang-weave'),
  (45.00, 47.00, R('V18_scroll_redo'), 0.0, 1, 'scroll'),
  (47.00, 52.00, R('V6b_painting'), 0.0, 1, 'painting-to-real'),
- (52.00, 55.00, R('V7a_drawloom'), 0.0, 1, 'drawboy'),
- (55.00, 57.00, R('V7a_drawloom'), 3.0, 1, 'song-weave'),             # 57s 后眼神发呆，剪掉
+ (52.00, 57.00, R('V7a_drawloom'), 0.0, 0.55, 'drawboy'),           # 55s 织女正脸眼神假 → 整个镜头不用，拽花工慢放撑到 57s
  (57.00, 60.17, R('V7b_silkwoman'), 0.0, 1, 'feed'),
  # 高潮「千年一梭」：4,4,3,3,2,2,2,2,1×8 拍；相邻两刀靠旋转 / 方向 / 上提 / 下压匹配
  (60.17, 62.32, R('V7b_silkwoman'), 3.2, 1, 'reel'),                 # 转轮
@@ -67,10 +66,10 @@ SHOTS = [
  (87.10, 91.60, R('V8a_ferry'), 0.0, 1, 'ferry-to-today'),
  (91.60, 94.10, R('V12c_people'), 3.2, 1, 'river-people'),
  (94.10, 96.10, R('V8b_cities'), 0.6, 1, 'yaou-shangsha'),
- (96.10, 98.50, R('V12c_people'), 6.3, 1, 'family'),
+ (96.10, 98.50, R('V19_boutique'), 3.3, 1, 'boutique-family'),     # 商场高级丝绸店（替换沿街小店）
  (98.50, 100.00, R('V8b_cities'), 3.6, 1, 'nanjing-huanbei'),
  (100.00, 101.50, R('V8b_cities'), 6.6, 1, 'hangzhou-huanbei'),
- (101.50, 102.57, R('V12c_people'), 9.6, 1, 'merchant-shutter'),
+ (101.50, 102.57, R('V19_boutique'), 0.2, 1, 'boutique-open'),     # 店主推门开店（替换拉卷帘门）
  (102.57, 109.57, R('V9_night'), 0.0, 1, 'night-pullup'),
  (109.57, 118.00, LOGO, 0.0, 1, 'logo'),
 ]
