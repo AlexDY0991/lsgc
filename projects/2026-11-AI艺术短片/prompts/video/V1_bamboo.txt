@@ -1,0 +1,22 @@
+12-second 2.39:1 cinematic opening, two shots: a dark bamboo grove emerging from black before dawn, then a macro of one bamboo node whose horizontal ring and vertical fibres read like warp and weft.
+
+REFERENCES
+@sb_1_1 — shot 1 framing, light and bamboo; this IS the first frame's angle.
+@sb_1_2 — shot 2 framing: the bamboo node macro.
+@style_dfsy_41_6 @style_dfsy_80_2 — tone only: colour, contrast, grain; ignore content.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+
+SHOTS
+0.0–8.0s — Bamboo grove before dawn, 35 mm, the camera tracks very slowly from right to left and drifts closer, never stopping. Almost black at first; a narrow cold-white light from the upper left gradually catches the edge of three bamboo stems on the right third of the frame; faint grey-green leaves move slightly in still air; thin mist drifts. The left half of the frame stays dark and empty. An out-of-focus bamboo leaf passes in the foreground at 5.5s. Hard cut at 8.0s.
+8.0–12.0s — Macro of one old bamboo node, 100 mm macro, very slow push-in and slight leftward drift. The horizontal ring of the node and the fine vertical fibres are lit from the left by the same cold light; a little white bloom and fine scratches on the surface; the light slides slowly along the ring. Background black.
+
+SOUND
+No music, no voices. Near silence: a faint breath of wind through leaves, one distant drip of water at 3.0s, a soft creak of bamboo at 9.0s.
+
+KEEP CONSISTENT
+- Two shots, one hard cut at 8.0s; no dissolve.
+- The camera always moves leftward, slowly.
+- Dark, cold, low-saturation; no golden light, no beams, no glowing lines.
+- No people, no text.

@@ -1,0 +1,23 @@
+9-second 2.39:1 dusk sequence, three hard-cut shots of three seconds: the group's three city landmarks lighting up at blue hour — Yaou Department Store in Lanzhou, Huanbei Wholesale Market in Nanjing, Huanbei Silk & Fashion Center in Hangzhou.
+
+REFERENCES
+@ref_lanzhou_yaou_shangsha_day @sb_7_3 — shot 1: the Yaou Department Store building; keep its curved blue glass facade, white vertical fins and the gold sign and emblem on top exactly as in the photo.
+@ref_nanjing_huanbei_day @sb_7_4 — shot 2: the Nanjing Huanbei building; keep the red rooftop sign, the blue glass tower and the cylindrical glass podium exactly as in the photo.
+@ref_huanbei @sb_7_5 — shot 3: the Hangzhou Huanbei building; keep the inverted glass cone, the dark stepped facades and the sign with the round emblem exactly as in the photo.
+@style_dfsy_80_2 — grain only.
+
+LOOK
+Restrained documentary night look: deep blue-grey sky, warm windows, soft highlights, light grain, no neon glow, no bloom, no HDR. Signs stay exactly as in the photos; never invent new text.
+
+SHOTS
+0.0–3.0s — Yaou Department Store at blue hour, 35 mm, slow push-in from slightly below. The gold sign on top lights up at 0.8s; shop windows glow; car light trails along the street on the left. Hard cut.
+3.0–6.0s — Nanjing Huanbei at blue hour, 35 mm, slow leftward drift. The cylindrical glass podium glows warm from inside; the red sign lights at 3.6s; people and scooters cross the junction. Hard cut.
+6.0–9.0s — Hangzhou Huanbei Silk & Fashion Center at blue hour, 28 mm, elevated, very slow push-in. The inverted glass cone glows softly from within; merchants and bales on the forecourt; car trails along the road in front.
+
+SOUND
+No music, no voices. City dusk ambience, distant traffic, a scooter passing at 4.2s.
+
+KEEP CONSISTENT
+- Three shots, hard cuts at 3.0 and 6.0s.
+- Each building exactly as in its photo; no new text, no extra logos.
+- Blue hour, restrained, never glossy.

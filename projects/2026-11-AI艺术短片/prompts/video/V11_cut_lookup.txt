@@ -1,0 +1,24 @@
+8-second 2.39:1 scene in a present-day Hangzhou design studio, two shots: the designer cuts a length of silk in one stroke, then stops, lifts her head and looks out of the window — a quiet, moved look, as if she senses something far away.
+
+REFERENCES
+@char_designer — the designer: face, shoulder-length hair, navy shirt with rolled sleeves, tape measure round her neck; ignore the grey backdrop.
+@lay_design_studio — the room: big window on the left, cutting table, garment rails.
+@sb2_c6_cut — shot 1 framing; this IS the first frame's angle.
+@sb2_c6_lookup — shot 2 framing.
+@style_dfsy_80_2 — grain only.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+Present day: soft cool daylight from the big window on the left, low saturation, never bright advertising light.
+
+SHOTS
+0.0–3.5s — Medium close, 50 mm, the angle of @sb2_c6_cut. The designer bends over the cutting table, presses the cream silk flat with her left hand and cuts it from right to left in one decisive stroke with tailor's shears; the two halves part. Slow push-in. Hard cut at 3.5s.
+3.5–8.0s — Close-up, 85 mm, the angle of @sb2_c6_lookup: she is on the right third of the frame facing left. She stays still for a beat, then slowly lifts her head and looks out of the window on the left; the window light falls on her face; her eyes are calm and slightly moved; she breathes out. The camera almost does not move.
+
+SOUND
+No music, no voices. The crisp sound of the shears at 2.6s, the soft fall of silk, then near silence: a faint city hum through the window, one breath at 6.2s.
+
+KEEP CONSISTENT
+- Two shots, one hard cut at 3.5s.
+- She looks exactly like the character sheet in every frame.
+- No text, no glowing threads.

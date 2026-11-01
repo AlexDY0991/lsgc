@@ -793,6 +793,87 @@
    "submitted": true,
    "resourceId": "332f291a-22b9-4345-8921-c8156f64253e",
    "result": "projects/2026-11-AI艺术短片/video/test/V10_climax_t1.mp4"
+  },
+  "V1_bamboo": {
+   "updateId": "54a2b89e-6ad1-449f-8176-2fb4ce4f4284",
+   "nodeId": "node_z8pzh05j7x",
+   "title": "视频·V1 竹",
+   "submitId": "5c686c40-ada0-4aa5-99fc-5f3095f94ab2",
+   "submitted": true,
+   "resourceId": "c6bb1647-979b-4167-b619-2c1313e91513",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V1_bamboo.mp4"
+  },
+  "V4_silkroad": {
+   "updateId": "8221771f-f7a6-4ccd-8f45-8c71dd55b891",
+   "nodeId": "node_9tpd6p3j1f",
+   "title": "视频·V4 丝路",
+   "submitId": "89a8cb17-4693-4c6d-ac47-5d8d86154ca9",
+   "submitted": true,
+   "resourceId": "05cefd42-f593-43ec-b2ba-169cfc29d2a2",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V4_silkroad.mp4"
+  },
+  "V8a_ferry": {
+   "updateId": "08564ba7-cf9f-4178-837b-5e72dc885c16",
+   "nodeId": "node_9e3cprgv92",
+   "title": "视频·V8a 古渡口→今日兰州",
+   "submitId": "1cb61479-09cf-4c00-a662-f9d0d181da64",
+   "submitted": true,
+   "resourceId": "925380a6-ee0d-4572-9e8b-5dbfc40ab342",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V8a_ferry.mp4"
+  },
+  "V9_night": {
+   "updateId": "8234e1b6-c9e6-4fdc-b997-b4b815e64116",
+   "nodeId": "node_dnfsjjsx2x",
+   "title": "视频·V9 夜景拉高",
+   "submitId": "80ea54bc-f2c2-46c0-851b-8d228e8baacb",
+   "submitted": true,
+   "resourceId": "7a9706ce-3434-47f4-a197-22ba637e691e",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V9_night.mp4"
+  },
+  "V8b_cities": {
+   "updateId": "9eed9e7f-f6eb-436e-a8d9-da1942fbb3c0",
+   "nodeId": "node_asw39dshm1",
+   "title": "视频·V8b 三城黄昏",
+   "submitId": "a10f770e-8aeb-413f-ab0d-bacbc0d7563a",
+   "submitted": true,
+   "resourceId": "efb9676f-a3c1-45c9-b073-a5df45f74ea1",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V8b_cities.mp4"
+  },
+  "V12_people": {
+   "updateId": "8c3691b8-ff26-4873-ac2f-cff33f6e01f8",
+   "nodeId": "node_xp9gysm2bf",
+   "title": "视频·V12 今天的人",
+   "submitId": "1c197504-7d73-43d3-9067-0d3289cd0a35",
+   "submitted": true,
+   "resourceId": "bb9d558f-1be0-4ec1-9283-852669bc6004",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V12_people.mp4"
+  },
+  "V11_cut_lookup": {
+   "updateId": "da6b4992-1ff0-4752-8cfb-64652f04deef",
+   "nodeId": "node_gaa93g2tmk",
+   "title": "视频·V11 今天一剪+抬头",
+   "submitId": "3bbc9bba-ab08-4c0f-a46b-cde9965a1f66",
+   "submitted": true,
+   "resourceId": "2b04ceef-1be6-46eb-a712-1cdf423d629c",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V11_cut_lookup.mp4"
+  },
+  "V6a_scroll": {
+   "updateId": "35a0300a-a859-4545-8237-f6cdc71fd782",
+   "nodeId": "node_8w889gntge",
+   "title": "视频·V6a 长卷展开",
+   "submitId": "bfe99612-af1b-463d-b4a6-40f528c0e557",
+   "submitted": true,
+   "resourceId": "fa0eef18-f902-4f94-bd13-62917f19e03d",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V6a_scroll.mp4"
+  },
+  "V6b_painting": {
+   "updateId": "d38bc17e-90a6-422c-abae-1bdc4e79e3a4",
+   "nodeId": "node_q40v2jt4z4",
+   "title": "视频·V6b 画变真实作坊",
+   "submitId": "d9a65d28-8f53-4304-83ef-9254174337ae",
+   "submitted": true,
+   "resourceId": "a376486a-1dc6-4586-a64e-46e71af432f9",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V6b_painting.mp4"
   }
  },
  "ledger": {
@@ -1326,6 +1407,60 @@
     "credits": 144,
     "submitId": "ecc48ff4-a668-4fb3-9ef4-42e480ff9bcd",
     "at": "2026-10-31 23:41"
+   },
+   {
+    "key": "V1_bamboo",
+    "credits": 108,
+    "submitId": "5c686c40-ada0-4aa5-99fc-5f3095f94ab2",
+    "at": "2026-11-01 00:24"
+   },
+   {
+    "key": "V4_silkroad",
+    "credits": 180,
+    "submitId": "89a8cb17-4693-4c6d-ac47-5d8d86154ca9",
+    "at": "2026-11-01 00:24"
+   },
+   {
+    "key": "V8a_ferry",
+    "credits": 45,
+    "submitId": "1cb61479-09cf-4c00-a662-f9d0d181da64",
+    "at": "2026-11-01 00:24"
+   },
+   {
+    "key": "V9_night",
+    "credits": 72,
+    "submitId": "80ea54bc-f2c2-46c0-851b-8d228e8baacb",
+    "at": "2026-11-01 00:24"
+   },
+   {
+    "key": "V8b_cities",
+    "credits": 81,
+    "submitId": "a10f770e-8aeb-413f-ab0d-bacbc0d7563a",
+    "at": "2026-11-01 00:29"
+   },
+   {
+    "key": "V12_people",
+    "credits": 108,
+    "submitId": "1c197504-7d73-43d3-9067-0d3289cd0a35",
+    "at": "2026-11-01 00:29"
+   },
+   {
+    "key": "V11_cut_lookup",
+    "credits": 72,
+    "submitId": "3bbc9bba-ab08-4c0f-a46b-cde9965a1f66",
+    "at": "2026-11-01 00:29"
+   },
+   {
+    "key": "V6a_scroll",
+    "credits": 36,
+    "submitId": "bfe99612-af1b-463d-b4a6-40f528c0e557",
+    "at": "2026-11-01 00:29"
+   },
+   {
+    "key": "V6b_painting",
+    "credits": 45,
+    "submitId": "d9a65d28-8f53-4304-83ef-9254174337ae",
+    "at": "2026-11-01 00:29"
    }
   ]
  }

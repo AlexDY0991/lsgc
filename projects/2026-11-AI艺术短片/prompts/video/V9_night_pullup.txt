@@ -1,0 +1,16 @@
+8-second 2.39:1 night aerial of Lanzhou: it opens exactly on the overhead view of @ref_lanzhou_yaou_intl_night_aerial — the tall glass tower with its inverted-triangle top seen from above — then the camera rises straight up and pulls back fast, and the city's lights spread out into a dense grid of streets, ending very high above a dark city whose bright roads cross like warp and weft.
+
+REFERENCES
+@ref_lanzhou_yaou_intl_night_aerial — the first frame: the tower, the streets, the lighting. Keep the tower's shape exactly.
+@style_dfsy_80_2 — grain only.
+
+SHOTS
+0.0–8.0s — Starts directly above the tower, matching the reference. 0.0–1.0s the camera holds almost still, a slow drift. 1.0–6.5s it accelerates upward and backward, rising fast; the tower shrinks into the centre; streets of light fan out to every edge of the frame, cars streaking along them. 6.5–8.0s it eases to a stop very high up: a dark city, the main roads glowing in crossing lines, scattered warm windows. Keep the colours restrained: deep blue-black, warm sodium streets, a little cool white; no neon glow, no bloom.
+
+SOUND
+No music. City night ambience that thins as the camera rises; a long soft rush of wind from 1.0s to 6.5s; near silence at the end.
+
+KEEP CONSISTENT
+- One continuous shot, no cuts.
+- The tower keeps its exact shape from the reference.
+- No coastlines, no map shapes, no clouds hiding the city, no text, no glowing threads.

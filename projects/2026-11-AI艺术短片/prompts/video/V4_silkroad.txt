@@ -1,0 +1,29 @@
+20-second 2.39:1 cinematic sequence along the Han–Tang Silk Road, four shots, the whole journey travelling from right to left (east to west): northwestern mountains, a bolt of silk on a camel's back lifted by the wind, a caravan crossing dunes, and the ancient Yellow River ferry at Jincheng (Lanzhou) where bales are loaded onto sheepskin rafts.
+
+REFERENCES
+@sb_4_1 — shot 1: mountain aerial framing and light.
+@sb_4_2 — shot 2: the camel with silk bales, framing.
+@sb_4_3 — shot 3: dunes and caravan, framing.
+@sb_4_4 @lay_jincheng — shot 4: the ferry, river, loess hills, rafts; @lay_jincheng's camera angle IS the angle of shot 4.
+@style_dfsy_41_6 @style_dfsy_80_2 — tone only; ignore content.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+
+PEOPLE
+Caravan drivers and ferrymen: ordinary northwestern men of the Han–Tang period in faded coarse robes and head cloths, weathered faces seen small or from behind, busy, never looking at the camera.
+
+SHOTS
+0.0–5.0s — Aerial over layered northwestern mountains at overcast dawn, snow on the peaks, pale grass on the slopes, mist in the valleys, 24 mm, the camera flies steadily from right to left along a ridge. No roads, no buildings. Hard cut.
+5.0–10.0s — Gobi desert, 50 mm, close at hump height beside a camel walking from right to left; the camera tracks left with it. Bales wrapped in coarse hemp on its back; the corner of one cream silk bolt has come loose and the wind lifts it into slow soft folds. Out-of-focus dunes and a heavy grey sky behind; blowing sand. Hard cut on a fold of the silk.
+10.0–14.0s — Wide shot of soft dunes under flat grey light, 85 mm, slight leftward drift. On a distant ridge a caravan of seven or eight camels and three walkers moves from right to left, the camels' heads pointing left; the curves of the dunes echo the folds of silk. Low horizon, a large empty sky. Hard cut.
+14.0–20.0s — The ancient ferry at Jincheng, exactly the angle of @lay_jincheng, locked-off with a very slow push-in. The wide muddy Yellow River flows from the LEFT of the frame to the RIGHT. On the rammed-earth bank on the left, four men carry hemp-wrapped bales down the slope and lay them on sheepskin rafts at the water's edge; two camels kneel to rest on the bank above; wind blows dust across the hills. No modern buildings, no bridge, no tower.
+
+SOUND
+No music, no voices. Wind over the ridge; camel bells and the creak of the load; blowing sand; at the ferry the heavy rush of the river, the thud of a bale on a raft at 17.5s.
+
+KEEP CONSISTENT
+- Four shots, hard cuts at 5.0, 10.0, 14.0s.
+- Everything travels right to left; the camels face left; the river flows left to right.
+- Overcast, cool, low saturation; never golden.
+- No modern objects anywhere; no text.
