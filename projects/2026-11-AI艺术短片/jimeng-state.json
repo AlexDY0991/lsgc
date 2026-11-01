@@ -874,6 +874,87 @@
    "submitted": true,
    "resourceId": "a376486a-1dc6-4586-a64e-46e71af432f9",
    "result": "projects/2026-11-AI艺术短片/video/r1/V6b_painting.mp4"
+  },
+  "V2_cocoon": {
+   "updateId": "03855d45-8691-4a93-900d-7a49cc079d29",
+   "nodeId": "node_fg5tnfjspj",
+   "title": "视频·V2 茧挑丝",
+   "submitId": "cda8f0c1-14cb-4dcb-a83d-b9760b98fc29",
+   "submitted": true,
+   "resourceId": "60ecd17e-0220-4a11-8c85-9368d1b18b58",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V2_cocoon.mp4"
+  },
+  "V3_backstrap": {
+   "updateId": "04832a42-8392-4220-ad9a-d1b045d641d5",
+   "nodeId": "node_89rprrxmq7",
+   "title": "视频·V3 腰机+抬头",
+   "submitId": "8b3b2c45-df37-443f-83d6-7e8a6ae55c0f",
+   "submitted": true,
+   "resourceId": "fffde615-e6f3-40c1-821e-fadccc6ecde2",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V3_backstrap.mp4"
+  },
+  "V5_tang": {
+   "updateId": "a3a1a8e5-9647-481e-8a57-8d8e8b5b8410",
+   "nodeId": "node_t43ryczcje",
+   "title": "视频·V5 唐织绫",
+   "submitId": "89bb60d1-057f-4e1e-948f-8215b14b9881",
+   "submitted": true,
+   "resourceId": "79d6ae47-4a01-4fe3-ab1d-4feea8297f3f",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V5_tang.mp4"
+  },
+  "V7a_drawloom": {
+   "updateId": "2f70de8c-f33e-436a-86a3-b70c3629a74c",
+   "nodeId": "node_x0jh0w2w1y",
+   "title": "视频·V7a 花楼机",
+   "submitId": "17635f00-471e-46e4-91cb-12018be0e781",
+   "submitted": true,
+   "resourceId": "d87ccf1d-1fa6-45e1-b381-d56ff4fcdc45",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V7a_drawloom.mp4"
+  },
+  "V7b_silkwoman": {
+   "updateId": "92c19754-874e-486a-906e-b842a4a021ba",
+   "nodeId": "node_g9szqa9e4z",
+   "title": "视频·V7b 蚕娘",
+   "submitId": "19afbaf2-6f02-4ede-b23c-9a0058a72a4d",
+   "submitted": true,
+   "resourceId": "e74c761a-074a-4bcb-b734-9f6039784690",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V7b_silkwoman.mp4"
+  },
+  "V11b_cut_lookup": {
+   "updateId": "2a48b5aa-b898-4bf9-9131-b541519cbe42",
+   "nodeId": "node_nm8zpxjx15",
+   "title": "视频·V11b 设计师(纪实)",
+   "submitId": "eddf400c-2f6f-4e80-93b1-e9b162136129",
+   "submitted": true,
+   "resourceId": "9b29e706-e74f-4b13-bfdd-074a88a87763",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V11b_cut_lookup.mp4"
+  },
+  "V12b_people": {
+   "updateId": "d2c7539d-aecc-440e-9bdd-0b80a8d0ff62",
+   "nodeId": "node_hykwhwwma9",
+   "title": "视频·V12b 今天的人(纪实)",
+   "submitId": "802e2a14-3712-4aac-9ac2-4f4203ca3b47",
+   "submitted": true,
+   "resourceId": "139851a7-6254-4a0f-9605-01cd2167dadc",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V12b_people.mp4"
+  },
+  "V13_merchants": {
+   "updateId": "2cecfaf5-9152-477e-aa4d-2bde34daeda4",
+   "nodeId": "node_7vez4d97bg",
+   "title": "视频·V13 商户(纪实)",
+   "submitId": "7997883a-ede7-4737-84d9-4c15db30b3d9",
+   "submitted": true,
+   "resourceId": "b0a4e04b-2e7c-4bb6-8eef-16825b1a9b32",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V13_merchants.mp4"
+  },
+  "V12c_people": {
+   "updateId": "64b04cd9-5fec-487f-b64b-cc08f5a35c41",
+   "nodeId": "node_rw50w29m1d",
+   "title": "视频·V12c 今天的人(纪实,无分镜参考)",
+   "submitId": "7fe5967d-5306-4389-877f-7d0635d4f267",
+   "submitted": true,
+   "resourceId": "522e5551-d7a4-4b06-8bc1-8d21f5c0bd92",
+   "result": "projects/2026-11-AI艺术短片/video/r1/V12c_people.mp4"
   }
  },
  "ledger": {
@@ -1461,6 +1542,60 @@
     "credits": 45,
     "submitId": "d9a65d28-8f53-4304-83ef-9254174337ae",
     "at": "2026-11-01 00:29"
+   },
+   {
+    "key": "V2_cocoon",
+    "credits": 72,
+    "submitId": "cda8f0c1-14cb-4dcb-a83d-b9760b98fc29",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V3_backstrap",
+    "credits": 90,
+    "submitId": "8b3b2c45-df37-443f-83d6-7e8a6ae55c0f",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V5_tang",
+    "credits": 90,
+    "submitId": "89bb60d1-057f-4e1e-948f-8215b14b9881",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V7a_drawloom",
+    "credits": 54,
+    "submitId": "17635f00-471e-46e4-91cb-12018be0e781",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V7b_silkwoman",
+    "credits": 81,
+    "submitId": "19afbaf2-6f02-4ede-b23c-9a0058a72a4d",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V11b_cut_lookup",
+    "credits": 72,
+    "submitId": "eddf400c-2f6f-4e80-93b1-e9b162136129",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V12b_people",
+    "credits": 108,
+    "submitId": "802e2a14-3712-4aac-9ac2-4f4203ca3b47",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V13_merchants",
+    "credits": 54,
+    "submitId": "7997883a-ede7-4737-84d9-4c15db30b3d9",
+    "at": "2026-11-01 00:50"
+   },
+   {
+    "key": "V12c_people",
+    "credits": 108,
+    "submitId": "7fe5967d-5306-4389-877f-7d0635d4f267",
+    "at": "2026-11-01 00:56"
    }
   ]
  }

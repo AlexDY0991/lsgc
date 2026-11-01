@@ -1,0 +1,26 @@
+6-second 2.39:1 Southern Song workshop, two shots: the draw-boy on the loom tower lifts the pattern cords; below, the weaver throws the shuttle through the opening and beats with the reed.
+
+REFERENCES
+@char_song_drawboy — the man on the tower: face, pale grey head cloth, undyed cross-collar jacket; ignore the backdrop.
+@char_song_weaver — the young woman at the front of the loom: face, grey-blue head cloth and clothes, apron; ignore the backdrop.
+@prop_hualou_3v2 — the large draw loom with its tall tower.
+@lay_song_workshop @lay_song_workshop_top — the room and the positions (orange = draw-boy on the tower, blue = weaver at the front).
+@sb_6_3 — shot 1 framing.  @sb_6_4 — shot 2 framing.
+@style_dfsy_41_6 @style_dfsy_59_6 — tone and grain only.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+
+CRAFT ACCURACY
+The craft is shown exactly as it is really done, step by step, at a natural working speed; every tool touches what it acts on; nothing appears, vanishes or changes shape; hands have five fingers and keep the same tool for the whole shot.
+How the draw loom works (follow it exactly): on the tower the draw-boy pulls up the bundle of pattern cords chosen for this row and holds it up, which lifts the chosen warp threads; at the front the weaver throws the shuttle through the opening from right to left, then pulls the reed toward her to beat; the draw-boy lowers the bundle and pulls the next one. The shuttle always travels INSIDE the opening.
+
+SHOTS
+0.0–3.0s — Steep low angle up the tower, 35 mm, the framing of @sb_6_3. @char_song_drawboy grips a bundle of cords with both hands, pulls it up and holds it, his forearms tense; the warp below opens. Grey window light from the left. Hard cut.
+3.0–6.0s — Medium close at the front of the loom, 65 mm, the framing of @sb_6_4. @char_song_weaver throws the shuttle through the opening from right to left, catches it, and pulls the reed toward her with a firm knock.
+
+SOUND
+No music, no voices. The creak of the tower and the swish of cords, then the shuttle's slide and the reed's knock at 5.2s.
+
+KEEP CONSISTENT
+- Two shots, hard cut at 3.0s; both people match their sheets; no glowing threads, no text.

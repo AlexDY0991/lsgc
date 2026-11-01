@@ -1,0 +1,28 @@
+10-second 2.39:1 Neolithic scene in a stilt house, three shots: the weaver works a frameless backstrap loom with her whole body; a close look at the woven edge; she stops and looks up toward the doorway.
+
+REFERENCES
+@char_neolithic — the weaver: face, bone hairpin, short-sleeved undyed hemp tunic; ignore the grey backdrop.
+@prop_backstrap_loom_3v2 — the backstrap loom: NO frame; a far warp beam tied to a wooden post, the warp, a shed stick, a heddle rod with string loops, a cloth beam at her waist, a braided hide strap round her lower back, a flat wooden sword and a small bobbin of weft.
+@lay_neolithic — the house: grey doorway light on the left.
+@sb_3_1 — shot 1 setting.  @sb_3_3 — shot 3 framing; this is the exact framing of her look.
+@style_dfsy_41_6 @style_dfsy_59_6 — tone and grain only.
+
+LOOK
+Low-key, dark mid-tones, soft rolled-off highlights; cool grey-teal and olive, low saturation; warmth only from a window or a fire, never golden sunset light. Soft overcast base light plus one directional source, no visible light beams. Old spherical primes, shallow depth of field, out-of-focus foreground, off-centre framing. Light film grain, no sharpening, no HDR. Real textures, dust and wear. No glowing threads anywhere. No text, no logos, no signs, no subtitles.
+
+CRAFT ACCURACY
+The craft is shown exactly as it is really done, step by step, at a natural working speed; every tool touches what it acts on; nothing appears, vanishes or changes shape; hands have five fingers and keep the same tool for the whole shot.
+How a backstrap loom works (follow it exactly): she sits on the floor with legs stretched toward the post; the warp runs from the post to the cloth beam at her waist; the hide strap behind her back holds the cloth beam, so she controls the tension by leaning back (tight) or forward (slack). To weave she lifts the heddle rod with one hand to open a gap between the upper and lower warp threads, slides the flat wooden sword INTO that gap and turns it on edge to hold it open, passes the small weft bobbin through the gap, then pulls the sword firmly toward her body to beat the weft against the woven edge, and removes the sword.
+
+SHOTS
+0.0–5.0s — Side view, 35 mm, slow leftward track, whole body in frame: she leans back to tighten the warp, lifts the heddle rod, slides the sword into the opening, turns it on edge, passes the bobbin from right to left, and pulls the sword toward her to beat; her body rocks with each step. Hard cut.
+5.0–7.0s — Close, 85 mm: the woven edge at her waist; the sword knocks the new weft thread into place against the fine pale fabric; her bare forearms in soft focus. Hard cut.
+7.0–10.0s — Close-up, the framing of @sb_3_3: she pauses, hands still on the sword, lifts her head and looks out of the doorway on the left; grey light on her face; calm, far-away eyes; a small breath.
+
+SOUND
+No music, no voices. The soft creak of the warp, the wooden knock of the sword at 4.4s and 6.0s, wind and reeds outside the doorway.
+
+KEEP CONSISTENT
+- Three shots, hard cuts at 5.0 and 7.0s.
+- The loom never has a frame; the strap stays round her back.
+- No metal, no glowing threads, no text.
