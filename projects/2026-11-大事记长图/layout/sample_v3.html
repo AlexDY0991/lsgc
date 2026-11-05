@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>大事记长图 小样 v3</title>
+<style>
+@font-face { font-family:"MaShanZheng"; src:url("fonts/MaShanZheng-Regular.ttf"); }
+@font-face { font-family:"NotoSerifSC"; src:url("fonts/NotoSerifSC.ttf"); font-weight:200 900; }
+:root { --zhu:#A12E26; --ink:#231B16; --ink2:#5B4B3F; --gold:#A9843E; --cream:#F7EDDA; --OV:200px; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { width:1080px; background:#EFE5D2; font-family:"NotoSerifSC",serif; color:var(--ink); }
+/* 每屏 1080×1920；后一屏向上叠 OV 像素，顶部渐变融接 */
+.panel { position:relative; width:1080px; height:1920px; background-size:100% 100%; }
+.panel + .panel { margin-top:calc(-1 * var(--OV));
+  -webkit-mask-image:linear-gradient(to bottom, transparent 0, #000 var(--OV)); mask-image:linear-gradient(to bottom, transparent 0, #000 var(--OV)); }
+.L { position:absolute; }
+.vert { writing-mode:vertical-rl; }
+.p-ink p, .p-cream p { text-align:justify; text-indent:2em; }
+.p-ink p { font-size:31px; line-height:1.9; color:var(--ink); }
+.p-cream p { font-size:27px; line-height:1.8; color:var(--cream); }
+</style>
+</head>
+<body>
+
+<!-- 开篇（画面里的「大事记」由 GPT Image 2.5 书写，已逐字核对） -->
+<section class="panel" style="background-image:url(img/v3/p1_kaipian_c.png)">
+  <img class="L" src="img/logo_wordmark.png" style="left:64px; top:72px; width:270px;">
+  <div class="L" style="left:66px; top:150px; font-weight:300; font-size:112px; letter-spacing:4px; color:var(--zhu); line-height:1;">2026</div>
+  <div class="L" style="left:72px; top:276px; font-size:26px; letter-spacing:20px; color:var(--ink2);">年度</div>
+</section>
+
+<!-- 第三章 上（画面里的「乔迁」由模型书写，已核对） -->
+<section class="panel" style="background-image:url(img/v3/p2_ch3_up_c.png)">
+  <div class="L" style="left:560px; top:96px; font-size:24px; letter-spacing:12px; color:var(--ink2);">集团 · 第三章</div>
+  <div class="L" style="left:560px; top:140px; width:220px; height:2px; background:var(--gold);"></div>
+  <div class="L" style="left:560px; top:170px; font-size:34px; font-weight:600; letter-spacing:3px; color:var(--zhu);">6月5日</div>
+  <div class="L vert" style="left:944px; top:70px; font-family:'MaShanZheng'; font-size:66px; line-height:1.05; color:var(--ink);">乔迁筑巢引凤</div>
+  <div class="L vert" style="left:858px; top:150px; font-family:'MaShanZheng'; font-size:66px; line-height:1.05; color:var(--zhu);">焕新铸魂扬帆</div>
+  <div class="L p-cream" style="left:500px; top:1360px; width:520px;">
+    <p>6 月 5 日，集团乔迁盛典暨品牌焕新发布会在杭州华润杭曜置地中心举行，政府领导、合作伙伴、媒体代表与集团同仁齐聚见证。董事长吴小波表示，购置杭州核心商圈自持总部物业，是集团深耕美丽时尚产业和国潮赛道的战略举措，为未来十年发展筑牢战略底座，也有助于优化资产结构、提升抗风险能力并预留拓展空间。</p>
+  </div>
+</section>
+
+<!-- 第三章 下 -->
+<section class="panel" style="background-image:url(img/v3/p3_ch3_down_c.png)">
+  <div class="L vert" style="left:252px; top:420px; font-size:24px; letter-spacing:12px; color:var(--gold);">乔迁 · 焕新</div>
+  <div class="L p-ink" style="left:300px; top:400px; width:720px;">
+    <p>同步启动的品牌焕新聚焦宋韵根脉与竹魂精神，常务副总经理鄢克亚系统解读全新品牌体系，定制丝巾、小丽 IP 限定手办等伴手礼成为文化载体；新总部以 "空间即平台" 理念打造潮启、潮力、潮行、潮星、潮聚五大板块，构建 "文化为魂、科技为翼、平台为基" 的国潮产业生态。乔迁与焕新，一为安身立命之基、一为文化灵魂之塑，自持总部是集团对国潮事业的长期主义承诺，品牌焕新则让宋韵竹魂成为贯穿商业运营与传播表达的精神主线，为集团从 "商业运营者" 向 "文化传播者" 的跃迁写下注脚。</p>
+  </div>
+</section>
+
+</body>
+</html>
