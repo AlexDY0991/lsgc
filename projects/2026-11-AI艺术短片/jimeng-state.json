@@ -1168,6 +1168,51 @@
    "submitted": true,
    "resourceId": "8c84eb1f-6527-41ff-825f-73a94d50ef7e",
    "result": "video/r1/V19_boutique.mp4"
+  },
+  "A_doc1": {
+   "updateId": "28090ac9-b9b1-466e-af9d-2f8a9cc9ab4a",
+   "nodeId": "node_thg8hvp8r0",
+   "title": "试音·雄厚配音",
+   "submitId": "a65914ab-7c58-42dc-8100-6881229b17fa",
+   "submitted": true,
+   "resourceId": "d02986d6-d304-4934-b6b4-0cb1852c8406",
+   "result": "audio/voice_test/A_doc1.wav"
+  },
+  "A_doc2": {
+   "updateId": "c745e803-52a7-41d8-bb23-0b65cebd8682",
+   "nodeId": "node_bh98x9aaef",
+   "title": "试音·厚实男声",
+   "submitId": "259c478b-5e79-49bd-b9b0-092322a684f1",
+   "submitted": true,
+   "resourceId": "18a7ae5c-6b62-4441-98e3-95ab1013e70a",
+   "result": "audio/voice_test/A_doc2.wav"
+  },
+  "A_doc3": {
+   "updateId": "bb684886-2af5-4e54-860a-7d314b1ffd62",
+   "nodeId": "node_9afxm559nq",
+   "title": "试音·低沉大叔",
+   "submitId": "0b106258-7bde-4618-9db8-372956db99e9",
+   "submitted": true,
+   "resourceId": "a7931891-4af6-45cc-8a8c-41fd91ad88de",
+   "result": "audio/voice_test/A_doc3.wav"
+  },
+  "A_doc4": {
+   "updateId": "d22f8cbb-ba3a-48ac-a607-983bdfb0d65a",
+   "nodeId": "node_8m0f55yb6j",
+   "title": "试音·磁性嗓音",
+   "submitId": "fe61db14-cecb-43ed-a8d6-2c0c87e6eac5",
+   "submitted": true,
+   "resourceId": "ec6234fa-4b3e-4565-b903-d6c6016ce52b",
+   "result": "audio/voice_test/A_doc4.wav"
+  },
+  "A_doc5": {
+   "updateId": "1937d8a9-cb0c-4bb6-94f3-4ffc5bacf881",
+   "nodeId": "node_y2qjzapaw2",
+   "title": "试音·全能配音 纪录片",
+   "submitId": "6e4a4b45-0107-4367-aca5-1661e2bb602a",
+   "submitted": true,
+   "resourceId": "3a2da4ff-8039-41ef-871a-3d0f7cf553ee",
+   "result": "audio/voice_test/A_doc5.wav"
   }
  },
  "ledger": {
@@ -1947,6 +1992,36 @@
     "credits": 81,
     "submitId": "50485da8-8f91-4700-9ea3-3ac602022502",
     "at": "2026-11-01 05:11"
+   },
+   {
+    "key": "A_doc1",
+    "credits": 12,
+    "submitId": "a65914ab-7c58-42dc-8100-6881229b17fa",
+    "at": "2026-11-05 02:50"
+   },
+   {
+    "key": "A_doc2",
+    "credits": 12,
+    "submitId": "259c478b-5e79-49bd-b9b0-092322a684f1",
+    "at": "2026-11-05 02:50"
+   },
+   {
+    "key": "A_doc3",
+    "credits": 12,
+    "submitId": "0b106258-7bde-4618-9db8-372956db99e9",
+    "at": "2026-11-05 02:50"
+   },
+   {
+    "key": "A_doc4",
+    "credits": 12,
+    "submitId": "fe61db14-cecb-43ed-a8d6-2c0c87e6eac5",
+    "at": "2026-11-05 02:50"
+   },
+   {
+    "key": "A_doc5",
+    "credits": 12,
+    "submitId": "6e4a4b45-0107-4367-aca5-1661e2bb602a",
+    "at": "2026-11-05 02:50"
    }
   ]
  }
