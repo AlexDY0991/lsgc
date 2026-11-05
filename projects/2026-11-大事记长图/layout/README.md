@@ -31,3 +31,6 @@
 | `img/v5/tex_*.jpg` | 「大事记v5_金箔底纹」`GShh7Q2bWH6bmWuo`（tex_ab = 原图 + 上下翻转拼接，可无缝循环） |
 | `img/v5/orn_00–10.png` | 「大事记v5_装饰元素」`cMZDfzinNm9UKzoW` 抠图：00/02/10 祥云，01 卷云，03/04 回纹角花，05 桂花，06 梅花，07 太阳，08/09 仙鹤 |
 | `img/v5/shan_*`、`bamboo.jpg` | Commons 公有领域古画，见 CREDITS.md；预处理 `prep_v5.py` |
+| `img/v6/f1_*.png` | Lovart GPT Image 2.5「大事记v6_卷轴扇框」`yTYJSqjCWrDsAKfu` 抠图：0/1 卷轴天杆地杆，2 折扇，3 团扇；`*_in.png` 是框内部蒙版 |
+| `img/v6/f2_*.png` | 「大事记v6_花窗门洞」`9rQoUKf9dOlsugMn`：0 月洞窗，1 八角窗，2 宝瓶门，3 城门拱券 |
+| `img/v6/s*.jpg/png`、`end.jpg` | 稳舵 `9mDtIDnrbK3gWCP9`、共生 `v1ZvRpKD9Q39sZjy`、执笔 `Rx3AEOF0bv5Yryze`、杭州 `NZoEZDaCAsL8Fkc5`、金陵 `DYHSnzlln76VLHBg`、金城 `AAzV4Vs4TG3oQIGf`、观光 `EdsBFz2fPe1Rppgx`、结尾 `AdV4yxpIoVA5dVXp` |
