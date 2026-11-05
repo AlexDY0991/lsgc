@@ -2,7 +2,8 @@
 
 - 画面：Lovart 画布 `2qzd6zw00fsw` 生成（不带文字），放 `img/`。
 - 文字：全部在 HTML 里排，逐字取自 `../content_2026_raw.md`（用户 docx）。
-- 字体（OFL 开源，可商用）：马善政（书法标题）、志莽行、刘建毛草、龙藏、思源宋体（Noto Serif SC）。不进 git，下载到某目录后建软链 `fonts/`：
+- **标题和章号用京華老宋体（KingHwa_OldSong）**，用户 2026-11-05 指定。作者特里王（TerryWang），声明免费商用；不可单独售卖字体文件、不可修改字形；字形不合现行规范，作者建议不用于教育等正式用字场合。文件 32MB 不进 git：从 fonthubs 直链下载（1.007 版，2023-07-28；作者原帖只给网盘）：`curl -L -o fonts/KingHwa_OldSong.ttf https://bucket.fonthubs.com/0d31888c-5dfc-431d-aaf7-3487e411146c.ttf`，下载后用 fontTools 核对 name 表是 KingHwa_OldSong。
+- 其他字体（OFL 开源，可商用）：马善政（书法标题）、志莽行、刘建毛草、龙藏、思源宋体（Noto Serif SC）。不进 git，下载到某目录后建软链 `fonts/`：
   ```bash
   mkdir -p FONTS && cd FONTS
   for f in mashanzheng/MaShanZheng-Regular.ttf zhimangxing/ZhiMangXing-Regular.ttf liujianmaocao/LiuJianMaoCao-Regular.ttf longcang/LongCang-Regular.ttf "notoserifsc/NotoSerifSC%5Bwght%5D.ttf"; do curl -sSfLO "https://raw.githubusercontent.com/google/fonts/main/ofl/$f"; done

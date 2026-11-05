@@ -7,4 +7,5 @@
 | （已下载未用）瑞鹤图（亮版） | 宋徽宗《瑞鹤图》，Wikimedia Commons | Public domain |
 | （已下载未用）Bird on a Flowering Branch | 南宋佚名，克利夫兰美术馆，经 Wikimedia Commons | CC0 |
 | 其余插画、底纹、装饰元素 | Lovart（GPT Image 2.5）为本项目生成，ID 见 README.md | 本项目自有生成内容 |
-| 字体 | 思源宋体 Noto Serif SC、马善政等（Google Fonts） | SIL OFL 1.1 |
+| 字体（标题、章号） | 京華老宋体 KingHwa_OldSong 1.007，作者特里王 TerryWang | 作者声明免费商用；不可单独出售字体文件、不可修改字形 |
+| 字体（其他） | 思源宋体 Noto Serif SC、马善政等（Google Fonts） | SIL OFL 1.1 |

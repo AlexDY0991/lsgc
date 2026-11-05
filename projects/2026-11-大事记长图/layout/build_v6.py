@@ -29,6 +29,7 @@ def L(src, style, cls=''):
 
 CSS = '''
 @font-face { font-family:"NotoSerifSC"; src:url("fonts/NotoSerifSC.ttf"); font-weight:200 900; }
+@font-face { font-family:"KingHwa"; src:url("fonts/KingHwa_OldSong.ttf"); }
 :root { --gold:#B8955A; --ink:#4A3B2E; --ink2:#8A7660; --red:#A8332B; }
 * { box-sizing:border-box; margin:0; padding:0; }
 body { width:1080px; position:relative; overflow-x:hidden; font-family:"NotoSerifSC",serif; color:var(--ink);
@@ -46,8 +47,8 @@ section { position:relative; }
 .badge { position:relative; height:180px; }
 .badge .cloud { position:absolute; left:50%; top:0; width:420px; transform:translateX(-50%); }
 .badge .seal { position:absolute; left:50%; top:60px; transform:translateX(-50%); width:84px; height:84px; line-height:80px; text-align:center;
-  background:var(--red); color:#F8E9D2; font-size:50px; font-weight:800; border-radius:10px; box-shadow:inset 0 0 0 3px var(--red), inset 0 0 0 5px #EBC9A0; }
-.ttl { margin-top:22px; color:var(--red); font-weight:700; font-size:54px; line-height:1.45; letter-spacing:6px; }
+  background:var(--red); color:#F8E9D2; font-family:"KingHwa",serif; font-size:56px; font-weight:normal; border-radius:10px; box-shadow:inset 0 0 0 3px var(--red), inset 0 0 0 5px #EBC9A0; }
+.ttl { margin-top:22px; color:var(--red); font-family:"KingHwa","NotoSerifSC",serif; font-weight:normal; font-size:60px; line-height:1.4; letter-spacing:6px; }
 .slot { height:64px; margin-top:14px; }
 /* 窗、扇、门：场景在下、框在上 */
 .win { position:relative; margin:0 auto; }
@@ -175,8 +176,8 @@ parts.append(f'''
     <div style="width:520px; flex:none;">{win("f2_2", "s7_jincheng.jpg", 520)}</div>
     <div style="flex:1; text-align:center;">
       <div class="badge" style="width:420px; margin:0 auto;"><img class="cloud" src="img/v5/orn_10.png" style="width:360px;"><div class="seal">七</div></div>
-      <div class="ttl" style="font-size:44px; letter-spacing:4px;">「三十二载融金城</div>
-      <div class="ttl" style="font-size:30px; letter-spacing:1px; margin-top:6px; white-space:nowrap;">MINSON LAND甘青宁首店开业」</div>
+      <div class="ttl" style="font-size:48px; letter-spacing:4px;">「三十二载融金城</div>
+      <div class="ttl" style="font-size:32px; letter-spacing:1px; margin-top:6px; white-space:nowrap;">MINSON LAND甘青宁首店开业」</div>
       <div class="slot" style="position:relative;" data-label="篇名 · 日期"></div>
     </div>
   </div>
