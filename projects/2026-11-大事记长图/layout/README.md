@@ -25,3 +25,4 @@
 | `img/v3/p3_ch3_down.png` | 同对话「第三章_下」`dms6KGMJIp4NFQTs` |
 | `img/v3/*_c.png` | 上面三张经 `clean_red.py` 去掉红色区域淡字纹理后的版本（排版用这个） |
 | 参考图上传地址 | 参考1 `https://assets-persist.lovart.ai/img/32c1473654a141b8a45808998a22e9fb/5908b7df-acc2-4d4f-bd37-59b184377dd2.jpg`；参考2 `…/359ad8a6-3143-4fe4-bf9f-409cda895ab0.jpg` |
+| `img/v4/*.jpg` | Lovart GPT Image 2.5 整幅画面（1152×2048 → 1080×1920，经 clean_red + lighten_paper）。开篇 `76kFkouDV4G23CYy`（对话 249ff1de…）；一 `zJlZ9W80aeBNXnXC`；二 `mnYs2bQ5YED3jr4e`；三 `yTXbQeUapnJcsmOv`；四 `qixSP9a295AVQA25`；五 `rPRr34LzFd2B4iCR`；六 `CTLEUu2lUVRs2a2e`；七 `ThYHLnCt1X47bJ9V`；八 `DBFJ2MnNypApmzPU`；结尾 `N4wkK5fyF11sYSBZ` |

@@ -4,3 +4,4 @@ __pycache__/
 # 即梦原始视频片段很大：不进 git，状态文件里有 submitId，可用 tools/jm.py <state> wait <dir> <key> 重新下载
 projects/*/video/r*/*.mp4
 projects/2026-11-大事记长图/layout/fonts
+projects/2026-11-大事记长图/layout/out/*.png

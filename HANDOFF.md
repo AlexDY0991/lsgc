@@ -81,3 +81,4 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 用户（11-05）：画布已公开（里面是 2026 年小丽系列海报和三城场景，标准小丽一致）；做 **2026 大事记长图**，风格按两张参考图，内容按用户 docx（`projects/2026-11-大事记长图/content_2026_raw.md`），照片后补，重点公众号，**长图不要小丽**。小样 v1（开篇 + 第三章）在 `projects/2026-11-大事记长图/layout/`，文字代码排版、逐字核对 docx。待补清单在 `brief.md` 末尾。字体不进 git，见 `layout/README.md`。
   - 用户（11-05）意见：v1 版面融合不好。小样 v2 改为分层素材 + 代码合成连续画面（见 brief.md）。模型分工：空镜/肌理 Midjourney，人物场景 GPT Image 2.5，精修 Nano Banana。
   - v2 用户说效果不好。小样 v3：GPT Image 2.5 整幅生成每屏 + 代码排正文，融合方式见 brief.md；注意参考图水印会被模型学走，用 clean_red.py 处理。
+  - 用户（11-05）v3 意见后出整图 v4（全部章节 + 导语/展望草稿），见 brief.md。
