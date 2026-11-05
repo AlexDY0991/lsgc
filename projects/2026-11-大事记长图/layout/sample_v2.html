@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>大事记长图 小样 v2</title>
+<style>
+@font-face { font-family: "MaShanZheng"; src: url("fonts/MaShanZheng-Regular.ttf"); }
+@font-face { font-family: "ZhiMangXing"; src: url("fonts/ZhiMangXing-Regular.ttf"); }
+@font-face { font-family: "NotoSerifSC"; src: url("fonts/NotoSerifSC.ttf"); font-weight: 200 900; }
+:root { --paper:#F2E8D6; --zhu:#A12E26; --zhu-d:#7E211B; --ink:#231B16; --ink2:#5B4B3F; --gold:#B38D45; --cream:#F6EBD6; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { width:1080px; height:5250px; position:relative; overflow:hidden; background:var(--paper); color:var(--ink); font-family:"NotoSerifSC",serif; }
+/* 宣纸纤维和噪点：两层 SVG 噪声 */
+.grain { position:absolute; inset:0; pointer-events:none; z-index:50; mix-blend-mode:multiply; opacity:.42;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='360'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .42  0 0 0 0 .35  0 0 0 0 .26  0 0 0 .5 0'/></filter><rect width='360' height='360' filter='url(%23n)'/></svg>"); }
+.fiber { position:absolute; inset:0; pointer-events:none; z-index:49; mix-blend-mode:multiply; opacity:.25;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'><filter id='f'><feTurbulence type='fractalNoise' baseFrequency='.012 .09' numOctaves='2' seed='4'/><feColorMatrix values='0 0 0 0 .55  0 0 0 0 .47  0 0 0 0 .36  0 0 0 .9 -.35'/></filter><rect width='600' height='600' filter='url(%23f)'/></svg>"); }
+.L { position:absolute; }
+.mul { mix-blend-mode:multiply; }
+.masked { -webkit-mask-size:100% 100%; mask-size:100% 100%; -webkit-mask-repeat:no-repeat; }
+.brush { font-family:"ZhiMangXing"; line-height:1; }
+.vert { writing-mode:vertical-rl; }
+
+/* 正文 */
+.body-ink p, .body-cream p { text-align:justify; text-indent:2em; }
+.body-ink p { font-size:31px; line-height:1.9; color:var(--ink); }
+.body-cream p { font-size:29px; line-height:1.85; color:var(--cream); }
+</style>
+</head>
+<body>
+<div class="grain"></div><div class="fiber"></div>
+
+<!-- ============ 开篇 ============ -->
+<!-- 右上朱红晕染，一直流到画卷后面 -->
+<img class="L mul" src="img/v2/wash_a2_w.png" style="left:470px; top:-160px; width:700px; opacity:.96;">
+<!-- 书法大标题背后的飞白横笔 -->
+<img class="L mul" src="img/v2/mo_c1_w.png" style="left:-60px; top:560px; width:900px; opacity:.85; transform:rotate(-6deg);">
+<img class="L" src="img/logo_wordmark.png" style="left:78px; top:96px; width:270px;">
+<div class="L" style="left:82px; top:196px; font-weight:300; font-size:120px; color:var(--zhu); letter-spacing:4px; line-height:1;">2026</div>
+<div class="L" style="left:88px; top:332px; font-size:28px; letter-spacing:22px; color:var(--ink2);">年度</div>
+<!-- 大事记：大小错落 -->
+<div class="L brush" style="left:200px; top:330px; font-size:420px; color:var(--ink); transform:rotate(-4deg);">大</div>
+<div class="L brush" style="left:610px; top:470px; font-size:300px; color:var(--cream); transform:rotate(3deg);">事</div>
+<div class="L brush" style="left:560px; top:770px; font-size:330px; color:var(--ink); transform:rotate(-2deg);">记</div>
+<!-- 印章：丽尚国潮 -->
+<div class="L" style="left:470px; top:860px; width:86px; height:86px; background:var(--zhu); color:var(--cream); font-family:'NotoSerifSC'; font-weight:700; font-size:30px; line-height:36px; padding:7px 0 0 9px; letter-spacing:4px; border-radius:6px; transform:rotate(-3deg);">丽尚<br>国潮</div>
+
+<!-- 山水空镜，从画卷后面一直铺到第三章，做两段的衔接 -->
+<div class="L mul masked" style="left:-40px; top:1380px; width:1160px; height:1700px; opacity:.55; -webkit-mask-image:url(img/v2/mask_shan.png);">
+  <img src="img/v2/shan_b3.png" style="width:100%; height:100%; object-fit:cover; object-position:50% 75%;"></div>
+<!-- 三城长卷（取自开篇插画的长卷部分） -->
+<div class="L mul masked" style="left:0; top:1150px; width:1080px; height:820px; -webkit-mask-image:url(img/v2/mask_scroll.png); overflow:hidden;">
+  <img src="img/kaipian_v2.png" style="position:absolute; left:-4px; top:-805px; width:1088px;"></div>
+
+<!-- 左侧朱红晕染，流进第三章 -->
+<img class="L mul" src="img/v2/wash_a4_w.png" style="left:-330px; top:1900px; width:820px; opacity:.93; transform:scaleX(-1);">
+
+<!-- ============ 第三章 乔迁焕新 ============ -->
+<div class="L" style="left:640px; top:2120px; font-size:26px; letter-spacing:14px; color:var(--ink2);">集团 · 第三章</div>
+<div class="L" style="left:640px; top:2172px; width:300px; height:2px; background:var(--gold);"></div>
+<!-- 完整标题：竖排两列 -->
+<div class="L vert" style="left:868px; top:2230px; font-family:'MaShanZheng'; font-size:78px; line-height:1.05; color:var(--ink);">乔迁筑巢引凤</div>
+<div class="L vert" style="left:770px; top:2330px; font-family:'MaShanZheng'; font-size:78px; line-height:1.05; color:var(--zhu);">焕新铸魂扬帆</div>
+<div class="L" style="left:644px; top:2236px; font-size:34px; font-weight:600; letter-spacing:3px; color:var(--zhu);">6月5日</div>
+<!-- 书法大字压在红色晕染上（取标题里的字） -->
+<img class="L mul" src="img/v2/mo_c3_w.png" style="left:-80px; top:2470px; width:760px; opacity:.55; transform:rotate(8deg);">
+<div class="L brush" style="left:18px; top:2200px; font-size:230px; color:var(--cream); transform:rotate(-3deg);">乔</div>
+<div class="L brush" style="left:250px; top:2400px; font-size:250px; color:var(--ink); transform:rotate(2deg);">迁</div>
+
+<!-- 场景：宋画乔迁，四周毛边融进纸面 -->
+<div class="L mul masked" style="left:40px; top:2730px; width:1000px; height:1333px; -webkit-mask-image:url(img/v2/mask_scene.png);">
+  <img src="img/v2/qiaoqian_v2.png" style="width:100%; height:100%; object-fit:cover;"></div>
+<!-- 场景右下的朱红晕染托住正文红块 -->
+<img class="L mul" src="img/v2/wash_a1_w.png" style="left:520px; top:3330px; width:600px; opacity:.85; transform:rotate(180deg);">
+
+<!-- 正文第一段：朱红毛边色块上的米白字 -->
+<div class="L masked" style="left:330px; top:3860px; width:700px; height:640px; background:var(--zhu); -webkit-mask-image:url(img/v2/mask_panel.png);"><img class="mul" src="img/v2/wash_a4_w.png" style="position:absolute; left:-80px; top:-200px; width:900px; opacity:.55;"></div>
+<div class="L body-cream" style="left:392px; top:3922px; width:580px;">
+  <p>6 月 5 日，集团乔迁盛典暨品牌焕新发布会在杭州华润杭曜置地中心举行，政府领导、合作伙伴、媒体代表与集团同仁齐聚见证。董事长吴小波表示，购置杭州核心商圈自持总部物业，是集团深耕美丽时尚产业和国潮赛道的战略举措，为未来十年发展筑牢战略底座，也有助于优化资产结构、提升抗风险能力并预留拓展空间。</p>
+</div>
+<!-- 照片位（后补） -->
+<div class="L" style="left:70px; top:3940px; width:230px; height:330px; border:2px dashed var(--gold); border-radius:115px 115px 14px 14px; display:flex; align-items:center; justify-content:center; writing-mode:vertical-rl; color:var(--ink2); font-size:22px; letter-spacing:8px; background:rgba(242,232,214,.6);">照片位 · 待补</div>
+
+<!-- 正文第二段：纸面，背后淡山水往下延伸到下一章 -->
+<div class="L mul masked" style="left:-60px; top:4380px; width:1200px; height:900px; opacity:.32; -webkit-mask-image:url(img/v2/mask_shan.png);">
+  <img src="img/v2/shan_b2.png" style="width:100%; height:100%; object-fit:cover; object-position:50% 80%;"></div>
+<div class="L vert" style="left:60px; top:4560px; font-size:24px; letter-spacing:12px; color:var(--gold);">乔迁 · 焕新</div>
+<div class="L body-ink" style="left:120px; top:4560px; width:860px;">
+  <p>同步启动的品牌焕新聚焦宋韵根脉与竹魂精神，常务副总经理鄢克亚系统解读全新品牌体系，定制丝巾、小丽 IP 限定手办等伴手礼成为文化载体；新总部以 "空间即平台" 理念打造潮启、潮力、潮行、潮星、潮聚五大板块，构建 "文化为魂、科技为翼、平台为基" 的国潮产业生态。乔迁与焕新，一为安身立命之基、一为文化灵魂之塑，自持总部是集团对国潮事业的长期主义承诺，品牌焕新则让宋韵竹魂成为贯穿商业运营与传播表达的精神主线，为集团从 "商业运营者" 向 "文化传播者" 的跃迁写下注脚。</p>
+</div>
+<!-- 底部朱红晕染：接下一章 -->
+<img class="L mul" src="img/v2/wash_a2_w.png" style="left:560px; top:4900px; width:640px; opacity:.9; transform:rotate(200deg);">
+</body>
+</html>

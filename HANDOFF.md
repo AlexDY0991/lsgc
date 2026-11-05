@@ -79,3 +79,4 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 用户：后续用 Lovart 画布 `2qzd6zw00fsw`（https://www.lovart.ai/canvas?projectId=2qzd6zw00fsw），内容参考在里面；**开始做年度大事记长图**。该画布未公开（网页要求登录，接口返回"无操作权限"），画布里的 Agent 也看不到已有内容；API 客户端能在里面生成（已 `project-add`，测试对话 `d4438137-73f0-4fa9-b170-7b047c46c49f`）。已请用户公开画布或把参考传到 main。
   - main 新增的大事记参考已复制到 `projects/2026-11-大事记长图/refs/`：`丽尚国潮2025年度大事记.pdf`（去年的长图，13 屏）、`大事记参考1.png`、`大事记参考2.png`（零点视觉国风竖条）。准备稿 `projects/2026-11-大事记长图/brief.md`：文字一律代码排版、A/B/C 三个视觉方向、待用户提供的内容。
   - 用户（11-05）：画布已公开（里面是 2026 年小丽系列海报和三城场景，标准小丽一致）；做 **2026 大事记长图**，风格按两张参考图，内容按用户 docx（`projects/2026-11-大事记长图/content_2026_raw.md`），照片后补，重点公众号，**长图不要小丽**。小样 v1（开篇 + 第三章）在 `projects/2026-11-大事记长图/layout/`，文字代码排版、逐字核对 docx。待补清单在 `brief.md` 末尾。字体不进 git，见 `layout/README.md`。
+  - 用户（11-05）意见：v1 版面融合不好。小样 v2 改为分层素材 + 代码合成连续画面（见 brief.md）。模型分工：空镜/肌理 Midjourney，人物场景 GPT Image 2.5，精修 Nano Banana。
