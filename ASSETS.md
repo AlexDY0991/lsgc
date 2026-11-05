@@ -43,6 +43,7 @@
 ## 6. 画布和账本
 | 项目 | 平台 | 画布 / 项目 ID | 状态文件 | 账本 |
 |---|---|---|---|---|
-| **小丽工作画布（现用）** | Lovart | `2ujk8uexd7gg`，对话 `5dea0f52-092a-401c-9f62-52c2b180b73a`（thinking 模式） | 本机 `~/.lovart/state.json`（新容器要重新 `project-add`，**不要带 --name**） | Lovart 网页 |
+| 小丽原型画布（2026-10-31） | Lovart | `2ujk8uexd7gg`，对话 `5dea0f52-092a-401c-9f62-52c2b180b73a`（thinking 模式） | 本机 `~/.lovart/state.json`（新容器要重新 `project-add`，**不要带 --name**） | Lovart 网页 |
 | 旧画布「小丽」（不用） | Lovart | `ot6jDEQsAo` | — | — |
 | **AI 艺术短片 · 第一集《源启》** | 即梦 | `203fb285-a432-4f72-87d7-58187d7092e9`（https://jimeng.jianying.com/ai-tool/ai-canvas/203fb285-a432-4f72-87d7-58187d7092e9） | `projects/2026-11-AI艺术短片/jimeng-state.json` | `tools/jm.py … ledger` |
+| **Lovart 现用画布（2026-11-05 起，用户指定）** | Lovart | `2qzd6zw00fsw`，对话 `d4438137-73f0-4fa9-b170-7b047c46c49f`（thinking）；未公开，Claude 看不到画布上已有的参考 | 本机 `~/.lovart/state.json`（新容器重新 `project-add`，不带 `--name`） | Lovart 网页 |
