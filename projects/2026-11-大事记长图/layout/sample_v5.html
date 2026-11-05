@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>2026 大事记长图 小样 v5（白金）</title>
+<style>
+@font-face { font-family:"NotoSerifSC"; src:url("fonts/NotoSerifSC.ttf"); font-weight:200 900; }
+:root { --paper:#F6F0E4; --gold:#B8955A; --gold2:#D9C28F; --ink:#4A3B2E; --ink2:#8A7660; --red:#A8332B; }
+* { box-sizing:border-box; margin:0; padding:0; }
+body { width:1080px; position:relative; font-family:"NotoSerifSC",serif; color:var(--ink);
+  background:#F6F0E4 url(img/v5/tex_ab.jpg) 0 0/1080px 3840px repeat-y; }
+.L { position:absolute; }
+.mul { mix-blend-mode:multiply; }
+.fade-y { -webkit-mask-image:linear-gradient(to bottom, transparent, #000 22%, #000 78%, transparent); }
+
+/* 开篇 */
+.open { position:relative; height:1920px; }
+.open > img.hero { width:1080px; height:1920px; display:block; -webkit-mask-image:linear-gradient(to bottom, #000 80%, transparent); }
+.open .logo { position:absolute; left:72px; top:80px; width:270px; }
+.open .yr { position:absolute; left:74px; top:150px; font-size:96px; font-weight:300; color:var(--gold); letter-spacing:4px; line-height:1; }
+.open .yr small { display:block; margin-top:14px; font-size:26px; font-weight:500; letter-spacing:20px; color:var(--ink2); }
+
+/* 导语 */
+.verse { position:relative; text-align:center; font-size:30px; line-height:2.15; letter-spacing:3px; color:var(--ink); }
+.intro { margin-top:-300px; padding-bottom:40px; }
+
+/* 段落间的过渡带：淡山水 + 云 + 仙鹤 */
+.bridge { position:relative; height:520px; }
+
+/* 章节模块 */
+.chap { position:relative; padding-bottom:40px; }
+.badge { position:relative; height:200px; }
+.badge .cloud { position:absolute; left:50%; top:0; width:440px; transform:translateX(-50%); opacity:.95; }
+.badge .seal { position:absolute; left:50%; top:66px; transform:translateX(-50%); width:84px; height:84px; line-height:80px; text-align:center;
+  background:var(--red); color:#F8E9D2; font-size:50px; font-weight:800; border-radius:10px; box-shadow:inset 0 0 0 3px var(--red), inset 0 0 0 5px #EBC9A0; }
+.grp { text-align:center; color:var(--gold); font-size:24px; letter-spacing:14px; font-weight:600; margin-top:6px; }
+.grp::before, .grp::after { content:""; display:inline-block; width:120px; height:1px; vertical-align:middle; margin:0 22px; }
+.grp::before { background:linear-gradient(90deg, transparent, var(--gold)); }
+.grp::after { background:linear-gradient(270deg, transparent, var(--gold)); }
+.ttl { text-align:center; margin-top:34px; color:var(--red); font-weight:700; font-size:54px; line-height:1.45; letter-spacing:6px; }
+.date { text-align:center; margin-top:18px; color:var(--ink2); font-size:26px; letter-spacing:10px; }
+.vline { width:1px; height:110px; margin:26px auto 0; background:linear-gradient(to bottom, var(--gold), transparent); }
+
+.frame { position:relative; width:780px; height:936px; margin:30px auto 0; }
+.frame .pic { position:absolute; inset:0; -webkit-mask-image:url(img/v5/mask_haitang.png); -webkit-mask-size:100% 100%; }
+.frame .pic img { width:100%; height:100%; object-fit:cover; }
+.frame .line { position:absolute; inset:-14px; width:calc(100% + 28px); height:calc(100% + 28px); }
+
+.card { position:relative; width:880px; margin:-60px auto 0; padding:84px 70px 60px; background:rgba(255,253,248,.72);
+  border-radius:6px; box-shadow:0 0 0 1px rgba(184,149,90,.35), 0 0 0 10px rgba(255,253,248,.35), 0 0 0 11px rgba(184,149,90,.22); }
+.card p { font-size:29px; line-height:2.0; text-align:justify; text-indent:2em; color:var(--ink); margin-bottom:22px; }
+.card .corner { position:absolute; width:96px; }
+</style>
+</head>
+<body>
+
+<!-- 开篇：GPT Image 2.5 整幅（「大事记」由模型书写，已核对） -->
+<section class="open">
+  <img class="hero" src="img/v5/open.jpg" alt="">
+  <img class="logo" src="img/logo_wordmark.png" alt="丽尚国潮">
+  <div class="yr">2026<small>年度大事记</small></div>
+</section>
+
+<!-- 导语（草稿） -->
+<div class="verse intro">
+  <img src="img/v5/orn_01.png" style="width:150px; display:block; margin:0 auto 26px; opacity:.9;">
+  回望 2026，<br>丽尚国潮以换届接力稳舵治理，<br>以乔迁自持总部、品牌焕新开启新篇；<br>校企合作从东海之滨延伸至陇原大地，<br>首届 AI 视频创作大赛点燃全员共创热情；<br>杭州、南京、兰州三地业务各展新貌。<br>以宋韵为根，以竹魂为志，<br>把国潮写进城市，写进生活。
+</div>
+
+<!-- 过渡：千里江山图淡金山水 + 仙鹤 + 祥云 -->
+<div class="bridge">
+  <img class="L mul fade-y" src="img/v5/shan_1c.jpg" style="left:-300px; top:40px; width:1700px; opacity:.55;">
+  <img class="L" src="img/v5/orn_08.png" style="left:640px; top:70px; width:300px;">
+  <img class="L" src="img/v5/orn_00.png" style="left:40px; top:330px; width:360px; opacity:.85;">
+</div>
+
+<!-- 第三章（正文逐字取自 docx） -->
+<section class="chap">
+  <img class="L mul" src="img/v5/bamboo.jpg" style="left:-260px; top:620px; width:560px; opacity:.32; -webkit-mask-image:linear-gradient(to bottom, transparent, #000 25%, #000 70%, transparent);">
+  <div class="badge"><img class="cloud" src="img/v5/orn_10.png"><div class="seal">三</div></div>
+  <div class="grp">集团</div>
+  <div class="ttl">「乔迁筑巢引凤，<br>焕新铸魂扬帆」</div>
+  <div class="date">6月5日</div>
+  <div class="vline"></div>
+  <div class="frame">
+    <div class="pic"><img src="img/v5/ch3_scene.jpg" alt=""></div>
+    <img class="line" src="img/v5/line_haitang.png" alt="">
+    <img class="L" src="img/v5/orn_05.png" style="right:-150px; top:-60px; width:330px;">
+    <img class="L" src="img/v5/orn_09.png" style="left:-170px; top:330px; width:300px; transform:scaleX(-1);">
+  </div>
+  <div class="card">
+    <img class="corner" src="img/v5/orn_04.png" style="left:-8px; top:-8px;">
+    <img class="corner" src="img/v5/orn_03.png" style="right:-8px; top:-8px;">
+    <p>6 月 5 日，集团乔迁盛典暨品牌焕新发布会在杭州华润杭曜置地中心举行，政府领导、合作伙伴、媒体代表与集团同仁齐聚见证。董事长吴小波表示，购置杭州核心商圈自持总部物业，是集团深耕美丽时尚产业和国潮赛道的战略举措，为未来十年发展筑牢战略底座，也有助于优化资产结构、提升抗风险能力并预留拓展空间。</p>
+    <p>同步启动的品牌焕新聚焦宋韵根脉与竹魂精神，常务副总经理鄢克亚系统解读全新品牌体系，定制丝巾、小丽 IP 限定手办等伴手礼成为文化载体；新总部以 "空间即平台" 理念打造潮启、潮力、潮行、潮星、潮聚五大板块，构建 "文化为魂、科技为翼、平台为基" 的国潮产业生态。乔迁与焕新，一为安身立命之基、一为文化灵魂之塑，自持总部是集团对国潮事业的长期主义承诺，品牌焕新则让宋韵竹魂成为贯穿商业运营与传播表达的精神主线，为集团从 "商业运营者" 向 "文化传播者" 的跃迁写下注脚。</p>
+  </div>
+</section>
+
+<!-- 过渡到第四章 -->
+<div class="bridge">
+  <img class="L mul fade-y" src="img/v5/shan_1e.jpg" style="left:-500px; top:20px; width:1900px; opacity:.5;">
+  <img class="L" src="img/v5/orn_06.png" style="right:30px; top:40px; width:260px;">
+  <img class="L" src="img/v5/orn_02.png" style="left:60px; top:300px; width:420px; opacity:.8;">
+</div>
+<section class="chap" style="padding-bottom:160px;">
+  <div class="badge"><img class="cloud" src="img/v5/orn_10.png"><div class="seal">四</div></div>
+  <div class="grp">集团</div>
+  <div class="ttl">「AI 执笔绘视界，<br>全员共创燃国潮」</div>
+  <div class="date">3月30日</div>
+  <div class="vline"></div>
+</section>
+</body>
+</html>

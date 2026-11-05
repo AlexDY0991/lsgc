@@ -26,3 +26,8 @@
 | `img/v3/*_c.png` | 上面三张经 `clean_red.py` 去掉红色区域淡字纹理后的版本（排版用这个） |
 | 参考图上传地址 | 参考1 `https://assets-persist.lovart.ai/img/32c1473654a141b8a45808998a22e9fb/5908b7df-acc2-4d4f-bd37-59b184377dd2.jpg`；参考2 `…/359ad8a6-3143-4fe4-bf9f-409cda895ab0.jpg` |
 | `img/v4/*.jpg` | Lovart GPT Image 2.5 整幅画面（1152×2048 → 1080×1920，经 clean_red + lighten_paper）。开篇 `76kFkouDV4G23CYy`（对话 249ff1de…）；一 `zJlZ9W80aeBNXnXC`；二 `mnYs2bQ5YED3jr4e`；三 `yTXbQeUapnJcsmOv`；四 `qixSP9a295AVQA25`；五 `rPRr34LzFd2B4iCR`；六 `CTLEUu2lUVRs2a2e`；七 `ThYHLnCt1X47bJ9V`；八 `DBFJ2MnNypApmzPU`；结尾 `N4wkK5fyF11sYSBZ` |
+| `img/v5/open.jpg` | Lovart GPT Image 2.5「大事记v5_开篇」`mMMW9Uc9WOJxQyIq` |
+| `img/v5/ch3_scene.jpg` | 「大事记v5_乔迁插图」`hYlGZKS3Fs7ymMfG` |
+| `img/v5/tex_*.jpg` | 「大事记v5_金箔底纹」`GShh7Q2bWH6bmWuo`（tex_ab = 原图 + 上下翻转拼接，可无缝循环） |
+| `img/v5/orn_00–10.png` | 「大事记v5_装饰元素」`cMZDfzinNm9UKzoW` 抠图：00/02/10 祥云，01 卷云，03/04 回纹角花，05 桂花，06 梅花，07 太阳，08/09 仙鹤 |
+| `img/v5/shan_*`、`bamboo.jpg` | Commons 公有领域古画，见 CREDITS.md；预处理 `prep_v5.py` |

@@ -10,6 +10,8 @@
 > **整图 v4**：`layout/build_v4.py` → `layout/long_v4.html` → `node render_long.js http://localhost:8765/long_v4.html out/long_v4.png`（分段截图拼接，1080×约 28800）；公众号分段 `out/long_v4_slices/`（每段 2400 高）。开篇 + 导语 + 八章 + 结尾展望，每章：篇名金线 → 朱红印章章号 → 粗宋标题（思源宋体 900，长标题自动缩字号）→ 日期 → GPT Image 2.5 整幅画面（书法双字）→ 正文。画面统一过 `clean_red.py`（去红区淡字）和 `lighten_paper.py`（纸色推到 #F8F3E9）。
 > 导语、展望是 Claude 起草的**草稿**（只用 docx 事实和集团简介里的使命、愿景），待用户改定。第一章党建、第五章、第八章正文空着，放"内容待补"框。
 > 待修：第七章画面里商厦招牌、横幅上有伪文字；结尾「国潮」写成繁体「國」；第八章画面的高楼不是亚欧国际大厦真实样子；第三章新总部不是华润杭曜置地中心真实样子（等照片）。
+> 用户意见（v4）：画风不好看；参考新给的三张（`refs/v5/`，研究笔记 `refs/v5/study.md`），特别是段落之间的过渡；缺少小图案和辅助内容（可用免费图库或自己生成）；**颜色以白金色为主，红色只做点缀或强调**。
+> 小样 v5（开篇 + 导语 + 第三章 + 第四章开头）：`layout/sample_v5.html` → `out/sample_v5.jpg`。做法见 `refs/v5/study.md` 末尾；素材来源 `layout/CREDITS.md`。
 > **模型分工（用户 11-05）：空镜、肌理用 Midjourney；有人物的场景用 GPT Image 2.5；需要时用 Nano Banana 精修。** MJ 出图只有 816 宽，定稿前要放大（Lovart `upscale_image`）。
 > 工具：用户 2026-11-05 指定用 Lovart 画布（此前 10-31 用户让 Lovart 暂停、改用即梦，现在用户主动恢复）。
 > 画布：Lovart `2qzd6zw00fsw`（用户指定；API 可用，对话 `d4438137-73f0-4fa9-b170-7b047c46c49f`，thinking 模式）。该画布未公开，Claude 和画布里的 Agent 都看不到画布上已有的参考，参考图需要用户传到仓库或公开画布。
