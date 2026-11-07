@@ -1,0 +1,271 @@
+{
+ "projectId": "ea9c4282-a3c1-4459-b511-0f054c7b1e59",
+ "webUrl": "https://jimeng.jianying.com/ai-tool/ai-canvas/ea9c4282-a3c1-4459-b511-0f054c7b1e59",
+ "nodes": {
+  "cover": {
+   "uploadResourceId": "98e61ee7-b1f6-4651-86d5-323bedb00425",
+   "updateId": "d8ce162e-4b2b-406b-b3e5-cf20bbbc13cd",
+   "nodeId": "node_wd1mqqw5jw",
+   "title": "REF · cover"
+  },
+  "photo_huanjie": {
+   "uploadResourceId": "7c0c968d-8d35-4b10-968b-61740f009236",
+   "updateId": "c0122d91-5387-49b2-a5c4-ac4f7cb5db70",
+   "nodeId": "node_5dxt9md1tf",
+   "title": "REF · photo_huanjie"
+  },
+  "photo_qianyue": {
+   "uploadResourceId": "d47fe10e-78af-4373-88a4-d99ff3a98492",
+   "updateId": "8fe02101-c037-4d22-adc4-e3a84df4eaf1",
+   "nodeId": "node_w1d53fzknv",
+   "title": "REF · photo_qianyue"
+  },
+  "photo_qiaoqian": {
+   "uploadResourceId": "e238e254-4832-4aa5-9230-64213775a555",
+   "updateId": "dd2715fa-edb1-44ba-a4b7-1e8d1c8eb9ad",
+   "nodeId": "node_rk1dxehnfa",
+   "title": "REF · photo_qiaoqian"
+  },
+  "poster_ai": {
+   "uploadResourceId": "a6777412-a3ff-489a-b68e-5955a4ba5fe2",
+   "updateId": "d23e0a1e-0e17-46f7-a257-d7970f8a0efb",
+   "nodeId": "node_a6jfsvm62x",
+   "title": "REF · poster_ai"
+  },
+  "photo_nanjing": {
+   "uploadResourceId": "04f5a32e-00a4-42d7-aa5b-afd5ba8c69d6",
+   "updateId": "659357a5-51a7-4a64-89d7-a0e777fdd16e",
+   "nodeId": "node_xyvqakw045",
+   "title": "REF · photo_nanjing"
+  },
+  "logo_new": {
+   "uploadResourceId": "3fe909b9-d507-467f-8cfa-1ac810f56066",
+   "updateId": "e4b0cf47-b7d3-4a1d-972b-c18a67bc2f55",
+   "nodeId": "node_4chfsc7ksn",
+   "title": "REF · logo_new"
+  },
+  "logo_mark_new": {
+   "uploadResourceId": "e5076e39-b003-4ea0-b7d0-43f6042e6733",
+   "updateId": "a32c160c-2e5b-4b0a-9c5a-e71ad4bb7706",
+   "nodeId": "node_3xw431zmhj",
+   "title": "REF · logo_mark_new"
+  },
+  "ref_layout_a": {
+   "uploadResourceId": "c516d17a-0224-49b6-b8b7-ed2619030741",
+   "updateId": "b3261980-fb66-488b-9c0d-776cccd67b95",
+   "nodeId": "node_m5n6z8jky2",
+   "title": "REF · ref_layout_a"
+  },
+  "ref_layout_b": {
+   "uploadResourceId": "b7ee3bcb-5807-4f73-b82e-3218ee3c5214",
+   "updateId": "462399e2-3b27-4e06-844f-6195ec254575",
+   "nodeId": "node_7z6vjqh5v0",
+   "title": "REF · ref_layout_b"
+  },
+  "t2_qianyue_img25": {
+   "updateId": "76304542-c7b2-4992-a9ec-f5d29e331903",
+   "nodeId": "node_znsqkg1pbx",
+   "title": "试做·签约·ImageMax"
+  },
+  "t2_qianyue_sd5": {
+   "updateId": "693ca744-93c4-4b9d-97a3-9848ec75b542",
+   "nodeId": "node_kbagp06twv",
+   "title": "试做·签约·Seedream5Pro",
+   "submitId": "e5e8c2fa-d500-443a-af2a-512676029751",
+   "submitted": true,
+   "resourceId": "8824facf-4d00-40f5-8268-4e771392ae14",
+   "result": "out_test/t2_qianyue_sd5.png"
+  },
+  "e1": {
+   "updateId": "cf54f615-a9d5-49d6-87f8-8527037ea06d",
+   "nodeId": "node_g0kd2p9rr5",
+   "title": "大事一·换届合影",
+   "submitId": "7ec37832-09e7-44ec-9c71-e8df0911fc42",
+   "submitted": true,
+   "resourceId": "908c26c3-bbfb-4908-9b91-c40f7d0994cd",
+   "result": "out_r1/e1.png"
+  },
+  "e2": {
+   "updateId": "d19418dd-f0ab-4a5f-9c8e-b1cc2cb79787",
+   "nodeId": "node_68ftxhfa7r",
+   "title": "大事二·浙理工签约",
+   "submitId": "c4574320-f344-492f-ad5d-ce5a5f00d5d2",
+   "submitted": true,
+   "resourceId": "129129b0-9b8f-4c2d-9e63-eac02904d177",
+   "result": "out_r1/e2.png"
+  },
+  "e3": {
+   "updateId": "44a39789-f04c-4a72-aa20-1269357bb915",
+   "nodeId": "node_x80ps5exv5",
+   "title": "大事三·乔迁焕新",
+   "submitId": "8327181b-0342-4f89-ac13-1c03ad4338db",
+   "submitted": true,
+   "resourceId": "1f9847b2-8730-4aca-b8e3-b75f06f3ce07",
+   "result": "out_r1/e3.png"
+  },
+  "e4": {
+   "updateId": "1b717d80-34fd-4c32-bd04-7cafab56637f",
+   "nodeId": "node_s28s10ny3v",
+   "title": "大事四·AI大赛",
+   "submitId": "33a9f1a6-489c-452d-b84e-45f206b7fc52",
+   "submitted": true,
+   "resourceId": "ff9598a3-98a1-4c19-a619-fd59a5c84ead",
+   "result": "out_r1/e4.png"
+  },
+  "e5": {
+   "updateId": "0e72e36a-e09b-4e49-8597-708f52e78b61",
+   "nodeId": "node_kd0x4rrpb2",
+   "title": "大事五·杭州环北采批节",
+   "submitId": "f19224a0-31ea-4b45-8b2f-43028e686f34",
+   "submitted": true,
+   "resourceId": "6f41d207-4970-4c2a-b823-384031084398",
+   "result": "out_r1/e5.png"
+  },
+  "e6": {
+   "updateId": "e8539208-b4c6-4eee-843a-6b1499da02e6",
+   "nodeId": "node_y4w5j39j3b",
+   "title": "大事六·南京设计大赛",
+   "submitId": "84f0a88c-4ba2-4901-a059-6bf5d71002f7",
+   "submitted": true,
+   "resourceId": "5bc5b409-21e0-4dcf-b748-5bb8c95464fb",
+   "result": "out_r1/e6.png"
+  },
+  "e7": {
+   "updateId": "85c4ff80-3771-42a9-8cd5-aebbe7ef20be",
+   "nodeId": "node_660fx0h2wx",
+   "title": "大事七·亚欧商厦店庆",
+   "submitId": "9920576e-0e6b-4eeb-8717-428b140a49f2",
+   "submitted": true,
+   "resourceId": "88a1a56f-a604-45cc-9533-6175ba309ea4",
+   "result": "out_r1/e7.png"
+  },
+  "e8": {
+   "updateId": "366a5987-b732-481d-8fb4-f7cbd4d8d0f8",
+   "nodeId": "node_f17bfxhy80",
+   "title": "大事八·亚欧国际观光厅",
+   "submitId": "fe761811-1176-48e4-bd84-ee4d3f96acec",
+   "submitted": true,
+   "resourceId": "f8b0a12c-daf4-4332-b4aa-4dbb95ecf6b3",
+   "result": "out_r1/e8.png"
+  },
+  "end": {
+   "updateId": "b255af2d-8175-4292-bae5-a68a0e7b6ef8",
+   "nodeId": "node_z529rrdmnx",
+   "title": "结尾·展望",
+   "submitId": "9171fe91-53eb-41b4-a4bd-45ac55d186d3",
+   "submitted": true,
+   "resourceId": "6a791800-31e0-4944-bc41-d8e51307536f",
+   "result": "out_r1/end.png"
+  },
+  "t_cloud": {
+   "updateId": "f43d31a8-82ee-44ff-9fd5-42bceafb5249",
+   "nodeId": "node_hpcbjky3et",
+   "title": "过渡素材·白云",
+   "submitId": "84e5e665-559f-4307-a1f0-f2fb99664d5a",
+   "submitted": true,
+   "resourceId": "1bb874a8-2fba-45cf-92ab-32bbdef63013",
+   "result": "out_r1/t_cloud.png"
+  },
+  "t_silk": {
+   "updateId": "389a7093-e6c6-4523-9f26-308b9d084603",
+   "nodeId": "node_6vd4mhw6me",
+   "title": "过渡素材·红绸",
+   "submitId": "da390adc-2bad-4910-8fc3-9e39684dcfe1",
+   "submitted": true,
+   "resourceId": "5a8a4703-6da0-499c-8b50-19694ddf9be7",
+   "result": "out_r1/t_silk.png"
+  },
+  "t_birds": {
+   "updateId": "8c1e9aa6-2440-44ac-b350-557e0652ca81",
+   "nodeId": "node_cxk3c3qb09",
+   "title": "过渡素材·燕子",
+   "submitId": "e1244fbf-2c54-42d5-814b-66aa5934ce57",
+   "submitted": true,
+   "resourceId": "8ca6ff3d-deef-4419-bba3-b370c87644b1",
+   "result": "out_r1/t_birds.png"
+  }
+ },
+ "ledger": {
+  "budget": 1500,
+  "runs": [
+   {
+    "key": "t2_qianyue_sd5",
+    "credits": 8,
+    "submitId": "e5e8c2fa-d500-443a-af2a-512676029751",
+    "at": "2026-11-07 09:33"
+   },
+   {
+    "key": "e1",
+    "credits": 8,
+    "submitId": "7ec37832-09e7-44ec-9c71-e8df0911fc42",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e2",
+    "credits": 8,
+    "submitId": "c4574320-f344-492f-ad5d-ce5a5f00d5d2",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e3",
+    "credits": 8,
+    "submitId": "8327181b-0342-4f89-ac13-1c03ad4338db",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e4",
+    "credits": 8,
+    "submitId": "33a9f1a6-489c-452d-b84e-45f206b7fc52",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e5",
+    "credits": 8,
+    "submitId": "f19224a0-31ea-4b45-8b2f-43028e686f34",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e6",
+    "credits": 8,
+    "submitId": "84f0a88c-4ba2-4901-a059-6bf5d71002f7",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e7",
+    "credits": 8,
+    "submitId": "9920576e-0e6b-4eeb-8717-428b140a49f2",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "e8",
+    "credits": 8,
+    "submitId": "fe761811-1176-48e4-bd84-ee4d3f96acec",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "end",
+    "credits": 8,
+    "submitId": "9171fe91-53eb-41b4-a4bd-45ac55d186d3",
+    "at": "2026-11-07 09:35"
+   },
+   {
+    "key": "t_cloud",
+    "credits": 8,
+    "submitId": "84e5e665-559f-4307-a1f0-f2fb99664d5a",
+    "at": "2026-11-07 09:41"
+   },
+   {
+    "key": "t_silk",
+    "credits": 8,
+    "submitId": "da390adc-2bad-4910-8fc3-9e39684dcfe1",
+    "at": "2026-11-07 09:41"
+   },
+   {
+    "key": "t_birds",
+    "credits": 8,
+    "submitId": "e1244fbf-2c54-42d5-814b-66aa5934ce57",
+    "at": "2026-11-07 09:41"
+   }
+  ]
+ }
+}
