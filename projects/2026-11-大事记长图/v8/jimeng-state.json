@@ -183,6 +183,168 @@
    "submitted": true,
    "resourceId": "8ca6ff3d-deef-4419-bba3-b370c87644b1",
    "result": "out_r1/t_birds.png"
+  },
+  "style_a": {
+   "uploadResourceId": "c9c9a5e4-b1e4-4510-a0bf-f50f11055a93",
+   "updateId": "b5313258-8b39-40bc-bfae-529b12c10770",
+   "nodeId": "node_3qyykhn402",
+   "title": "REF · style_a"
+  },
+  "style_b": {
+   "uploadResourceId": "e0b2e820-bd28-40d5-b5cb-305aa766eb77",
+   "updateId": "8be0e078-161d-45f7-a702-9860a782bc24",
+   "nodeId": "node_2f9vnyy8cs",
+   "title": "REF · style_b"
+  },
+  "style_c": {
+   "uploadResourceId": "fec11686-323e-4e99-a67a-66fd926e8076",
+   "updateId": "6e3cc77f-0d4f-4bc9-96ac-3e90095bdb1e",
+   "nodeId": "node_25w8zr1hde",
+   "title": "REF · style_c"
+  },
+  "i1": {
+   "updateId": "24b50c22-dc98-4f2b-856e-2c2a8509ada3",
+   "nodeId": "node_saz954jgkq",
+   "title": "插画·一 换届",
+   "result": "out_r3/i1.png",
+   "submitId": "83812e4e-3ff3-40be-8f9f-3791ad502232",
+   "submitted": true,
+   "resourceId": "16479e50-5399-4ccb-b999-63303ed4913b"
+  },
+  "i2": {
+   "updateId": "90f7fdd7-998b-41ed-8796-4744e3e4adde",
+   "nodeId": "node_2f69w4tq69",
+   "title": "插画·二 校企",
+   "result": "out_r3/i2.png",
+   "submitId": "b8c81b68-2be6-4444-a38e-2c426ecd3218",
+   "submitted": true,
+   "resourceId": "8afb184c-2437-434c-b353-72ec60b19424"
+  },
+  "i3": {
+   "updateId": "e2780de4-6646-40f6-90fd-9b8dc1e577cd",
+   "nodeId": "node_gk5e5as7g9",
+   "title": "插画·三 乔迁",
+   "result": "out_r3/i3.png",
+   "submitId": "a52f6d78-3bd0-4098-a343-94389d5b2207",
+   "submitted": true,
+   "resourceId": "21705951-f21d-488d-ae39-f155cec6f597"
+  },
+  "i4": {
+   "updateId": "831e1060-ea14-4277-9a05-91fba243028c",
+   "nodeId": "node_mpse7w5b00",
+   "title": "插画·四 AI大赛",
+   "result": "out_r3/i4.png",
+   "submitId": "f1fe8e32-6af4-419b-8479-b6d9c8c97cae",
+   "submitted": true,
+   "resourceId": "f5a85d38-3800-4be2-8f2a-8a1beebc7fcd"
+  },
+  "i5": {
+   "updateId": "e6bfee61-1a1a-4ca0-83ac-89005da5452e",
+   "nodeId": "node_x906606nq6",
+   "title": "插画·五 采批节",
+   "result": "out_r3/i5.png",
+   "submitId": "7f8edc63-cb03-4bc7-afa0-eeb1b567cc88",
+   "submitted": true,
+   "resourceId": "8d648279-6b10-416a-9b8a-078cfcf0b224"
+  },
+  "i6": {
+   "updateId": "4c451226-baaa-4ebd-9f55-82222701fb9d",
+   "nodeId": "node_rmzc734rp2",
+   "title": "插画·六 金陵",
+   "result": "out_r3/i6.png",
+   "submitId": "413a22b2-28b4-49d0-a5c9-24085ca15eee",
+   "submitted": true,
+   "resourceId": "10296291-95ee-4c6b-a105-477111819068"
+  },
+  "i7": {
+   "updateId": "5378eaad-4f4d-42b3-9a21-3f4852cd0660",
+   "nodeId": "node_y0z9y146aw",
+   "title": "插画·七 金城",
+   "result": "out_r3/i7.png",
+   "submitId": "1e2513fb-b445-4b4d-968b-2f1949d1353b",
+   "submitted": true,
+   "resourceId": "c7b1e505-31bc-4026-847b-f44c2b237647"
+  },
+  "i8": {
+   "updateId": "5fd21fe7-a450-423c-be5d-66ed3a7d56b3",
+   "nodeId": "node_d5yxknh307",
+   "title": "插画·八 观光",
+   "result": "out_r3/i8.png",
+   "submitId": "9b692a09-c17d-47ac-9938-11fd3565e40c",
+   "submitted": true,
+   "resourceId": "d1f46844-ed41-47a2-8b37-5328a74cc760"
+  },
+  "c1": {
+   "updateId": "9d8f3431-93d2-4bdd-b2b2-9865429433c1",
+   "nodeId": "node_qwc09kkza5",
+   "title": "书法·稳舵",
+   "submitId": "4b2293f1-7f49-48c4-9b72-206dd78faaff",
+   "submitted": true,
+   "resourceId": "e322b11d-2e43-423d-bbf4-4e4cf6f419d6",
+   "result": "out_r3/c1.png"
+  },
+  "c2": {
+   "updateId": "2b0eca9d-42fc-4705-aa5f-48c9ea465f13",
+   "nodeId": "node_hp047n5hjp",
+   "title": "书法·校企",
+   "submitId": "84e6ffae-34f9-4620-8692-d5b10f94eb44",
+   "submitted": true,
+   "resourceId": "a33ac07b-7591-466a-a6a2-0ea46e3b5dba",
+   "result": "out_r3/c2.png"
+  },
+  "c3": {
+   "updateId": "6c99d21b-46de-4659-9c3b-1ed693a437f6",
+   "nodeId": "node_qp05q6tpg6",
+   "title": "书法·乔迁 v2",
+   "result": "out_r3/c3.png",
+   "submitId": "63ccd6e0-6f6b-449e-a961-d38c5a0279d8",
+   "submitted": true,
+   "resourceId": "487420ea-efa6-40be-9d48-78efd51d910a"
+  },
+  "c4": {
+   "updateId": "25303c5d-65a5-49f3-8708-0fc0e7a570b4",
+   "nodeId": "node_3584faf6dt",
+   "title": "书法·智绘",
+   "submitId": "008ca05d-4398-4c1e-9ce0-933d50977126",
+   "submitted": true,
+   "resourceId": "fa3d889c-607b-4f63-abd7-429dababf349",
+   "result": "out_r3/c4.png"
+  },
+  "c5": {
+   "updateId": "8d7b1759-2d87-4dce-8660-82e46f40d7fe",
+   "nodeId": "node_6c8w86d58g",
+   "title": "书法·采批",
+   "submitId": "cba35584-102d-45c1-9330-da9cceb70fff",
+   "submitted": true,
+   "resourceId": "56aaea8c-92ce-4042-9aa4-de99b4e1d84f",
+   "result": "out_r3/c5.png"
+  },
+  "c6": {
+   "updateId": "21b897dc-348b-4e33-86cc-f1103b82a114",
+   "nodeId": "node_t8kxpb9tgm",
+   "title": "书法·金陵",
+   "submitId": "7c66cc98-19ab-4b6f-85bf-5b32e9892662",
+   "submitted": true,
+   "resourceId": "ebc038dc-efc4-4170-829f-4366beab9c93",
+   "result": "out_r3/c6.png"
+  },
+  "c7": {
+   "updateId": "df925f49-89a1-467c-81e4-a97b4f5cc623",
+   "nodeId": "node_dnxnmbgkkt",
+   "title": "书法·金城",
+   "submitId": "045913a1-4bbf-4aa5-8d71-57fea6da41e5",
+   "submitted": true,
+   "resourceId": "89e2bf73-7455-4263-9b26-71abc2428f71",
+   "result": "out_r3/c7.png"
+  },
+  "c8": {
+   "updateId": "02467a71-c211-4ca6-bfc2-87e6616869d0",
+   "nodeId": "node_h517nx805c",
+   "title": "书法·观光",
+   "submitId": "95acd900-eee1-476d-9443-98850b956485",
+   "submitted": true,
+   "resourceId": "60317440-0e92-4c70-b98f-ef73cbfdf31c",
+   "result": "out_r3/c8.png"
   }
  },
  "ledger": {
@@ -265,6 +427,156 @@
     "credits": 8,
     "submitId": "e1244fbf-2c54-42d5-814b-66aa5934ce57",
     "at": "2026-11-07 09:41"
+   },
+   {
+    "key": "i1",
+    "credits": 8,
+    "submitId": "37813de4-9c9a-42ec-9432-b36ad2d884cf",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i2",
+    "credits": 8,
+    "submitId": "e145b416-4f5f-4568-add9-76f11e7d5cdc",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i3",
+    "credits": 8,
+    "submitId": "34203d1a-b11b-48eb-adfc-5854852769b1",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i4",
+    "credits": 8,
+    "submitId": "585aff23-19d1-4884-bf10-a2f85c216a09",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i5",
+    "credits": 8,
+    "submitId": "fef10905-0811-4645-8b8d-502b8e95b0f4",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i6",
+    "credits": 8,
+    "submitId": "4f656aa3-3a92-4064-8c36-a56ab58fae28",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i7",
+    "credits": 8,
+    "submitId": "ece8e31d-f703-429a-81f2-9d95bc43301b",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i8",
+    "credits": 8,
+    "submitId": "9eb920e2-1ff0-4cd6-847b-eaee6164f878",
+    "at": "2026-11-07 10:17"
+   },
+   {
+    "key": "i1",
+    "credits": 8,
+    "submitId": "83812e4e-3ff3-40be-8f9f-3791ad502232",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i2",
+    "credits": 8,
+    "submitId": "b8c81b68-2be6-4444-a38e-2c426ecd3218",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i3",
+    "credits": 8,
+    "submitId": "a52f6d78-3bd0-4098-a343-94389d5b2207",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i4",
+    "credits": 8,
+    "submitId": "f1fe8e32-6af4-419b-8479-b6d9c8c97cae",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i5",
+    "credits": 8,
+    "submitId": "7f8edc63-cb03-4bc7-afa0-eeb1b567cc88",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i6",
+    "credits": 8,
+    "submitId": "413a22b2-28b4-49d0-a5c9-24085ca15eee",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i7",
+    "credits": 8,
+    "submitId": "1e2513fb-b445-4b4d-968b-2f1949d1353b",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "i8",
+    "credits": 8,
+    "submitId": "9b692a09-c17d-47ac-9938-11fd3565e40c",
+    "at": "2026-11-07 10:21"
+   },
+   {
+    "key": "c1",
+    "credits": 8,
+    "submitId": "4b2293f1-7f49-48c4-9b72-206dd78faaff",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c2",
+    "credits": 8,
+    "submitId": "84e6ffae-34f9-4620-8692-d5b10f94eb44",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c3",
+    "credits": 8,
+    "submitId": "158898ff-e66d-467f-af53-b041d0b22aec",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c4",
+    "credits": 8,
+    "submitId": "008ca05d-4398-4c1e-9ce0-933d50977126",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c5",
+    "credits": 8,
+    "submitId": "cba35584-102d-45c1-9330-da9cceb70fff",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c6",
+    "credits": 8,
+    "submitId": "7c66cc98-19ab-4b6f-85bf-5b32e9892662",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c7",
+    "credits": 8,
+    "submitId": "045913a1-4bbf-4aa5-8d71-57fea6da41e5",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c8",
+    "credits": 8,
+    "submitId": "95acd900-eee1-476d-9443-98850b956485",
+    "at": "2026-11-07 10:29"
+   },
+   {
+    "key": "c3",
+    "credits": 8,
+    "submitId": "63ccd6e0-6f6b-449e-a961-d38c5a0279d8",
+    "at": "2026-11-07 13:22"
    }
   ]
  }

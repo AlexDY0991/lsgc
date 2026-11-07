@@ -90,3 +90,4 @@ skill 和工具从 CoolFly 品牌片项目（仓库 alexdy0991/productvideo）�
   - 即梦 CLI 1.3.0 已装（安装脚本先读后运行）、已登录（到 2026-11-07 15:27 UTC），账号 maestro，20,745 积分。**注意：第一次 `auth wait` 不带 `--timeout` 卡住导致授权码过期；要用 `auth wait --device-code X --timeout 60s` 分段等。**
   - 即梦画布「丽尚国潮 2026 大事记长图」`ea9c4282-a3c1-4459-b511-0f054c7b1e59`，状态 `projects/2026-11-大事记长图/v8/jimeng-state.json`；资产已全部上传。这个账号只能用即梦自家模型（Seedream 等），外部模型无权限。
   - **大事记长图 v8** 在 `projects/2026-11-大事记长图/v8/`（README、plan.md），新 docx 内容和照片在 `content_v2/`。
+- 2026-11-07（续 2）：用户说 v8 也不对，给了新参考「两会新观察｜人工智能+」（`refs/v9/`），要求**风格和形式完全照它做**，内容换成大事记。已做 v9：长图（含 docx 摘句版 + 无字版）+ 8 张 1:3 毛笔大字海报，说明在 `projects/2026-11-大事记长图/v8/README_v9.md`。即梦积分累计 304 / 1500（项目预算）。
